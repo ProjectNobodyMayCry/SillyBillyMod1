@@ -1540,7 +1540,6 @@ assets:
    method: copy
    source:
      - name: remastered/magic/magnet1.mag/-1.dds
-     
  - name: remastered/magic/REFLECT_1.mag/-0.dds
    method: copy
    source:
@@ -1625,7 +1624,6 @@ assets:
    method: copy
    source:
      - name: remastered/magic/reflect1.mag/-2.dds
-
 # Map
  - name: remastered/map/eh02.map/-0.dds
    method: copy
@@ -2884,7 +2882,6 @@ assets:
    method: copy
    source:
      - name: remastered/map/eh03.map/-99.dds
-
 # Menu
  - name: remastered/menu/us/camp.2ld/-0.png
    method: copy
@@ -2950,7 +2947,6 @@ assets:
    method: copy
    source:
      - name: remastered/menu/us/title.2ld/-11.png
-     
 # MSN
  - name: remastered/msn/us/TT04_MS107.bar/-0.png
    method: copy
@@ -2964,7 +2960,6 @@ assets:
    method: copy
    source:
      - name: remastered/msn/us/TT10_WORK_TIMBER.bar/-0.png
-     
 # OBJ
  - name: remastered/obj/F_BARRICADE_03.a.us/-0.dds
    method: copy
@@ -3791,7 +3786,6 @@ assets:
    method: copy
    source:
      - name: remastered/obj/P_EX100.mdlx/-5.dds
-     
 # P_EX100_BTLF
  - name: remastered/obj/P_EX100_BTLF.a.us/-0.dds
    method: copy
