@@ -1,0 +1,4940 @@
+﻿2865: Open Menu
+---
+2866: The Spooky Steps
+---
+2867: The Animated Bag
+---
+2868: The Friend from Beyond the Wall
+---
+2869: The Moans from the Tunnel
+---
+2870: The Doppelganger
+---
+2871: The ghost train
+---
+2872: The empty mansion
+---
+2873: Did you know the steps to Sunset Station
+extend as you climb down them?
+---
+2874: Rai gets confused when counting the steps.
+That´s so like him!
+---
+2875: Do you know about the bag on Sunset Hill?
+It´s creepy--it moves around like it´s alive.
+---
+2876: Whew. It was just a dog trapped in a bag.
+He´ll be all right now.
+---
+2877: Did you know at the end of the alley, a ball
+will come out of the wall?
+Sometimes there´s more than one.
+---
+2878: It´s just a ball to play with.
+It looks like someone was playing
+a game earlier.
+---
+2879: There´s a creepy moaning sound coming
+from the tunnel in Sunset Terrace.
+Do you think it could be a ghost...?
+---
+2880: Vivi was just practicing for the Struggle
+battle. The tunnel´s echo turned his voice
+into a creepy moan.
+---
+2881: Did you know that people have been
+seeing their doppelgangers in
+the corner of Sunset Terrace?
+---
+2882: It was just their own reflection in the
+water. The clarity is amazing!
+---
+2883: Did you know about the invisible ghost
+train that rides the tracks to Sunset Station?
+Who could discover an invisible train...?
+---
+2884: (Tentative) The ghost train was actually a ◯◯!
+---
+2885: The empty mansion guide #0
+---
+2886: (Tentative) The mansion´s secret was actually a ◯◯!
+---
+2887: {:icon dynamic-triangle}Journal
+---
+2888: Mail Delivery
+---
+2889: Cargo Climb
+---
+2890: Grandstander
+---
+2891: Poster Duty
+---
+2892: {:width 95}Bumble-Buster
+---
+2893: Junk Sweep
+---
+2894: Cooks R´ Us
+---
+2895: A Helping Hand.
+---
+2896: I need someone to
+deliver some letters
+for me.
+---
+2898: Needing a Strong Back.
+---
+2899: Looking for someone to
+carry some stuff.
+Anyone will do.
+---
+2901: Wanna Be Famous?
+---
+2902: Looking for someone
+to put on a great
+street performance.
+---
+2904: Attention! Attention!
+---
+2905: I need someone who
+can run fast and
+put up posters in
+designated areas!
+---
+2907: Bee Careful!
+---
+2908: There are bees 
+everywhere!
+I need them taken 
+care of!
+---
+2910: A Dirty Job.
+---
+2911: Will someone lend
+a hand disposing
+some junk?
+---
+2913: Looking for cooks!
+---
+2914: Looking for someone
+who´s a great cook.
+---
+2916: Yes
+---
+2917: No
+---
+2918: Select a Job.
+---
+2919: Choose this Job?
+---
+12137: A key...blade?
+---
+12138: A Keyblade...
+---
+12139: What was that about?
+---
+12140: Oh!
+---
+12141: Sorry...about that...
+---
+12142: Do you guys think we´ll always
+be together like this?
+---
+12143: I sure hope so.
+---
+12144: Huh? Where did that come from?
+---
+12145: Oh, well, you know.{:delay 64 00}{:clear }Just thinking out loud.
+---
+12146: Well, I doubt we can be together forever.{:delay 96 00}{:clear }{:delay 37 00}{:clear }But isn´t that what growing up´s
+all about?{:delay AC 00}{:clear }What´s important isn´t how often
+we see each other,{:delay B4 00}{:clear }but how often we think
+about each other. Right?
+---
+12147: {:delay 32 00}{:clear }Get that off a fortune cookie?
+---
+12148: That´s it, no more ice cream for you!{:delay 78 00}{:clear }{:delay 3C 00}{:clear }Man, today´s turning out to be a drag.
+---
+12149: Maybe because of yesterday´s memory thief.
+---
+12150: Nuh-uh. You know what it is?{:delay A2 00}{:clear }We don´t want summer vacation
+to be over. That´s all!
+---
+12151: So, how about this?
+---
+12152: We all go to the beach!{:delay 78 00}{:clear }{:delay 25 00}{:clear }And why do we go to the beach?{:delay 78 00}{:clear }Because we haven´t gone
+once this entire vacation!
+---
+12153: No?
+---
+12154: Aw, c´mon!
+---
+12155: Maybe you forgot, but we´re broke.
+---
+12156: Maybe you forgot I´m smart!
+---
+12157: {:unk13 82 00 46 00}{:unk06 00}{:unk08 01 01 05}Hurry up, Roxas!
+---
+12158: {:unk13 4A 01 63 00}{:unk06 00}{:unk08 01 01 05}We´re going to Market Street!
+---
+12159: Just two days to go.
+---
+12160: You and I have to make the finals! {:delay 61 00}{:clear }That way, no matter who wins,
+the four of us split the prize!
+---
+12161: Okay, you´re on.
+---
+12162: You two are gonna clean up!
+---
+12163: Go get ´em!
+---
+12164: It´s a promise!
+---
+12165: {:unk13 F0 00 46 00}{:unk06 00}{:unk08 01 01 06}Now, let´s get
+down to business.
+---
+12166: {:unk13 E6 00 46 00}{:unk06 00}{:unk08 01 01 06}One ticket to the beach is 900 munny.
+How much for four of us?
+---
+12167: {:unk13 78 00 64 00}{:unk06 00}{:unk08 01 01 06}3600 munny.
+---
+12168: {:unk13 E6 00 46 00}{:unk06 00}{:unk08 01 01 06}And 300 each to spend there.
+What´s that for all of us?
+---
+12169: {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 05}1200 munny.
+A total of 4800 munny.
+---
+12170: {:unk13 86 01 5A 00}{:unk06 00}{:unk08 01 01 06}To spend on what?
+---
+12171: {:unk13 D2 00 3C 00}{:unk06 00}{:unk08 01 01 06}Pretzels, of course!
+What else is there?
+---
+12172: {:unk13 7E 01 51 00}{:unk06 00}{:unk08 01 01 06}Well, there´s always
+watermelon.
+---
+12173: {:unk13 D2 00 46 00}{:unk06 00}{:unk08 01 01 06}Too pricey. They´re,
+like, 2000 munny apiece.
+---
+12174: {:unk13 7C 01 5A 00}{:unk06 00}{:unk08 01 01 06}Pretzels it is.
+---
+12175: {:unk13 0E 01 46 00}{:unk06 00}{:unk08 01 00 05}So, where were we?
+---
+12176: {:unk13 C5 00 50 00}{:unk06 00}{:unk08 01 00 05}We need 4800 munny altogether.
+But all we have is...
+---
+12177: {:unk13 72 01 50 00}{:unk06 00}{:unk08 01 00 07}I´ve got 800.
+---
+12178: {:unk13 82 00 5A 00}{:unk06 00}{:unk08 01 00 05}...650.
+---
+12179: {:unk13 F6 00 61 00}{:unk06 00}{:unk08 01 01 06}150. Sorry.
+---
+12180: {:unk13 18 01 46 00}{:unk06 00}{:unk08 01 00 05}That´s 1600 munny!
+We need another 3200.
+---
+12181: {:unk13 18 01 46 00}{:unk06 00}{:unk08 01 00 05}Let´s find ourselves some
+odd jobs and earn some dough!{:clear }We have ´til the train leaves
+to earn 800 munny each!
+---
+12182: {:unk13 54 01 64 00}{:unk06 00}{:unk08 01 01 07}Meet at the station
+with cash in hand!
+---
+12183: {:unk13 78 00 82 00}{:unk06 00}{:unk08 01 00 05}Didn´t he say he
+had it covered?
+---
+12184: {:unk13 D8 00 7B 00}{:unk06 00}{:unk08 01 00 05}Whatever. Those pretzels
+are sounding pretty good.
+---
+12185: {:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}All present and
+accounted for?
+---
+12186: {:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}What´ve we got?
+---
+12187: {:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Let´s see...
+---
+12188: {:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Just this.
+---
+12189: {:unk13 37 01 4C 00}{:unk06 00}{:unk08 01 01 06}Good job.
+---
+12190: {:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}All present and
+accounted for?
+---
+12191: {:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}What´ve we got?
+---
+12192: {:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Let´s see...
+---
+12193: {:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Just this.
+---
+12194: {:unk13 5C 01 39 00}{:unk06 00}{:unk08 01 01 06}Nice going,
+Roxas!
+---
+12195: {:unk13 8F 00 7F 00}{:unk06 00}{:unk08 01 01 05}I knew you would do it!
+---
+12196: {:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}All present and
+accounted for?
+---
+12197: {:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}What´ve we got?
+---
+12198: {:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Let´s see...
+---
+12199: {:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Just this.
+---
+12200: {:unk13 6E 01 3D 00}{:unk06 02}{:unk08 03 01 06}Whoa, Roxas!
+That´s awesome!
+---
+12201: {:unk13 4C 01 66 00}{:unk06 00}{:unk08 01 00 06}We can even buy a
+watermelon with this!
+---
+12202: {:unk13 79 00 8C 00}{:unk06 00}{:unk08 01 01 07}Perfect!
+---
+12203: Nice work, everyone. Added to what we
+started with, we now have...
+---
+12204: Tada! 5000 munny!
+---
+12205: Sweet!
+---
+12206: Let´s get tickets!
+---
+12207: We can´t be together forever...{:delay 5D 00}{:clear }so we´d better make the time we do
+have something to remember.
+---
+12208: Huh?
+---
+12209: Gotcha!
+---
+12210: Whoa!
+---
+12211: 
+---
+12212: 
+---
+12213: What?
+---
+12214: Roxas! Three minutes!
+---
+12215: Okay!
+---
+12216: Four students!
+---
+12217: Roxas, the money.
+---
+12218: Wait--
+---
+12219: No!
+---
+12220: Huh?
+---
+12221: Where are you going?
+---
+12222: Remember when I fell?
+---
+12223: Guy?
+---
+12224: He couldn´t have gotten too far...
+---
+12225: What are you talking about?
+---
+12226: There was no guy.
+---
+12227: 
+---
+12228: But he...
+---
+12229: There wasn´t... Really?
+---
+12230: Oh boy...
+---
+12231: There wasn´t anyone...there?
+---
+12232: It´s melting.
+---
+12233: Sorry.
+---
+12234: Cheer up already!
+---
+12235: That was definitely weird, though.
+---
+12236: Strange.
+---
+12237: You said it.
+---
+12238: Can you feel Sora?
+---
+12239: Can you feel Sora?
+---
+12240: Restoration at 28%.
+---
+12241: Naminé, hurry.
+---
+12242: Is it really that hard to make a beach?
+---
+12243: We´d be giving the enemy another
+entry point.
+---
+12244: And this?
+---
+12245: We can always buy some
+sea salt ice cream.
+---
+12246: Objects from that town must be kept out
+of the real world.{:delay EB 00}{:clear }You can delete that.
+---
+12247: Who are you?
+---
+12248: Huh...?
+---
+12249: {:unk13 18 01 50 00}{:unk06 00}{:unk08 02 00 05}"Meet at the station. Today´s
+ the day we hit the beach--and
+ don´t sweat about the munny!
+                    -- Hayner"
+---
+12250: Hey.
+---
+12251: Morning.
+---
+12253: Hello, Roxas.
+---
+12254: Hi...
+---
+12255: And you are...?
+---
+12256: I wanted to meet you at least once.
+---
+12257: Me?
+---
+12258: Yes, you.
+---
+12259: Olette dragged me along to go shopping.
+---
+12260: Hey, you wanna come with us?
+---
+12261: Um, uhh, wait...
+Did you just see that--
+---
+12262: He´s stalling...
+---
+12263: Very well, then.
+We´ll see you later, Roxas, okay?
+---
+12264: Y-Yeah...
+---
+12265: Did she go to that haunted mansion?
+---
+12266: Huh?
+---
+12267: Lemme go!
+---
+12268: Hey, chicken wuss.
+---
+12269: Who´s that?
+---
+12270: I dunno,
+but they´ve already crossed the line!
+---
+12271: Find a weapon!
+---
+12272: Not good...
+---
+12273: Roxas! Use the Keyblade!
+---
+12274: My name is Naminé.
+---
+12275: Roxas... {:delay 34 00}{:clear }{:delay 60 00}{:clear }Do you remember your true name?
+---
+12276: Say no more, Naminé.
+---
+12277: But if no one tells him, Roxas will...
+---
+12278: It´s best he doesn´t know the truth.
+---
+12279: Hey! You´re that pickpocket!
+---
+12281: Seifer, strike a pose, y´know?
+---
+12282: How´s this?
+---
+12283: That´s totally perfect, y´know!
+---
+12284: How ´bout one more, y´know?
+---
+12285: What´s that for!?
+---
+12286: Keepsake.
+---
+12287: Those freaks in the white jumpsuits
+are gone, y´know?
+---
+12288: Cakewalk.
+---
+12289: What were those things?
+---
+12290: Outsiders, that´s what.
+---
+12291: And if they don´t wise up
+to the rules around here,{:delay AA 00}{:clear }I might have to take
+"disciplinary measures."
+---
+12292: Oh yeah, Seifer´s always lookin´ after
+the town, y´know?
+---
+12293: Hmph.
+---
+12294: Wait up!
+---
+12295: Hey! No chickening out of the tournament
+tomorrow!
+---
+12296: We´ll be waitin´, y´know?
+---
+12297: So...you hung out with Seifer´s gang today?
+---
+12298: N-no... It´s not like that...
+---
+12299: Oh yeah! How was the beach?
+Wasn´t that today?
+---
+12300: We didn´t go.
+It wouldn´t be the same without you, right?
+---
+12301: ...Sorry.
+---
+12302: Hey...how ´bout we go tomorrow?
+We could get those pretzels and...
+---
+12303: I promised I´d be somewhere.
+---
+12304: Ohh...
+---
+12305: Oh!
+---
+12306: You and I have to make the finals! {:delay 61 00}{:clear }That way, no matter who wins,
+the four of us split the prize!
+---
+12307: Okay, you´re on.
+---
+12308: You two are gonna clean up!
+---
+12309: Go get ´em!
+---
+12310: It´s a promise!
+---
+12311: I´m outta here.
+---
+12312: Restoration at 48%.
+---
+12313: Was that Naminé made of data?
+---
+12314: No...
+Naminé hijacked the data herself.{:delay 04 01}{:clear }{:delay 3C 00}{:clear }Look what she´s done now...{:delay 64 00}{:clear } {:delay 3F 00}{:clear }She´s totally beyond my control!
+---
+12315: Calm down.
+---
+12316: It doesn´t matter.{:delay 64 00}{:clear } {:delay 69 00}{:clear }As long as Naminé accomplishes her goal...{:delay CF 00}{:clear }{:delay 30 00}{:clear }we needn´t worry about what befalls Roxas.
+---
+12999: I had the money before that.
+I bet that guy took it!
+---
+13173: Another dream about him...
+---
+13174: Man, doesn´t that tick you off?
+---
+13175: Yeah, that´s just wrong.
+---
+13176: Seifer´s gone too far this time.
+---
+13177: I mean, it´s true that stuff´s
+been stolen around town. {:delay E1 00}{:clear }And we´ve got a score to settle
+with Seifer and everything.{:delay A6 00}{:clear }So if he wants to think we did it,
+I can´t really blame him.{:delay FA 00}{:clear }See...that´s not what really bugs me.
+---
+13178: What REALLY bugs me{:delay 58 00}{:clear }is that he´s goin´ around tellin´
+everybody we´re the thieves!{:delay C3 00} {:clear } {:delay 14 00}{:clear }Now the whole town and their mothers
+are treating us like the Klepto Club!
+---
+13179: Have you ever been this ticked off
+before in your life?{:delay B4 00}{:clear } {:delay 0A 00}{:clear }´Cause I haven´t.{:delay 32 00}{:clear }Nuh-uh, NEVER.
+---
+13180: Now...what to do.
+---
+13181: Uh, well...
+---
+13182: We could find the real thieves.
+That would set the record straight.
+---
+13183: Hey, that sounds fun!
+---
+13184: What about Seifer?
+---
+13185: First, we gotta clear our names.{:delay 97 00}{:clear } {:delay 18 00}{:clear }Once we find the real culprit,
+everyone will get off our backs.
+---
+13186: 
+---
+13187: Oh, no!
+---
+13188: They´re gone!{:delay 3A 00}{:clear }Our ---- are gone!
+---
+13189: All our ----, gone?
+---
+13190: You can´t say ------
+why not?
+---
+13191: But you do understand what
+I´m saying, right?{:delay 98 00}{:clear }Our ---- are gone!
+---
+13192: Stolen...
+---
+13193: And not just the ----.{:delay 78 00}{:clear }The word ----! They stole it, too!
+---
+13194: What kinda thief is that?{:delay 80 00}{:clear }Seifer could never
+have pulled that off.
+---
+13195: Yeah!
+---
+13196: All right, time for some recon!
+---
+13197: Huh?
+---
+13198: His heart is returning.
+---
+13199: Doubtless he´ll awaken very soon.
+---
+13200: Roxas, c´mon.
+---
+13201: {:unk13 59 01 91 00}{:unk08 01 00 05}Over here!
+---
+13202: {:unk13 12 01 38 00}{:unk08 01 01 06}Let´s get this
+investigation underway.
+---
+13204: {:unk13 F3 00 42 00}{:unk08 01 00 05}We didn´t steal
+anything, all right?
+---
+13205: {:unk13 6F 01 4C 00}{:unk08 01 00 05}I´d like to believe
+you, but...{:clear }Who else would
+steal that stuff?
+---
+13206: {:unk13 F3 00 4C 00}{:unk08 01 00 05}What stuff?
+---
+13207: {:unk13 54 01 3C 00}{:unk08 01 00 06}As if you didn´t know.
+Hey, I´m not gonna tell you.{:clear }Go ask at the
+accessory shop.
+---
+13208: {:unk13 1B 01 60 00}{:unk08 01 01 06}Go on, Roxas,
+ask her.
+---
+13209: {:unk13 BA 00 4B 00}{:unk08 01 01 06}Oh, it´s you, Roxas...
+Please don´t let me down.{:clear }You used to be one of
+my favorite customers.
+---
+13210: {:unk13 93 00 8A 00}{:unk08 01 01 06}I´m not a thief!
+---
+13211: {:unk13 13 01 4B 00}{:unk08 01 01 06}Okay...
+---
+13212: {:unk13 B2 00 7A 00}{:unk08 01 01 05}It´s no fun having everyone
+suspecting me, ya know.
+---
+13213: {:unk13 CE 00 4B 00}{:unk08 01 01 06}Then you´ve got to find a
+way to clear your name.{:clear }The woman at the candy shop
+is pretty disappointed, too.
+---
+13214: {:unk13 FA 00 48 00}{:unk08 01 00 05}Roxas?{:clear }Have you seen
+my cat around?
+---
+13215: {:unk13 C6 00 31 00}{:unk08 01 01 06}Er...
+---
+13216: {:unk13 F4 00 54 00}{:unk08 01 00 05}Thank you, Roxas.
+---
+13217: {:unk13 A2 00 3B 00}{:unk08 01 01 06}Did they steal something
+from you, too?
+---
+13218: {:unk13 EF 00 45 00}{:unk08 01 00 05}Oh, my, yes.
+Something important.
+---
+13219: {:unk13 A4 00 3B 00}{:unk08 01 01 06}Just so you know,
+we didn´t do it.
+---
+13220: {:unk13 EC 00 54 00}{:unk08 01 00 05}I believe you.
+---
+13221: {:unk13 AB 00 3B 00}{:unk08 01 01 06}Thanks for
+that, ma´am.{:clear }So what did they
+take from you?
+---
+13222: {:unk13 EB 00 45 00}{:unk08 01 00 05}My ----.{:clear }My precious
+----.
+---
+13223: {:unk13 25 01 ED 00}{:unk08 01 01 02}Looks like the culprit
+is going around
+stealing ----.
+---
+13224: {:unk13 26 01 3C 00}{:unk08 01 01 07}And not just
+----,{:clear }but the word
+----, too.
+---
+13225: {:unk13 87 01 FE 00}{:unk08 01 01 02}This isn´t your
+average thief...
+---
+13226: {:unk13 24 01 60 00}{:unk08 01 00 05}I wonder if Seifer would
+know anything about this.
+---
+13227: {:unk13 21 01 3B 00}{:unk08 01 00 05}We gotta talk to him.
+C´mon, to the sandlot!
+---
+13228: Thieves.
+---
+13229: That was low, y´know!
+---
+13230: Oh yeah?
+---
+13231: Nice comeback there, blondie.
+---
+13232: What´d you say!?
+---
+13233: You can give us back
+the ---- now.
+---
+13234: Yeah! You´re the only ones
+who would take it, y´know?
+---
+13236: Replay!
+---
+13237: Now you´re talking!
+---
+13238: I guess if you get on your knees and beg,
+MAYBE I´ll let it slide.
+---
+13240: Roxas!
+---
+13241: Roxas, focus!
+---
+13242: Come on...{:delay 48 00}{:clear } {:delay 22 00}{:clear }quit playin´ around and fight!
+---
+13243: 
+---
+13244: Seifer´s not feelin´ so hot, y´know!
+---
+13245: Tournament decides.
+---
+13247: What was that?
+---
+13248: The thief?
+---
+13249: 
+---
+13250: The righteous reign supreme, y´know?
+---
+13251: Shock!
+---
+13252: Whaddya doin´, y´know?!
+---
+13253: It´s the thief!?
+---
+13254: Get him!
+---
+13255: {:unk13 01 01 CE 00}We have come for you, my liege.
+---
+13256: 
+---
+13257: It´s no use...
+---
+13258: What?
+---
+13259: What...what is this thing?
+---
+13260: What´s this?
+---
+13261: I was his first customer after
+he took over the shop.{:delay C0 00}{:clear }So we took a picture together.
+---
+13262: It´s a really nice photo.
+---
+13263: Oh...!
+---
+13264: Hey! You just said "photo"!
+---
+13265: So, Roxas, tell us about the picture thief.
+---
+13266: Not much to say.
+The pictures were just lying there.
+---
+13267: Then how do we prove we weren´t
+the ones who took ´em?
+---
+13268: It´s a GIRL...
+---
+13269: You look happy, Roxas.
+---
+13270: Do not.
+---
+13271: So, like, anybody else notice that{:delay 91 00}{:clear } all the stolen pictures are of Roxas?
+---
+13272: Ohh.{:delay 63 00}{:clear }So that´s why everyone thought it was us.
+---
+13273: You mean Seifer didn´t go around
+accusing us after all?
+---
+13274: Are they really all of me?
+---
+13275: Yep.
+---
+13276: See?
+---
+13277: Look.
+---
+13278: Right? Every single one.
+---
+13279: Wouldn´t it be weird if the thief wanted
+to steal the real Roxas or something?
+---
+13280: C´mon, get serious.{:delay 73 00}{:clear }Why would anyone wanna steal
+a bonehead like Roxas?
+---
+13281: Oh, thanks!
+---
+13282: 
+---
+13283: Where...am I?
+---
+13284: Who´s there?
+---
+13285: Who are you?
+---
+13286: Restoration at 12%.
+---
+13287: Organization miscreants... They´ve found us.
+---
+13288: But...why would the Nobodies
+steal photographs?
+---
+13289: Both are nothing but data to them.{:delay 76 00}{:clear } {:delay 32 00}{:clear }The fools could never tell the difference.{:delay AE 00}{:clear } {:delay 75 00}{:clear }We are running out of time.{:delay 82 00}{:clear } {:delay 53 00}{:clear }Naminé must make haste.
+---
+13290: Right... "Promise"...
+---
+13291: What a mess...
+---
+13292: {:unk13 22 01 50 00}{:unk08 01 00 05}Hurry to the sandlot!
+You´re gonna be late!
+---
+13293: Who´re ya gonna root for?
+---
+13294: Both of them, silly.
+---
+13295: Ladies and gentlemen,
+Struggle-fiends of Twilight Town!{:delay D7 00}{:clear }It´s time for summer´s most sizzling clash!
+---
+13296: That´s right!
+Today is the day for the Struggle{:delay 12 01}{:clear }and title match!
+---
+13297: Who will be the one to
+break through the ranks{:delay 87 00}{:clear }and take on our champion,
+Setzer!?
+---
+13298: Seifer, y´know?
+---
+13299: And who will leave today as our
+new Struggle Champion!?
+---
+13300: Hayner! Roxas!
+---
+13301: Setzerrr!
+---
+13302: Yes, the crowd is fired up, 
+so you know what comes next:
+---
+13303: Let´s...
+---
+13304: STRUGGLE!
+---
+13305: Hey, now.
+It´s time to introduce today´s combatants!{:delay DD 00}{:clear } {:delay 0E 00}{:clear }The four bad boys who struggled
+their way through the preliminaries!
+---
+13306: Regular finalist and head of the
+Twilight Disciplinary Committee: Seifer!
+---
+13307: Completely out of nowhere--{:delay 81 00}{:clear }who knew he´d make it so far THIS year? Vivi!
+---
+13308: An underground favorite and
+local attitude problem: Hayner!{:delay F0 00}{:clear }It´s his first trip to the finals!
+---
+13309: And Struggler number four,{:delay 54 00}{:clear }who happens to be my absolute
+favorite customer: Roxas!
+---
+13310: So, who will win this
+sweltering summer Struggle!?
+---
+13311: AND...{:delay 1E 00}{:clear }a chance to take on our
+defending champion, Setzer!
+---
+13312: It won´t be long now, folks.{:delay 5D 00}{:clear }I suggest our challengers go over the
+official Struggle Rules before we begin!
+---
+13313: {:unk13 44 01 58 00}{:unk08 01 00 05}You already know the rules,
+but a refresher can´t hurt.
+---
+13314: Hey... {:delay 28 00}{:clear }Sorry about yesterday.
+---
+13315: What, you still worried about that?{:delay 78 00}{:clear }You need to learn to let that stuff go.
+---
+13316: I´ve got a lot on my mind.
+---
+13317: Sorry, man.
+---
+13318: Wait, what am I sorry for?
+---
+13319: Our first match of today's Struggle
+tournament will be between{:delay E0 00}{:clear }Roxas and his best friend, Hayner!
+---
+13320: And the winner is Roxas!
+---
+13321: Not even friendship will slow
+this kid down.{:delay 9B 00}{:clear }And Hayner put up a great fight, too.
+---
+13322: I lost.{:delay 64 00}{:clear }Awww, I can´t believe it!
+---
+13323: I guess I taught you well.
+---
+13324: I had a lot of fun fighting you.
+---
+13325: Yeah, well I didn´t, wise guy.
+---
+13326: Hey, let´s find a way to cheer you up.
+---
+13327: Nah, that´s all right.
+---
+13328: Out of the way.
+---
+13329: You in a rush to lose?
+---
+13330: Don´t mess with your elders.
+---
+13331: Whew, just look at those sparks fly!{:delay A8 00}{:clear }I guess Seifer didn´t expect
+to fight one of his own boys!
+---
+13332: When did Vivi get so tough?
+---
+13333: You´re mine!
+---
+13334: I-I´m not sure what just happened...
+---
+13335: Um...but...the winner is Vivi!{:delay EB 00}{:clear }In a positively blistering comeback!
+---
+13336: That´s not Vivi.
+---
+13337: Huh?
+---
+13338: Thrash ´im.
+---
+13339: It looks like Seifer´s withdrawn from
+the Struggle for third place.
+---
+13340: So I´m in third now?{:delay 64 00}{:clear } {:delay 14 00}{:clear }Aw, baby!
+---
+13341: Keep it clean, fellas.
+---
+13342: And now, the match you´ve been waiting for:
+Roxas vs. Vivi!
+---
+13343: Again!?
+---
+13344: Again...
+---
+13345: Roxas. All right.
+Fight fight fight.
+---
+13346: You really don´t remember?{:delay 7A 00}{:clear } {:delay 14 00}{:clear }It´s me.{:delay 46 00}{:clear } {:delay 0A 00}{:clear }You know, Axel.
+---
+13347: Axel?
+---
+13348: Talk about blank with a capital "B."{:delay 93 00}{:clear } {:delay 14 00}{:clear }Man oh man, even the Dusks aren´t gonna
+crack this one.
+---
+13349: Wait a sec, tell me what´s going on!
+---
+13350: This town is his creation, right?{:delay A3 00}{:clear } {:delay 14 00}{:clear }Which means we don´t have time for a
+Q & A.{:delay A5 00}{:clear } {:delay 17 00}{:clear }You´re coming with me,
+conscious or not.{:delay A6 00}{:clear }Then you´ll hear the story.
+---
+13351: Uh-oh.
+---
+13352: What´s going ON!?
+---
+13353: Number 13. Roxas.{:delay BE 00}{:clear } {:delay 14 00}{:clear }The Keyblade´s chosen one.
+---
+13354: Okay, fine!{:delay 55 00}{:clear }You asked for it!
+---
+13355: 
+---
+13356: So it was you.
+---
+13357: Roxas, this man speaks nonsense!
+---
+13358: Roxas, don´t let him deceive you!
+---
+13359: Roxas!
+---
+13360: Roxas!
+---
+13361: Hayner... {:delay 5A 00}{:clear }Pence... {:delay 55 00}{:clear }Olette...
+---
+13362: Hayner! Pence! Olette!
+---
+13363: What?
+What just happened?
+---
+13364: {:delay 0A 00}{:clear }Huh? {:delay 0A 00}{:clear } {:delay 82 00}{:clear }...How did I get here?
+---
+13365: Roxas!
+---
+13366: Ladies and gentlemen, Roxas--{:delay 9E 00}{:clear }our new top Struggler!
+---
+13367: Roxas?
+---
+13368: Setzerrr!
+---
+13369: Roxas! It´s starting!
+---
+13370: You two, play fair now.
+You´re at the top of the bracket.
+---
+13371: There´s only room for one up here.
+---
+13372: Well, may the best man win!
+---
+13373: Hey. Rucksack.{:delay 7E 00}{:clear } {:delay 14 00}{:clear }How about you throw the match for me?
+---
+13374: Roxas! Focus!
+---
+13375: Let me win, and I´ll make it worth your while.
+---
+13376: Get real.
+---
+13377: Roxas, our underdog hero, versus Setzer,
+our defending champion!{:delay 0E 01}{:clear } {:delay 1B 00}{:clear }The winner of this match will be
+the true champion!{:delay B4 00}{:clear } {:delay 16 00}{:clear }That´s bragging rights for a whole year, folks!
+---
+13378: Thanks for the win, partner.
+This is for you.
+---
+13379: Roxas! Roxas!
+---
+13380: Roxas!
+---
+13381: You did it!
+---
+13382: That was awesome, Roxas!
+---
+13383: Roxas! Roxas!
+---
+13384: As promised.
+---
+13385: Thanks a ton, Roxas!
+---
+13386: One more treasure for us to share.
+---
+13387: I´ve got a present, too...for all of us.
+---
+13388: Whoa!
+---
+13389: Naminé...?
+What´s happening to me?
+---
+13390: Who are you?
+And that´s not my name.{:delay 9A 00}{:clear }I´m Kairi.
+---
+13391: Kairi... I know you.{:delay 78 00}{:clear }{:delay 28 00}{:clear }You´re that girl he likes.
+---
+13392: Who?
+---
+13393: Please, a name!
+---
+13394: I´m Roxas.
+---
+13395: Okay, Roxas,
+but can you tell me HIS name?
+---
+13396: You don´t remember my name?{:delay 64 00}{:clear }Thanks a lot, Kairi!
+---
+13397: 
+---
+13398: O-kay,
+I guess I can give you a hint.
+---
+13399: Starts with an "S"!
+---
+13400: His progress is astounding.
+---
+13401: So what happened?
+---
+13402: Naminé´s encounter with Roxas{:delay 78 00}{:clear } {:delay 05 00}{:clear }put his heart in contact
+with Kairi´s.{:delay AA 00}{:clear } {:delay 4F 00}{:clear }And that, in turn, affected Sora.{:delay BF 00}{:clear } {:delay 1E 00}{:clear }You see?
+---
+13403: Naminé...{:delay 5A 00}{:clear } {:delay 1E 00}{:clear }She´s a wonder.
+---
+13404: She wasn´t born like other Nobodies.{:delay 96 00}{:clear } {:delay 3F 00}{:clear }She can interfere with the hearts and
+memories of Sora and those aligned with him.
+---
+13405: But whose Nobody is she?
+---
+13406: I could tell you... {:delay 8B 00}{:clear } {:delay 33 00}{:clear }But first, perhaps you could
+tell me your true name?
+---
+13407: It´s Ansem.
+---
+13408: {:delay D7 00}{:clear } {:delay 76 00}{:clear }It´s an honor, Ansem!
+---
+13409: I´m dreaming...
+---
+13410: But which parts...
+were the dream?
+---
+13411: Only three days left of summer vacation,{:delay 8E 00}{:clear }so don´t even mention that assignment!
+---
+13412: But we agreed we´d get it finished today.
+---
+13413: Yesterday...{:delay 38 00}{:clear }I fell off the station tower, didn´t I?
+---
+13414: You wouldn´t be here if you did!
+---
+13415: But man, that was a close one...
+---
+13416: Stop changing the subject!
+---
+13417: Okay, already!
+---
+13418: You win. We´ll do the homework.{:delay 91 00}{:clear }Stupid independent study.{:delay 6F 00}{:clear } {:delay 0A 00}{:clear }So, anybody got any bright ideas for a topic?
+---
+13419: Maybe we could study the stuff
+that´s happening to me.{:delay EB 00}{:clear } {:delay 0A 00}{:clear }You know, the dreams,
+and the guys in white...
+---
+13420: Forget it.
+---
+13421: Why?
+---
+13422: You know, things have been weird
+with you and the town{:delay 9A 00}{:clear } {:delay 0A 00}{:clear }since the photos were stolen, right?
+---
+13423: Well, tomorrow, we´re all gonna search
+the town and find out what´s been goin´ on.
+---
+13424: Lots of people are helping out.
+---
+13425: All that for me?
+---
+13426: I´ll go get some ice cream!
+---
+13427: {:unk13 EA 00 87 00}{:unk08 01 00 05}There´s this strange
+rumor going around.{:clear }Wanna hear it?
+---
+13428: {:unk13 AE 00 4E 00}{:unk08 01 01 06}You know the stone steps
+at Sunset Station?
+---
+13429: {:unk13 B5 00 51 00}{:unk06 01}{:unk08 01 01 06}We use ´em all the time,
+without even thinking about it.{:clear }But--and this is
+the weird part--{:clear }the steps count different
+going up and down!
+---
+13430: {:unk13 0B 01 50 00}{:unk06 02}{:unk08 03 00 05}Seriously!?
+---
+13431: {:unk13 49 01 79 00}{:unk08 01 01 05}And there are six other
+weird stories like that.{:clear }It´s like...{:clear }the seven wonders
+of Twilight Town.
+---
+13432: {:unk13 40 01 50 00}{:unk08 01 00 05}We should investigate those
+for our school project!{:clear }Pence, you´re a genius!
+---
+13433: {:unk13 E6 00 50 00}{:unk08 01 00 05}There might be other
+rumors going around, too.{:clear }Let´s split up!{:clear }I´m gonna look for
+the seven wonders...
+---
+13434: {:unk13 33 01 56 00}{:unk08 01 00 05}Olette and I will go
+find some new rumors!{:clear }C´mon!
+---
+13435: {:unk13 22 01 50 00}{:unk08 01 00 05}That leaves you
+and me, Roxas.{:clear }Let´s try the train first.
+To the station!
+---
+13436: The time has come! Our hunt
+for the seven wonders begins!
+---
+13437: Whoa! Find new rumors already?
+---
+13438: Nothing on Market Street.
+---
+13439: You twerps aren´t
+gonna scoop us.{:delay 8C 00}{:clear } {:delay 1E 00}{:clear } We´re going to the terrace with you.
+---
+13440: Hayner, it´s not a race!
+---
+13441: Well, it is now!
+---
+13442: C´mon, we can all go.
+---
+13443: Hey... What´d I do with it?
+---
+13444: Olette! Hurry!
+---
+13445: Huh.
+---
+13446: Aren´t these the steps you talked about?{:delay 64 00}{:clear } {:delay 50 00}{:clear }The ones that count different
+going up and down?
+---
+13447: Umm...actually, it´s the
+stupidest thing ever, but...
+---
+13448: What?
+---
+13449: Rai´s the one who counted.{:delay 64 00}{:clear } {:delay 0C 00}{:clear }He´s like, "Every time I count, it´s
+different, Y´KNOW?" Ha ha ha ha!
+---
+13450: So...he just counted wrong?
+---
+13451: Hey, no worries.
+---
+13452: You know...{:delay 4B 00}{:clear }that last wonder wasn´t
+exactly wonderful.
+---
+13453: I understand, say no more.
+---
+13454: But this next one´s gonna
+be really great!{:delay 90 00}{:clear }Wonder number Six!
+---
+13455: We got another lead!
+---
+13456: "The Ghost Train Mystery"...
+---
+13457: Everybody knows about Wonder number Six!
+---
+13458: Yeah, well, I didn´t.
+---
+13459: Did you find out where the train runs?
+---
+13460: You can see it from Sunset Hill.
+---
+13461: If the rumors are true,
+it´ll be here any minute...
+---
+13462: For they say the train is empty.{:delay A5 00}{:clear } {:delay 18 00}{:clear } No driver,{:delay 3C 00}{:clear } {:delay 1A 00}{:clear }no conductor,{:delay 41 00}{:clear } {:delay 1F 00}{:clear } no passengers...{:delay 47 00}{:clear } {:delay 18 00}{:clear }NO RETURN.
+---
+13463: We´ve gotta make it to the beach next year.
+---
+13464: Yeah. We better get jobs
+the second vacation starts.
+---
+13465: Good afternoon, slackers.{:delay 6E 00}{:clear } {:delay 20 00}{:clear } What are you doing out here?
+---
+13466: What do you care?
+---
+13467: I don´t. Tell me anyway.
+---
+13468: We´re waiting for the ghost train.
+---
+13469: Waiting for the ghost train!
+---
+13470: Why does looking at you
+always tick me off?
+---
+13471: I dunno.{:delay 46 00}{:clear } {:delay 24 00}{:clear }Maybe it´s destiny.
+---
+13472: Destiny...{:delay 4A 00}{:clear }In that case, let´s be friends.
+---
+13473: I don´t feel like cooperating
+with destiny.
+---
+13474: When have you ever cooperated with anything?
+---
+13475: Seifer?
+---
+13476: I know.{:delay 3C 00}{:clear } {:delay 14 00}{:clear }Tomorrow.
+---
+13477: Look!
+---
+13478: It´s really true...
+---
+13479: And there´s really no one aboard!
+---
+13480: What´s the catch?
+There´s gotta be a catch, right?
+---
+13481: Then it´s real!?
+---
+13482: Let´s go to the station!
+---
+13483: Let´s go in!
+---
+13484: What!?
+---
+13485: Um...you´ll get hurt.
+---
+13486: Huh?
+---
+13487: The train will be arriving shortly.
+---
+13488: C´mon.
+---
+13489: A train came from the beach.{:delay 84 00}{:clear }There was no driver, right?
+---
+13490: Let´s go...
+---
+13491: Right!?
+---
+13492: Let´s go home and work on the paper.
+---
+13493: "The rumors were bogus. The end."
+---
+13494: We can still make it sound good if
+we write about all the work we did.
+---
+13495: But what about the last one--
+the seventh wonder?
+---
+13496: Who cares?
+---
+13497: I do. C´mon, Pence.
+---
+13498: Whatever!
+---
+13499: Roxas...
+---
+13500: {:delay 54 00}{:clear }It´s at that haunted mansion.
+---
+13501: You know something...
+---
+13502: Whoa!
+---
+13503: We were gonna check the
+mansion out tomorrow.
+---
+13504: Right...
+---
+13505: Even Seifer´s gang was gonna help.
+---
+13506: Seifer?
+---
+13507: Yeah, Hayner asked him to.
+---
+13508: So what´re we lookin´ for?
+---
+13509: Well, they say there´s a girl who
+appears at the second floor window...{:delay 10 01}{:clear }even though no one´s lived here for years.
+---
+13510: Roxas...
+---
+13511: Naminé?
+---
+13512: This is...{:delay 3C 00}{:clear }{:delay 33 00}{:clear }me?{:delay 45 00}{:clear } {:delay 5D 00}{:clear }...And Axel´s here too.
+---
+13513: You ARE best friends...
+---
+13514: Very funny.
+---
+13515: Don´t you want to know the truth
+about who you really are?
+---
+13516: No one knows me better than me.
+---
+13517: Of course...
+---
+13518: But...I don´t get what´s
+been happening lately.
+---
+13519: You know these three, don´t you?
+---
+13520: Yeah. Sora, Donald, and Goofy.{:delay E6 00}{:clear } {:delay 2D 00}{:clear } They´re from the dreams.
+---
+13521: About a year ago...{:delay 6C 00}{:clear } {:delay 1E 00}{:clear }some things happened,{:delay 92 00}{:clear }and I had to take apart the memories
+chained together in Sora´s heart. {:delay CD 00}{:clear } {:delay 3A 00}{:clear }But now...I´m putting them all back
+exactly the way they were.
+---
+13522: You mean...the dreams?
+---
+13523: Yes...{:delay 3C 00}{:clear } {:delay 24 00}{:clear }You and Sora are connected.
+---
+13524: And...in order for Sora to become
+completely whole again...
+---
+13525: Me? What for?
+---
+13526: You hold half of what he is...{:delay 9B 00}{:clear } {:delay 82 00}{:clear }He needs you, Roxas.
+---
+13527: Naminé?
+---
+13528: Naminé...who are you?
+---
+13529: I´m a witch with power over Sora´s
+memories and those around him.
+---
+13530: A witch?
+---
+13531: That´s what DiZ called me.
+---
+13532: Hmm...I can´t help you there.
+---
+13533: It´s funny...{:delay 5A 00}{:clear } {:delay 64 00}{:clear }Suddenly I feel like I
+don´t know myself at all...
+---
+13534: You...{:delay 3C 00}{:clear } {:delay 50 00}{:clear }you were never supposed to exist, Roxas.
+---
+13535: What...?{:delay 5A 00}{:clear } {:delay 29 00}{:clear } How could you even say such a thing...{:delay 93 00}{:clear } {:delay 2B 00}{:clear }even if it were true?
+---
+13536: I´m sorry.{:delay 3C 00}{:clear } {:delay 23 00}{:clear } I guess some things...{:delay 50 00}{:clear }really are better left unsaid.
+---
+13537: Roxas! Roxas!
+---
+13538: Huh?
+---
+13539: Did you see her?
+---
+13540: Yeah. Watch the window--closely.
+---
+13541: Oh, lame.
+---
+13542: ...Yeah.
+---
+13543: Well, let´s head back to the usual spot.{:delay B8 00}{:clear } Hayner and Olette are waiting.
+---
+13544: Hey guys, how´d it go?
+---
+13545: The girl in the window turned out to
+be a curtain flapping in the wind.
+---
+13546: I figured as much.
+The report´s already done.
+---
+13547: All right!
+---
+13548: So, wanna go find Hayner?{:delay 78 00}{:clear }He´s probably at the station.
+---
+13549: You know...we only have
+two more days together.
+---
+13550: Huh?
+---
+13551: Summer vacation, remember?
+---
+13552: Oh...{:delay 64 00}{:clear }right.
+---
+13553: Tomorrow we search the town.
+---
+13554: Next day´s the fair.
+---
+13555: The last day of summer.
+---
+13556: Don´t say that!
+You´ll give me an ulcer!
+---
+13557: Not if you explode from
+all that ice cream first.
+---
+13558: Why did you show him the train?
+---
+13559: Because he missed the trip to the beach.
+---
+13560: Hmph...that´s almost kind of you.
+---
+13561: Now...{:delay 50 00}{:clear } {:delay 1E 00}{:clear }what about you?{:delay 4B 00}{:clear } {:delay 39 00}{:clear }Are the holes in your memory
+starting to fill in?
+---
+13562: Yes...the haze is clearing.
+---
+13563: The same thing is happening to everyone
+who had ties to Sora.{:delay 0E 01}{:clear } {:delay 6E 00}{:clear }Very soon, to them, he´ll
+be like a good friend{:delay B6 00}{:clear }who´s gone away for a year.
+---
+13564: I´ve waited, and now I want to know.{:delay 7D 00}{:clear } {:delay 32 00}{:clear }What is it that you want?
+---
+13565: Revenge.
+---
+13566: Revenge...
+---
+13567: Now, for the finishing touches.{:delay BA 00}{:clear } {:delay 0A 00}{:clear } First, we must dispose of Naminé.{:delay B4 00}{:clear } {:delay 0A 00}{:clear }She did a splendid job with Sora,
+but it´s high time she disappeared.
+---
+13568: Restoration at 97%.
+---
+13569: Man, I could not sleep last night...
+---
+13570: Guys?
+---
+13571: Look at what it´s come to.{:delay 78 00}{:clear }I´ve been given these icky orders to
+destroy you{:delay A1 00}{:clear } {:delay 1E 00}{:clear }if you refuse to come back with me.
+---
+13572: We´re...{:delay 56 00}{:clear }best friends, right?
+---
+13573: Sure...but I´m not getting turned into
+a Dusk for...{:delay EC 00}{:clear }Wait a sec! You remember now!?
+---
+13574: Y-yeah.
+---
+13575: Great!{:delay 38 00}{:clear }But, you know, gotta make sure and all.{:delay A4 00}{:clear }So, umm...{:delay 78 00}{:clear } {:delay 73 00}{:clear }What´s our boss´s name?
+---
+13576: Can´t believe this...
+---
+13577: Roxas, to the mansion!{:delay C2 00}{:clear }The time has come!
+---
+13578: Hayner!{:delay 58 00}{:clear }Pence!{:delay 63 00}{:clear }Olette!
+---
+13579: The Roxas that I know is long gone.
+---
+13580: Don´t call me and then lock me out...
+---
+13581: Organization {XIII}...{:delay 6F 00}{:clear }they´re a bad group.
+---
+13582: Bad or good, I don´t know.{:delay E5 00}{:clear }They´re a group of incomplete people
+who wish to be whole.{:delay C8 00}{:clear } {:delay 30 00}{:clear }To that end, they´re desperately
+searching for something.
+---
+13583: What?
+---
+13584: Kingdom Hearts.
+---
+13585: Funny?
+---
+13587: You are...
+---
+13588: Naminé!
+---
+13589: There´s no knowledge that has the
+power to change your fate.
+---
+13590: Even if it doesn´t, I wanna know.{:delay B0 00}{:clear }I have the right to know!
+---
+13591: A Nobody doesn´t have a right to know.{:delay D1 00}{:clear }Nor does it even
+have the right to be.
+---
+13592: But what IS a Nobody!?
+---
+13593: DiZ, we´re out of time.
+Too many Nobodies!
+---
+13594: Roxas.
+Nobodies like us are only half a person.{:delay 29 01}{:clear }You won´t disappear.{:delay 85 00}{:clear }You´ll be whole!
+---
+13595: I´ll...disappear...?
+---
+13596: No further outbursts!
+---
+13597: No, you WON´T disappear!
+---
+13598: Wait!
+---
+13600: Let her go!
+---
+13601: Naminé!
+---
+13602: Will it work?
+---
+13603: If we can maintain the simulated town
+until Naminé finishes{:delay 0D 01}{:clear }chaining together Sora´s memories.
+---
+13604: What will happen to Roxas?
+---
+13605: He holds half of Sora´s power within him.{:delay F7 00}{:clear }In the end, he´ll have to give it back.{:delay 79 00}{:clear } {:delay 3C 00}{:clear }Until then, he´ll need another personality
+to throw off his pursuers.
+---
+13606: Poor thing.
+---
+13607: It´s the fate of a Nobody.
+---
+13608: Simply amazing, Roxas.
+---
+13609: Axel.
+---
+13610: You really do remember me this time?{:delay D3 00}{:clear }I´m SO FLATTERED.
+---
+13611: But you're too late!!!
+---
+13612: Two!?
+---
+13613: Axel...
+---
+13614: Let´s meet again in the next life.
+---
+13615: Yeah. I´ll be waiting.
+---
+13616: Silly.{:delay 8E 00}{:clear } Just because you have a next life...
+---
+13617: ...Donald?
+---
+13618: ...Goofy?
+---
+13619: At last, the Keyblade´s chosen one.
+---
+13620: Who are you talking to?{:delay 54 00}{:clear } {:delay 25 00}{:clear } Me?{:delay 3C 00}{:clear }Or Sora?
+---
+13621: To half of Sora, of course.{:delay A0 00}{:clear } {:delay 32 00}{:clear } You reside in darkness.{:delay 92 00}{:clear } {:delay 37 00}{:clear } What I need is{:delay 3C 00}{:clear }someone who can move about the realm of light
+and destroy Organization {XIII}.
+---
+13622: Why? Who are you?
+---
+13623: I am a servant of the world.
+---
+13625: And, if I´m a servant,{:delay 77 00}{:clear }then you should consider yourself
+a tool, at best.
+---
+13626: Was that...{:delay 63 00}{:clear }Was that supposed to be a joke?
+---
+13627: ´Cause I´m not laughing!
+---
+13628: My apologies.{:delay 3F 00}{:clear } {:delay 45 00}{:clear } This is only a data-based projection.
+---
+13629: Come, over here.
+---
+13630: I hate you so much...
+---
+13631: You should share some of that hatred
+with Sora.{:delay EF 00}{:clear } He´s far too nice for his own good.
+---
+13632: No!{:delay 56 00}{:clear } My heart belongs to me!
+---
+13633: Sora...
+---
+13634: You´re lucky.
+---
+13635: Looks like my summer vacation is...{:delay 91 00}{:clear } {:delay 35 00}{:clear }over.
+---
+13636: Hey, what is this place?
+---
+13637: 
+---
+13638: You okay?
+---
+13639: What...?
+---
+13640: When wielding the Keyblade, Roxas
+has access to {:color #00F0F080}Sync Attacks.{:reset}{:clear }Press {:icon button-l2} to activate a Sync Attack.
+---
+13641: Press {:icon button-l2} to activate a Sync Attack.
+---
+13642: Sync Attacks can be used as part
+of your combo. Use them
+in combat to get a feel for them.{:clear }Each Keyblade has a unique Sync Attack.
+Check each Keyblade{'}s ability description
+for more details.
+---
+13643: When your Style Rank is S or higher,
+Roxas enters a state called {:color #00F0F080}Luminous Drive.{:reset}{:clear }When in Luminous Drive, certain passive
+abilities are enhanced even further.{:clear }Abilties affected by Luminous Drive are
+marked with an {:icon form} icon.
+---
+13644: We´ll take it from here!
+---
+13645: Impressive.
+---
+13646: By the way, have you seen
+a man named Axel?{:delay 02 01}{:clear }I expect he´s here somewhere.
+---
+13647: Like I care.
+---
+13648: You see, Axel´s no longer acting
+in our best interest.
+---
+13649: Is he with the Organization, too?
+---
+13650: Yes.
+---
+13651: You havin´ a fight?
+---
+13652: Not a very organized Organization...
+---
+13653: Don´t let your guard down.{:delay 96 00}{:clear }Axel will stop at nothing
+to turn you into a Heartless.
+---
+13654: Gee, thanks for looking out
+for us, mister.{:delay 96 00}{:clear }But I´m sure we can take care
+of ourselves just fine.
+---
+13655: Glad to hear it.{:delay 8A 00}{:clear }Axel aside, it would break our hearts
+to hear something happened to you.
+---
+13656: Hearts? You don´t have any hearts!
+---
+13657: True, we don´t have hearts.{:delay 8C 00}{:clear } {:delay 28 00}{:clear }But we remember what it was like.
+That´s what makes us special.
+---
+13658: Whaddaya mean?
+---
+13659: We know very well how to injure a heart.
+---
+13660: Sora, you just keep on
+fighting those Heartless.
+---
+13661: Let´s jump in after him!
+---
+13662: How come?
+---
+13663: I´m not sure, but maybe he´ll lead
+us to the Organization´s world.
+---
+13664: Don´t be reckless. Do you
+want to end up like Riku?
+---
+13665: What!?
+---
+13666: Hey, wait!
+---
+13667: What did he mean, end up like Riku?
+---
+13668: Hey, how ´bout you get out of my town now?
+You´ve caused enough trouble.
+---
+13669: Riku...
+---
+13670: Have it your way! C´mon, guys.
+---
+13671: Hold it!
+---
+13672: Make up your mind!
+---
+13673: This goes to the strongest guy
+in Twilight Town.
+---
+13674: Thanks, but...we don´t really need it.
+---
+13675: Oh! Sora!
+---
+13676: Um...Pence, right?
+---
+13677: Do you know a girl named Kairi?
+---
+13678: K-Kairi!? I sure do!
+---
+13679: Then you better come to the station!
+---
+13680: He-ey!
+---
+13681: Hey, so how do you guys know Kairi?
+---
+13682: Kairi was really here!?
+---
+13683: Yeah. And...she said she was looking for you.
+---
+13684: Tell me where she is!
+---
+13685: Well...
+---
+13686: What a romantic story!
+---
+13687: If you stick around, Sora´s bound to show up.
+---
+13688: Yeah, he said he´s coming back.
+---
+13689: Okay!
+---
+13690: What took you so long, Kairi?
+---
+13691: Somehow I just knew you´d be here.
+---
+13693: Kairi...
+---
+13694: Ya think it mighta been Axel?
+---
+13695: Sorry...
+---
+13696: Hey, it´s not your fault. C´mon, cheer up!
+---
+13697: Like I can even say that...
+---
+13698: I gotta help Kairi!
+---
+13701: That was close!
+---
+13702: Sora!?
+---
+13703: Sora! Are you okay?
+---
+13704: Huh? What...?
+---
+13705: Wh-what just happened?
+---
+13706: A new road is open.{:delay 72 00}{:clear }And Kairi and Riku are waiting
+somewhere along it.
+---
+13707: You´d better hurry, then.
+---
+13708: You comin´ back?
+---
+13709: Promise!
+---
+13725: Hey! I think we´re almost there!
+---
+13726: 
+---
+13728: Gawrsh, aren´t we here
+because of the picture?
+---
+13729: Look, I´ll show ya!
+---
+13730: Yeah! Goofy´s right!
+---
+13731: C´mon, let´s go find this mansion!
+---
+13732: Yeah!
+---
+13733: Hey, are you all right?
+---
+13734: What happened?
+---
+13735: We came here looking for Kairi.{:delay AA 00}{:clear }Then those white things attacked us...
+---
+13736: You gotta be careful!
+---
+13737: Yeah, you guys didn´t have to go and do that.
+---
+13738: Of course we did.
+Kairi´s our friend, too, ya know.
+---
+13739: You´re right...{:delay 50 00}{:clear }You know, I never thought
+of it like that before.
+---
+13740: Word is, this mansion gets a
+lot of really strange visitors.
+---
+13741: We thought this place might be the gateway
+to some kind of alternate Twilight Town.
+---
+13742: What do you mean, alternate Twilight Town?
+---
+13743: Hey, Goofy, do you think we could
+see that crystal of yours?
+---
+13744: I made that pouch myself, and I still have it.{:delay 8A 00}{:clear }So there shouldn´t be two of them here.
+---
+13745: And this is the trophy Seifer gave you.{:delay AA 00}{:clear }You left it behind, remember?
+---
+13746: It´s the only one of its kind.{:delay 78 00}{:clear }Same for the crystals--red, blue,
+yellow, green--only one of each color.{:delay A4 01}{:clear }But you´ve got your own!
+---
+13747: So...where´d you get it?
+---
+13748: 
+---
+13749: The pouch is from the King.{:delay 96 00}{:clear }When he gave us munny for the train ride,
+he gave us the crystal too.
+---
+13750: But then...where did the KING get it?
+---
+13751: See? There´s gotta be another
+town out there like this one.{:delay F0 00}{:clear }That would explain how the King
+got that pouch and the crystal.{:delay AF 00}{:clear }Everything makes sense.
+---
+13752: It...does?
+---
+13753: That other town must be where
+whatever´s missing from here went!
+---
+13754: Like Kairi.
+---
+13755: I get it!
+---
+13756: Watch out!
+---
+13757: I got somethin´ to tell ya.
+I found out where Ansem is--{:delay B4 00}{:clear }Ansem the Wise! The real Ansem!{:delay 97 00}{:clear }He snuck into Organization {XIII}´s stronghold.
+---
+13758: And we´ve figured out where Kairi is!
+I´m pretty sure we´re right.
+---
+13759: But why´d you all come here?
+---
+13760: Someone gave us a clue.
+---
+13761: Who?
+---
+13762: Well, Your Majesty,
+Sora thinks it mighta been Riku.
+---
+13763: It´s just a feeling I had.
+---
+13764: Welp, if that´s what ya think,
+then it´s probably right.
+---
+13765: You mean Riku´s okay!
+---
+13766: If that´s what ya think...
+---
+13767: I´ve waited long enough, Your Majesty!
+Tell me what you know!
+---
+13768: It´s not for me to say.
+---
+13769: But Your Majesty! Why?
+---
+13770: I don´t wanna break my promise.
+---
+13771: You made a promise to Riku!?
+---
+13772: So he´s okay! I can see him again!
+---
+13773: Huh? Who´s Riku?
+---
+13774: My best friend.
+---
+13775: That´s IT!
+---
+13776: Your Majesty? You got the pouch with
+the crystal from Riku, didn´t you?
+---
+13777: And you promised not to tell, right?
+---
+13778: Gosh, guys...
+---
+13779: That´s enough!
+---
+13780: Yeah. Let´s go!
+---
+13781: Kairi! Riku! We´re on our way!
+---
+13782: {:unk13 AA 00 C3 00}{:unk08 01 00 05}There´s gotta be a
+computer somewhere.
+---
+13783: {:unk13 71 01 93 00}{:unk08 01 00 05}A computer...{:clear }Do you think it´s
+connected to that
+other Twilight Town?
+---
+13784: {:unk13 C1 00 B3 00}{:unk08 01 00 05}It might be.{:clear }And there should be a way into
+the realm of darkness there.
+---
+13785: {:unk13 13 01 3D 00}{:unk08 01 00 04}Riku told you that,
+didn´t he!?
+---
+13786: {:unk13 FC 00 50 01}{:unk08 01 01 03}Please, Sora.
+I made a promise.
+---
+13787: {:unk13 DB 00 3B 00}{:unk08 01 00 05}Aha!
+I knew it!
+---
+13788: {:unk13 CF 00 5C 01}{:unk06 02}{:unk08 03 01 01}Hey! Stop pestering
+the King!
+---
+13789: {:unk13 BB 00 3F 00}{:unk08 01 00 05}Right. Sorry...
+---
+13790: There!
+---
+13791: We found it!
+---
+13792: How does it work?
+---
+13793: I can handle it.
+---
+13794: Okay...
+---
+13795: Here we go...
+---
+13796: Ah!
+---
+13797: What´s wrong?
+---
+13798: I can´t go any further without a password.
+---
+13799: Do ya have any idea what
+the password might be?
+---
+13800: 
+---
+13801: Well, we only got this photo...
+---
+13802: 
+---
+13803: And the salty-sweet ice cream bar!
+---
+13804: Yeah, the one Donald ate up.
+---
+13805: It was in the box right next to the photo.
+---
+13806: Hey, that´s it!{:delay 50 00}{:clear }Ansem the Wise loved
+ice cream!
+---
+13807: Okay, what´s the name of the flavor?
+---
+13808: No, that's not it.
+Try to remember.
+---
+13809: It worked!
+---
+13810: Let´s go!
+---
+13811: We´ll be here to hold down the fort.
+---
+13812: Say hi to Kairi!
+---
+13813: You bet!
+---
+13814: Are we back in the same place?
+---
+13815: Look!
+---
+13816: This is the other Twilight Town.{:delay A0 00}{:clear }Roxas´s Twilight Town.
+---
+13817: There´s gotta be an entrance into
+the dark realm somewhere.{:delay B4 00}{:clear }Let´s split up.
+---
+13818: There...
+---
+13819: This is it.
+---
+13820: What is this place?
+---
+13821: Well, which way should we go?
+---
+13822: Riku! Kairi!
+---
+13823: It´s no use!
+---
+13824: Don´t stop moving, or the
+darkness will overtake you!
+---
+13825: Get goin´!
+---
+13826: Why?
+---
+13827: Don´t ask. Just do it!
+---
+13828: You okay?
+---
+13829: I kidnapped Kairi, but
+she got away from me.{:delay C0 00}{:clear }{:delay 3C 00}{:clear }After that, Saïx caught her.
+---
+13830: Leave us alone!
+---
+13831: I think I liked it better
+when they were on my side.
+---
+13832: Feeling a little...regret?
+---
+13833: Nah...I can handle these punks. Watch this!
+---
+13834: Whoa!
+---
+13835: You´re...fading away...
+---
+13836: Well, that´s what happens when you
+put your whole being into an attack. {:delay 74 01}{:clear }You know what I mean?{:delay 84 00}{:clear }Not that Nobodies actually
+HAVE beings...right?
+---
+13841: I wanted to see Roxas.
+---
+13843: This leads to...
+---
+13844: Aw, come on! Let´s get going!
+---
+13845: 
+---
+14050: Blue seas!{:delay 3C 00}{:clear }{:delay 1E 00}{:clear }Blue skies!{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Let´s just get on the train and GO!
+---
+14163: Tutorial: Movement
+---
+14164: The Accessory Shop
+---
+14165: Tutorial: Talk
+---
+14166: The Candy Shop
+---
+14167: Tutorial: Camera
+---
+14168: Choose a weapon!
+---
+14169: Tutorial: Battle
+---
+14170: Defeat Seifer!
+---
+14171: Fight the mysterious enemy!
+---
+14172: Fight the mysterious enemy!
+---
+14173: Tutorial: Save Points
+---
+14174: Fight the mysterious enemy!
+---
+14175: Defeat all of the mysterious enemies!
+---
+14176: Use the reaction command to open the chest!
+---
+14177: Use reaction commands and defeat the mysterious enemy!
+---
+14178: Vs. Hayner
+---
+14179: Vs. Vivi
+---
+14180: Defeat all the mysterious enemies!
+---
+14181: Defeat the mysterious Axel!
+---
+14182: Vs. Setzer
+---
+14183: Defeat all of the strange enemies!
+---
+14184: Defeat all of the strange enemies!
+---
+14185: ₓₓAxel (Serious Mode)
+---
+14186: Defeat all of the strange enemies!
+---
+14187: Defeat all of the Heartless!
+---
+14188: Defeat all of the Heartless!
+---
+14189: Defeat all of the Heartless!
+---
+14190: Defeat all of the Nobodies!
+---
+14191: Defeat Vexen of Organization {XIII}!
+Destroy his shield and attack him!
+Don't stand on the emblem,
+or he'll extract your data!
+---
+14192: ₓₓDusk
+---
+14193: Defeat all of the Nobodies by fighting alongside Axel!
+---
+14202: Face and defeat the Shadow Roxas!
+---
+14203: It{'}s an ambush! Survive for 1 minute!
+---
+14204: Defeat the Vivis!
+---
+14219: "Updating job information!
+Please come back later."
+---
+14220: "Updating job information!
+Please come back later."
+---
+14223: Defeat the mysterious enemies!
+---
+14300: Sora?
+---
+14301: Who's there?
+---
+14302: Sora!
+---
+14303: Sora, wake up!
+---
+14304: Donald, Goofy!
+---
+14305: That was some nap!
+---
+14306: You mean, we were asleep?
+---
+14307: I guess we musta been, or I don't
+think we'd be so drowsy...
+---
+14308: When do ya think we went to sleep?
+---
+14309: Uhh...
+---
+14310: Let's see...we defeated Ansem...
+---
+14311: Yep.
+---
+14312: ...Restored peace to the world...
+found Kairi...{:delay B4 00}{:clear }{:delay 32 00}{:clear }Oh yeah, and then we went to look for Riku.
+I think that's right so far.
+---
+14313: Then what?
+---
+14314: What does your journal say, Jiminy?
+---
+14315: Gee, there's only one sentence...
+---
+14316: "Thank Naminé."{:delay 5A 00}{:clear }{:delay 32 00}{:clear }Hmm... I wonder who that is.
+---
+14317: Some journal that is.
+---
+14318: 
+---
+14319: Well, what do ya say we find out where we are?
+---
+14320: You know, I think I've been to this town.
+---
+14321: What's it called?
+---
+14322: Hmm... Guess I must've imagined it.
+---
+14323: What do you want!?
+---
+14324: Uh, nothing.
+Just wondering what was back here.
+---
+14325: Now you know. This is our spot.
+---
+14326: Umm...
+---
+14327: What?
+---
+14328: You're...new around here, right? I'm Pence.
+---
+14329: Hayner. Nice to meet you,{:delay 69 00}{:clear }but we got stuff to do,
+so catch ya later.
+---
+14330: My name's Olette.{:delay 68 00}{:clear }Hey, did you finish up
+the summer homework yet?{:delay 86 00}{:clear }Independent studies are the worst, huh?
+---
+14331: Homework?
+---
+14332: Hey, what're your names?
+---
+14333: Oh, sorry. We're Sora, Donald, and Goofy.
+---
+14334: Hey there.
+---
+14335: Sora, Donald, Goofy,{:delay A0 00}{:clear }we just met someone who
+was looking for you.
+---
+14336: He sure seemed in a hurry.{:delay 6E 00}{:clear }He had a black coat on so
+I couldn't see his face,{:delay B4 00}{:clear }but he had these big round ears.
+---
+14337: The King!
+---
+14338: Where'd you see him?
+---
+14339: At the station.
+---
+14340: The station! Thanks!
+---
+14341: Well, we'd better get back to that assignment.
+---
+14342: Later!
+---
+14343: Oh boy! The King's trying to find us!
+---
+14344: Yeah, let's get to the station!
+---
+14345: Your Majesty?
+---
+14346: Shh!
+---
+14347: You gotta board the train and leave town!
+The train knows the way.
+---
+14348: Here.
+---
+14349: Your Majesty...
+---
+14350: The King... Was that really him?
+---
+14351: It coulda been... Yep, I know it was!
+---
+14352: Now we know he's okay!
+---
+14353: The King was locked in the
+realm of darkness, right?
+---
+14354: Uh huh.
+---
+14355: But we just saw him...
+---
+14356: Yep.
+---
+14357: And if the King is here,
+that means Riku's here!
+---
+14358: He's gotta be!
+---
+14359: Well, I'm gonna go look for Riku.{:delay 9B 00}{:clear }{:delay 14 00}{:clear }Then he and I can go back
+to the islands together.{:delay AA 00}{:clear }Kairi's there waiting for us!{:delay 78 00}{:clear }{:delay 1E 00}{:clear }What are you two gonna do?
+---
+14360: Gawrsh, Sora. Do ya have to ask?
+---
+14361: Hey! What's so funny!?
+---
+14362: Your face!
+---
+14363: What do ya say, guys?{:delay 5F 00}{:clear }Let's stick together for
+one more journey.
+---
+14364: To...where again?
+---
+14365: We hafta board the train!
+---
+14366: Oh yeah.
+---
+14367: C'mon!
+---
+14368: Wait up!
+---
+14370: Hey, Sora...
+---
+14371: What?
+---
+14372: Nothing, but...
+---
+14373: We came to see you off.{:delay 5F 00}{:clear }It just seemed like something
+we oughta do.
+---
+14374: Oh...really? Thanks!
+---
+14375: You should hurry and get
+your tickets.
+---
+14376: Right.
+---
+14377: 
+---
+14378: What is it?
+---
+14379: They're the same.
+---
+14380: Yeah.
+---
+14381: Three tickets, please!
+---
+14382: I can't help feeling like we won't
+see this town again...
+---
+14383: Why not?
+---
+14384: You're thinkin' too much.
+---
+14385: Yeah, you're right!
+---
+14386: Okay, let's go!
+---
+14387: Bye!
+---
+14388: Hey, Sora. You sure we haven't met before?
+---
+14389: Positive.{:delay 32 00}{:clear }{:delay 2D 00}{:clear }Why do you ask?
+---
+14390: I dunno.
+---
+14391: Oh.
+---
+14392: Huh?
+---
+14393: You okay?
+---
+14394: Y-yeah.
+Don't know where it came from.
+---
+14395: Pull it together.
+---
+14396: Right... See ya.
+---
+14397: You know...
+---
+14398: I'm sad.
+---
+14399: We'll be back.
+---
+14400: Yeah. We can visit Hayner and
+those guys again.
+---
+14401: Hey you, where'd you come from?
+---
+14402: Uhh...
+---
+14403: You here to pick a fight with us
+or something?
+---
+14404: Fight? We're not here to fight.
+---
+14405: Yeah, you big palooka!
+---
+14406: Okay, smart alecks...
+---
+14407: Time to teach you how to behave
+in my town.{:delay 82 00}{:clear }{:delay 0A 00}{:clear }Bring it!
+---
+14408: Man, what a jerk.
+---
+14409: 
+---
+14411: One moment!
+---
+14412: If you´re gonna fight, why not make it
+a proper Struggle?
+---
+14413: What?
+---
+14414: You see, Seifer...
+I'm a really big fan.
+---
+14415: Wh-what do you want...
+---
+14416: In other words, I want to see
+more of your "super cool" moves!
+---
+14417: You handled the tournament with real style,{:delay 9B 00}{:clear }{:delay 14 00}{:clear }and you absolutely dominated the title match.
+---
+14418: But I just can't get enough.
+Don't you see?{:delay C8 00}{:clear }{:delay 0F 00}{:clear }The matches are far too short!
+---
+14419: And what's your name?
+---
+14420: Sora.
+---
+14421: Sora, if you wanna fight a match,
+you just say the word.
+---
+14433: That was undeniable proof that
+we totally owned you lamers.
+---
+14434: So what did you do?{:delay 6C 00}{:clear }Burn it?
+---
+14435: Ha, not that we need some ----
+to prove that you´re losers.
+---
+14441: He took it!
+---
+14443: {:delay 4E 00}{:clear }There goes our ride...
+---
+14444: What´s goin´ on?
+---
+14445: {:delay 54 00}{:clear }I sent some of my lackeys inside{:delay 82 00}{:clear }to see if the master of this
+here tower´s{:delay 82 00}{:clear } as big and tough as they say.
+---
+14446: Word is, he´s a real powerful sorcerer.{:delay B4 00}{:clear }Which would make him
+the perfect bodyguard for me.
+---
+14447: See, it don´t matter how tough he is--
+once he´s a Heartless, he´ll do as I say!
+---
+14448: A Heartless?
+---
+14449: That´s right.{:delay 54 00}{:clear }They´re those things that come outta
+the darkness in folks´ hearts.{:delay D2 00}{:clear } Why, with all those Heartless at her side,{:delay 96 00}{:clear }my dear friend Maleficent
+is gonna conquer everything!
+---
+14450: And since I got me a debt to pay,{:delay 96 00}{:clear }I´m goin´ ´round to a bunch of
+different worlds and{:delay 9C 00} {:clear }buildin´ an army of Heartless,
+special for her.
+---
+14451: Why am I talkin´ to you
+pip-squeaks anyway?{:delay 9C 00}{:clear } Go on, scram!
+ I´m behind schedule as it is.
+---
+14452: You oughta find somethin´ nicer to do.
+---
+14453: Says who?
+---
+14454: Wha...AAAH! It´s you!
+---
+14455: Pete!
+---
+14456: What are you two nimrods doin´ here!?
+---
+14457: What are YOU doing here?
+---
+14458: You know him?
+---
+14459: We sure do!
+Pete´s been causin´ trouble for ages!
+---
+14460: His Majesty banished him to another dimension
+a long time ago. I wonder how he escaped.
+---
+14461: {:delay AE 00}{:clear }You wanna know how, eh?{:delay 78 00}{:clear }Well, Maleficent busted me out,
+that´s how!{:delay BA 00}{:clear }{:delay 12 00}{:clear }And now your world--{:delay 66 00}{:clear }no, no, no, all the worlds--
+are gonna belong to yours truly.
+---
+14462: Cause Maleficent´s gonna
+help me conquer ´em!
+---
+14463: Maleficent...huh.
+---
+14464: What are you laughing at!?{:delay 5A 00}{:clear }{:delay 15 00}{:clear }Why, Maleficent´s power is so great--
+---
+14465: She´s toast.
+---
+14467: Whaddaya mean!?
+---
+14468: You!{:delay 3C 00}{:clear }{:delay 17 00}{:clear } So you´re the ones that did it!
+---
+14469: Well...{:delay 30 00}{:clear }we mighta had something to do with it.
+---
+14470: 
+---
+14471: Heartless Squad!
+Round up!
+---
+14472: You just wait!{:delay 60 00}{:clear }Nobody, and I do mean nobody,
+messes with the mighty Pete!
+---
+14473: So, "mighty" Pete,{:delay 5A 00}{:clear }{:delay 30 00}{:clear }who lives in this tower, anyway?
+---
+14474: Oh, ya don´t know, eh?{:delay 8A 00}{:clear }Well, it´s old Yen Sid.{:delay 8A 00}{:clear }´Course he´s probably a Heartless by now!
+---
+14475: Master Yen Sid lives here!?
+---
+14476: Yen Sid is the King´s teacher!
+---
+14477: Wow. Sounds powerful!
+---
+14478: Heartless, Heartless, Heartless!{:delay B4 00}{:clear }{:delay 1E 00}{:clear }Things haven´t changed one bit!
+---
+14479: Well, it´s a good thing we´re on the job, then.
+---
+14480: So the worlds aren´t at peace after all?
+---
+14481: Master Yen Sid! It´s an honor!
+---
+14482: Hey there!
+---
+14483: Sora! Show some respect!
+---
+14484: So, you are Sora.{:delay B4 00}{:clear }{:delay 21 00}{:clear }Now then, have you seen the King yet?
+---
+14485: Yes, we did, Master. But we didn´t
+get a chance to talk to him.
+---
+14486: Yes...the King has been quite busy of late.
+---
+14487: Therefore, it would seem that the task of
+instructing you three falls upon my shoulders.
+---
+14488: You have a perilous journey ahead of you.
+You must be well prepared.
+---
+14489: You mean...we have to go on another quest?
+---
+14490: I was looking forward to finding my friend
+Riku, so we could go back to the islands.
+---
+14491: Yes. I know.{:delay 7E 00}{:clear }However, everything in your
+journey, Sora, is connected.
+---
+14492: Whether you will find your
+way home to the islands...
+---
+14493: Whether you will return alone
+or with your friend...
+---
+14494: And, whether or not the islands
+will still be there.
+---
+14495: And the key that connects
+them all is you, Sora.
+---
+14496: I´m...the key?
+---
+14497: Chosen wielder of the Keyblade!
+---
+14498: You are the key that
+will open the door to light.
+---
+14499: This book contains valuable knowledge
+you will need for your journey.{:delay F5 00}{:clear }{:delay 35 00}{:clear }Study it carefully.
+---
+14500: Once you have finished, we will speak
+of the enemies you will surely confront.
+---
+14501: But wait a sec--how come the Heartless
+are still running around?
+---
+14502: Your past endeavors did prevent
+an immense effusion of Heartless{:delay 3E 01}{:clear }from the great darkness;{:delay 72 00}{:clear }make no mistake about that.
+---
+14503: However, the Heartless are
+darkness made real--{:delay F6 00}{:clear }{:delay 15 00}{:clear }and darkness yet lingers in every heart.
+---
+14504: The Heartless are fewer.{:delay 78 00}{:clear }But while darkness exists in a single heart,
+it will be difficult to eliminate them.
+---
+14505: Gawrsh, that must mean...{:delay 7E 00}{:clear }if everybody´s heart was full of light,
+them Heartless´d go away!
+---
+14506: Now it is time to speak of the
+enemies that you will encounter.
+---
+14508: If one such as you, Donald, yields
+to the darkness in their heart,{:delay 32 01}{:clear }{:delay 22 00}{:clear }they too will become a Heartless.
+---
+14509: But you know this.
+---
+14510: 
+---
+14511: The Heartless are always lurking and
+ever seeking to capture new hearts.{:delay 2C 01}{:clear }Never let your guard down!{:delay 72 00}{:clear }{:delay 3C 00}{:clear }Now then...
+---
+14512: At times, if someone with
+a strong heart and will--{:delay F0 00}{:clear }be they evil or good--
+becomes a Heartless,{:delay F6 00}{:clear }{:delay 24 00}{:clear }the empty shell they leave behind
+begins to act with a will of its own.
+---
+14513: An empty vessel whose heart
+has been stolen away...{:delay DE 00}{:clear }{:delay 1B 00}{:clear }A spirit that goes on{:delay 7E 00}{:clear }even as its body fades from existence--
+for you see,{:delay EF 00}{:clear }{:delay 18 00}Nobodies do not truly exist at all.
+---
+14514: Nobodies may seem to have feelings,{:delay A8 00}{:clear }but this is a ruse--
+they only pretend to have hearts.
+---
+14515: You must not be deceived!
+---
+14516: Nobodies...{:delay 41 00}{:clear }{:delay 32 00}They don´t exist...
+---
+14517: Now then...the being you see before
+you is known as a Dusk.{:delay 80 01}{:clear }{:delay 36 00}{:clear }They are the most common form of Nobody.
+---
+14518: But there are others--some larger,
+some with frightening and unique powers.{:delay 74 01}{:clear }{:delay 36 00}{:clear }Be vigilant!
+---
+14519: On your journey, you will meet
+an alarming number of Dusks.{:delay 2C 01}{:clear }They will all attempt to do you harm.
+---
+14520: Still, they are nothing but empty shells,
+destined to return to darkness.{:delay 2C 01}{:clear }{:delay 12 00}{:clear }But--
+---
+14521: The beings you see before you now
+are different.
+---
+14522: These powerful Nobodies have formed
+a group called Organization {XIII}.{:delay 26 01}{:clear }It commands the lesser Nobodies.
+---
+14523: Organization {XIII}...
+---
+14524: While Heartless act on instinct,
+Nobodies function in a higher manner.{:delay 2C 01}{:clear }They can think and plan. And it seems
+they are working towards a goal.
+---
+14525: What that goal is, we do not know.
+---
+14526: The King sensed the danger,
+and journeyed forth to fight it.
+---
+14527: He found the dark realm´s Keyblade,
+and with it, closed the door.
+---
+14528: Now he´s traveling from world to world,
+fighting the Heartless{:delay FC 00}{:clear }as he seeks the answer to the riddle
+of the Nobodies and Organization {XIII}.
+---
+14529: Then I guess we better go
+find the King first!
+---
+14530: But where could he be?
+---
+14531: Well, we won´t know ´til we look.
+---
+14533: So, before you go, you will need
+more suitable traveling clothes.
+---
+14534: Those look a bit
+too small for you.
+---
+14535: Through there,
+you´ll find three good fairies.{:delay BA 00}{:clear }If you ask, they´ll create for you
+appropriate garments.
+---
+14536: Gawrsh, Sora,
+you sure are growing fast.
+---
+14538: Me, you guys, Riku, and the King.{:delay 9C 00}{:clear }{:delay 24 00}{:clear }I don´t care who this Organization is
+or what it´s planning.{:delay B4 00}{:clear }{:delay 28 00}{:clear }With the five of us--I mean, six of us--
+there´s nothing to worry about. Right?
+---
+14539: Yeah!
+---
+14540: Well, look who´s here, dears!
+Sora, Donald, and Goofy!
+---
+14541: Ooh, if you´re looking for clothes,
+you´ve come to the right place!
+---
+14542: I´ll do the designing.
+---
+14543: Oh, that will never do!
+---
+14544: Now, now, dears.
+---
+14545: But don´t you like this better?
+---
+14546: Hold on!
+---
+14547: Are you certain?
+---
+14548: Blue!
+---
+14549: Aww, would you just decide?
+---
+14550: All right, then. Together now, dears.
+And no more squabbling!
+---
+14551: Oh, my!
+---
+14552: Ooh, it´s lovely.
+---
+14553: Oh, yes! He does look very dashing.
+---
+14554: Now, those aren´t ordinary garments.
+---
+14555: They have very special powers.
+---
+14556: Take the orb, dear.
+---
+14557: And watch what happens.
+---
+14558: Whoa!
+---
+14559: Wow!
+---
+14560: Two Keyblades!
+---
+14561: This journey´s gonna be twice
+as difficult as your last.
+---
+14562: Your garments also have other powers--
+---
+14563: but you will have to discover what they
+are as you continue on your journey.
+---
+14564: Okay, I´ll do my best. And thanks a lot!
+---
+14565: Oh, and there´s something else
+for you from Master Yen Sid.
+---
+14566: Oh boy!
+---
+14567: Hey! It´s the Gummi Ship!
+---
+14568: So you guys ready to go?
+---
+14569: Now, now, just a moment.
+---
+14570: Because of your previous endeavors, the
+worlds have returned to their original states.
+---
+14571: That means the pathways between them
+have disappeared.
+---
+14572: How do we get around?
+---
+14573: Do not fear.{:delay 48 00}{:clear }If what the King suspected proves true,{:delay 90 00}{:clear }{:delay 1D 00}{:clear }the worlds have prepared new pathways
+along which you may travel.
+---
+14574: These pathways may be utilized
+by unlocking special gates.
+---
+14575: How these gates are opened,{:delay 96 00}{:clear }{:delay 0F 00}{:clear }I´m afraid I do not know...
+---
+14576: However, the Keyblade will
+serve as your guide.
+---
+14577: When a beam of light radiates from the
+Keyblade, return to the Gummi Ship.
+---
+14578: Though the worlds may seem far
+apart and out of reach,{:delay DA 00}{:clear }they nonetheless remain connected by
+invisible ties. As do our hearts.
+---
+14579: Our hearts are connected.
+---
+14580: That is correct.
+---
+14581: Got it!
+---
+14582: But be warned.{:delay 8C 00}{:clear }{:delay 2D 00}{:clear } As you proceed...
+---
+14583: The Heartless and the Nobodies will
+be using their own paths:{:delay 0C 01}{:clear }Corridors of darkness, to travel
+from world to world.
+---
+14584: They may be attempting to link these dark
+pathways to the gates between the worlds.
+---
+14585: Hey! That´s not fair!
+---
+14586: Now then,{:delay 3C 00}{:clear }{:delay 1E 00}{:clear }that is all the information
+I can give to you.
+---
+14587: Go forth, Sora, Donald, and Goofy.{:delay F0 00}{:clear }{:delay 30 00}{:clear } Everyone is waiting.
+---
+14588: Okay, let´s get going!
+---
+14589: Master Yen Sid!
+---
+14590: We sure do appreciate the help.
+---
+14591: My goodness! What´s that?
+---
+14592: Haven´t we seen this somewhere before?
+---
+14593: Yes, dear. I wonder whose it was...
+---
+14594: Oh! Malefi--
+---
+14595: No! We mustn´t remember her name!
+Oh dear...
+---
+14596: She was a mean ol´ witch...
+---
+14597: Oh no! The memories are coming back!{:delay B4 00}{:clear } What´ll we do!? Oooh--what´ll we do!?
+---
+14598: Perhaps we should tell Master Yen Sid.
+---
+14599: Yes. That´s what we must do. Hurry!
+---
+14600: Maleficent!
+---
+14647: Whatever you think is right, you´re wrong.{:delay C4 00}{:clear } {:delay 1E 00}{:clear }And that is a big mistake.
+---
+14665: It IS the most suspicious place.
+---
+14839: Sorry, but Maleficent can´t help ya now.
+---
+14854: Yeah. And the King must
+know where Riku is,{:delay 9C 00}{:clear }{:delay 0F 00}{:clear }´cause the two of them were together in the
+realm of darkness when we closed the door.{:delay DE 00}{:clear }{:delay 15 00}{:clear }You know, after defeating Ansem.
+---
+14855: Uh, I guess...
+---
+14856: It´s taken me a long time,{:delay 62 00}{:clear } {:delay 32 00}{:clear }but pretty soon Sora will be his old self again.{:delay AE 00}{:clear } {:delay 50 00}{:clear }The process has been
+affecting you, too, Roxas.
+---
+14857: He needs you.
+---
+14858: I guess I would like to know.{:delay 82 00}{:clear } {:delay 64 00}{:clear } What do you know about me...
+---
+14859: ...that I don´t?
+---
+14860: That´s just the curtains moving.{:delay 64 00}{:clear }There must be a draft somewhere.
+---
+14861: I´m surprised this old place even has curtains.
+---
+14862: But I don´t know why I have
+this power...I just do.{:delay 5E 01}{:clear } {:delay 33 00}{:clear }I´m not even sure there´s a
+right way for me to use it.
+---
+15200: Roxas isn´t the only one who
+was never meant to exist.{:delay D2 00}{:clear } {:delay 66 00}{:clear }Take care of it, Ansem.
+---
+15221: Who will take home the grand prize?
+---
+15222: The summa cum laude of Struggle--
+the Four Crystal Trophy!
+---
+15274: Roxas! We will meet again.{:delay BF 00}{:clear }And then we can talk about everything.{:delay A2 00}{:clear }I may not know it´s you, and
+you may not know it´s me.{:delay 03 01}{:clear }But we will meet again.
+---
+15275: Someday soon.{:delay 6B 00}{:clear }I promise!
+---
+15276: It´s just,{:delay 75 00}{:clear } I think--{:delay 64 00}{:clear }I´ve been running away from
+the question I really wanna ask:
+---
+15277: What´s gonna happen to me now?{:delay 78 00}{:clear } {:delay 47 00}{:clear }Just tell me that.{:delay 50 00}{:clear } {:delay 2E 00}{:clear }Nothing else really matters anymore.
+---
+15382: {:unk13 FC 00 52 00}{:unk08 01 00 05}Good job.
+---
+15383: {:unk13 00 01 52 00}{:unk08 01 00 05}Not bad.
+---
+15384: {:unk13 08 01 46 00}{:unk08 01 00 05}Could you try a
+little harder?
+---
+15385: {:unk13 0C 01 5E 00}{:unk08 01 00 05}Thanks! You´re
+a big help.
+---
+15386: {:unk13 09 01 6A 00}{:unk08 01 00 05}That´s not bad.
+---
+15387: {:unk13 16 01 5E 00}{:unk08 01 00 05}I wish you´d done
+a little better.
+---
+15388: {:unk13 6A 01 42 00}{:unk08 01 00 05}Wow! You´re
+the best!
+---
+15389: {:unk13 71 01 4E 00}{:unk08 01 00 05}Hmm, not half bad.
+---
+15390: {:unk13 74 01 42 00}{:unk08 01 00 05}I bet I could do a
+better job than that!
+---
+15391: {:unk13 1C 01 82 00}{:unk08 01 00 05}Fine work indeed.
+---
+15392: {:unk13 1A 01 82 00}{:unk08 01 00 05}Passable, I´d say.
+---
+15393: {:unk13 27 01 82 00}{:unk08 01 00 05}Come on, you can do better.
+---
+15394: {:unk13 12 01 6C 00}{:unk08 01 00 05}Great job!
+---
+15395: {:unk13 22 01 6C 00}{:unk08 01 00 05}Hmm...all right.
+---
+15396: {:unk13 18 01 6C 00}{:unk08 01 00 05}Try a little harder, okay?
+---
+15397: {:unk13 5E 01 A0 00}{:unk08 01 00 05}Fantastic!
+I owe you one.
+---
+15398: {:unk13 64 01 A0 00}{:unk08 01 00 05}Well...I guess
+that´ll do.
+---
+15399: {:unk13 68 01 A0 00}{:unk08 01 00 05}Is that the best
+you can do?
+---
+15400: {:unk13 09 01 7F 00}{:unk08 01 00 05}I think that should do it.
+Let´s get to the station.
+---
+15401: {:unk13 6A 01 74 00}{:unk08 01 00 05}I think that should do it.
+Let´s get to the station.
+---
+15740: Use {:icon dynamic-left-analog} to make Roxas
+move and run. Jump with {:icon dynamic-circle}.{:clear }{:color #00F0F080}Approach the Armor Shop.{:reset}{:clear }If you can't remember what to do next,
+press {:icon dynamic-start} to confirm your objective.
+---
+15741: By skimming the sides of buildings,
+you can grab the edge and pull yourself up.
+Try it for access to various places.
+---
+15907: Anyway, I digress.
+Go, find Kairi.{:delay 4A 01}{:clear }Oh, almost forgot...{:delay B4 00}{:clear }Sorry for what I did to her.
+---
+15908: When we find her,
+you can tell her that yourself.
+---
+15909: Think I´ll pass.{:delay 6C 00}{:clear }My heart just wouldn´t be in it, you know?{:delay C6 00} {:clear }Haven´t got one.{:delay 48 00}{:clear }
+---
+15910: Axel, what were you trying to do?
+---
+15911: He...was the only one I liked...{:delay E6 00}{:clear }He made me feel...
+like I had a heart.{:delay 18 01}{:clear }It´s kind of...{:delay 46 00}{:clear }funny...
+---
+15912: You make me feel...{:delay 82 00}{:clear }the same...
+---
+15913: Kairi´s in the castle dungeon.{:delay 82 00}{:clear }Now go.
+---
+15914: Axel...
+---
+16038: {:color #00F00080}Reaction commands{:reset} are used to execute
+actions accordingly in situations.{:clear }{:unk0f 01 E7 FF 13 01}{:unk12 27 00}Approach the Accessory Shop and
+the "Talk" reaction command will appear.
+Press {:icon dynamic-triangle} to use the command.{:clear }{:unk0f 00 00 00 00 00}{:unk12 28 00}{:color #00F0F080}Talk to the Accessory Shop owner.{:reset}
+---
+16040: {:color #00F00080}Reaction commands{:reset} appear in various
+situations and are very helpful.
+{:color #00F0F080}Use reaction commands whenever possible.{:reset}
+---
+16041: He´s a member of Organization {XIII}. Saïx.{:delay C8 00}{:clear }Got it memorized?{:delay 54 00}{:clear }Now go save her!
+---
+16078: Move the camera with {:icon dynamic-right-analog}.
+Press {:icon dynamic-r3} to return it to
+its default position.{:clear }Press {:icon dynamic-r1} to lock on to specific things.
+When locked on to something, the camera
+will automatically follow the target.{:clear }{:color #00F0F080}Lock on to the cat.{:reset}
+---
+16079: Locking on is useful when following a target.
+The camera can be controlled while locked on.
+Press {:icon dynamic-r1} again to cancel.
+---
+16115: Get close to grab orbs dropped by enemies
+when defeated.{:clear }Yellow orbs increase munny, and
+green orbs restore health.
+---
+16119: {:unk0f 01 1C 02 36 01}The gauge in the bottom right is the HP gauge.
+You lose HP when damage is taken,
+and the battle is over when HP reaches 0.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 01 D1 01 7C 01}The blue gauge in the bottom right is the MP gauge.
+It holds a mysterious power that is not yet available.{:clear }When you approach a target, a yellow mark
+will appear.
+Press {:icon dynamic-cross} to attack.{:clear }{:color #00F0F080}Approach and attack Seifer.{:reset}
+---
+16121: After hitting an enemy with an attack, continue
+attacking to unleash powerful combos.
+{:color #00F0F080}Press {:icon dynamic-cross} successively.{:reset}{:clear }Counter an enemy attack with your own to
+{:color #00F0F080}parry and nullify the attack.{:reset}
+This action is also useful in a defensive stance.
+---
+16125: Approach the light for the "Save" {:color #00F00080}reaction
+command{:reset} to appear. Press {:icon dynamic-triangle} to open a save
+menu that allows you to save your game.{:clear }{:color #00F0F080}Open the save menu.{:reset}
+---
+16126: There are many other save points besides this one.
+Make good use of them, as they restore Roxas´s HP
+and MP.
+---
+16127: You have obtained a navigational map
+that appears in the top right corner.{:clear }Some worlds have several maps. There are
+areas that require you to obtain maps
+in order to investigate that area.
+---
+16130: {:unk0f 03 0F 00 6D 01}{:color #00F0F080}The Items command has been added.{:reset}
+Use {:icon dynamic-dpad-up-down} to select Items, and press {:icon dynamic-cross}.
+Select the item to use and press {:icon dynamic-cross}.{:clear }{:unk0f 00 00 00 00 00}Press {:icon dynamic-l1} and {:icon dynamic-cross} for a shortcut.
+This setting can be changed in the main menu.
+---
+16132: {:color #00F0F080}Roxas has gained the use of Abilities.{:reset}
+Equip abilities from the main menu.{:clear }After winning important battles, you level up,
+increasing various parameters and learning
+new attacks.{:clear }You can also level up by getting experience
+from defeating enemies.{:clear }When you´re having a tough time with enemies,
+level Roxas up before moving on.
+---
+16473: {:unk13 96 01 67 00}{:unk08 01 01 06}Yo, Roxas.
+---
+16474: {:unk13 6F 01 4C 00}{:unk08 01 00 05}Never thought you´d do
+such a rotten thing...
+---
+16856: I tell ya, Kairi, you´ve got a lot of guts,
+jumping right into the darkness like that.
+---
+16857:  {:delay 64 00}{:clear }Let go of me!{:delay 28 00}{:clear } {:delay 50 00}{:clear }Let go!
+---
+17093: Fine, I see how it is...
+---
+17158: Use {:icon dynamic-left-analog} to make Roxas 
+move and run. Jump with {:icon dynamic-circle}.
+{:color #00F0F080}Approach the Armor Shop.{:reset}{:clear }
+---
+17159: Approach the Accessory Shop and
+the "Talk" reaction command will appear.
+Press {:icon dynamic-triangle} to talk to the Shop owner.
+{:color #00F0F080}Talk to the Accessory Shop owner.{:reset}
+---
+17160: Move the camera with {:icon dynamic-right-analog}.
+Press {:icon dynamic-r3} to return it to its default
+position. Press {:icon dynamic-r1} to lock on to specific things.
+{:color #00F0F080}Press {:icon dynamic-r1} and lock on to the cat.{:reset}
+---
+17161: You lose HP when damage is taken, and the battle
+is over when HP reaches 0. When you approach
+a target, a yellow mark will appear.
+Press {:icon dynamic-cross} to attack. {:color #00F0F080}Approach and attack Seifer.{:reset}
+---
+17162: Approach the light for the "Save" {:color #00F00080}reaction
+command{:reset} to appear. Press {:icon dynamic-triangle} to open a save menu
+that allows you to save your game.
+{:color #00F0F080}Open the save menu.{:reset}
+---
+17163: Defeat all the Nobodies!
+---
+17294: "Hayner" is written in small letters
+on the darts.
+---
+17295: The sofa where Pence and Olette
+were talking.
+---
+17296: Welcome to Twilight Town!
+---
+17297: ⇽ Station Heights  ⇾ Sandlot
+---
+17298: "Let the Struggle begin!"
+---
+17301: Struggle Battle Rule:
+
+"The battle also ends when all of a
+participant´s orbs have been stolen."
+---
+17303: Large items could fit in this garage.
+---
+17304: ⇽ Sandlot ⇾ Station Heights
+---
+17305: The timetable for Sunset Station.
+---
+17306: "The Seaside Festival is here!"
+---
+17307: Bound for: Sunset Station
+---
+17308: Bound for: ???
+---
+17311: Balls were just bouncing off the wall.
+---
+17312: It was just your reflection in the water.
+---
+17313: Destination: Central Station
+---
+17314: The seven wonders exposed!
+---
+17315: This object was designed after
+Central Station.
+---
+17316: It´s locked tight.
+---
+17317: The castle object is crumbling.
+---
+17318: It´s blocked and can´t be opened.
+---
+17319: Only a massive blast could´ve broken this.
+---
+17320: (Tentative) The seven wonders exposed!
+---
+17344: {:unk08 00 00 00}Just looking at this blade seems to
+give you strength.
+---
+17345: {:unk13 00 01 40 01}{:unk08 02 00 06}Is strength important?
+{:chardelay 33 00}Not really.
+{:chardelay 09 00}You bet it is!
+---
+17346: {:unk08 00 00 00}This staff seems mystical, like just
+holding it would grant you wisdom.
+---
+17347: {:unk13 00 01 40 01}{:unk08 02 00 06}Is wisdom important?
+{:chardelay 33 00}Not really.
+{:chardelay 0B 00}You bet it is!
+---
+17348: {:unk08 00 00 00}This shield is sturdy. A shield like this
+could block just about anything.
+---
+17349: {:unk13 00 01 40 01}{:unk08 02 00 06}Is protection important?
+{:chardelay 33 00}Not really.
+{:chardelay 0A 00}You bet it is!
+---
+17355: "Bring bulk garbage to
+Tram Common Repository!"
+---
+17356: This shed contains tournament equipment.
+---
+17357: Struggle Battle Rule:
+
+"Bring items. If you run out of HP,
+you lose."
+---
+17358: ⇽ Station Plaza ⇾ Tram Common
+---
+17359: ⇽ Tram Common ⇾ Sandlot
+---
+17360: "Bring bulk garbage to
+Tram Common Repository!"
+---
+17361: The door´s too heavy. It won´t budge.
+---
+17362: Where does this rail go to?
+---
+17363: The entrance is on the other side.
+---
+17364: It´s full of ice cream sticks.
+---
+17365: It´s full of ice cream sticks.
+---
+17366: ⇽ Sunset Station ⇾ Sunset Hill
+---
+17367: ⇽ Tunnelway ⇾ Sunset Station
+---
+17368: This looks like a message board.
+---
+17369: "Town line - free of charge!"
+---
+17370: "Town line - free of charge!"
+---
+17371: The statue is staring at the floor.
+---
+17372: It´s completely blocked by pipes.
+---
+17374: This projects the monitor´s image.
+---
+17375: This looks like someone´s data.
+---
+17376: You don´t know what this device is.
+---
+17379: There´s evidence this was used before.
+---
+17380: This hasn´t been used in a while.
+---
+17381: This looks like it could still be used.
+---
+17382: It seems only the power is on.
+---
+17383: Who built this? And for what purpose?
+---
+17384: This is the pod Sora was sleeping in.
+---
+17385: Which will you read?
+---
+17386: All the mischief the King did years ago
+is recorded here.
+---
+17387: This book describes powerful spells.
+---
+17388: You see a phantasmic view, as if
+overlooking a sea of clouds.
+---
+17390: Struggle Battle Rule:
+
+"The person who gathers the most
+orbs in the time allotted wins!"
+---
+17403: This board is used for tournaments.
+---
+17404: Struggle Battle Rule:
+
+"Attack your opponents and gather
+more orbs than they have!"
+---
+17405: This garage contains tournament equipment.
+---
+17406: Struggle Battle Rule:
+
+"Compete with each other for 100 orbs!
+He with the best strategy wins!"
+---
+17407: Contestants:
+Setzer, Seifer, Vivi,
+Hayner, and Roxas
+---
+17408: "Synthesis Workshop - coming soon!"
+---
+17411: You need munny to buy items.{:clear }If you ever need some cash, you
+should check the job board here.
+---
+17412: Watch out, there are bees in there!
+Where could they have come from?{:clear }I posted an ad on the job board to
+exterminate them, but no one´s replied.
+---
+17413: I´ve been asked to host the upcoming
+Struggle battle!{:clear }I don´t have time to run the shop.
+---
+17414: I´m stocking up on merchandise now.{:clear }Lots of people will come to see the
+Struggle, and I don´t want to run out.
+---
+17416: Sorry, I´m old so I closed
+my shop.{:clear }I´m enjoying life now with my cat,
+Chiro.
+---
+17417: Let´s talk to the lady at the accessory
+shop and begin our investigation!
+---
+17418: The best way to get info is to ask! Talk
+to as many people as you can.
+---
+17419: If you find any interesting looking
+places in town, check them out, too!{:clear }You may discover some good info!
+---
+17420: Look around carefully.
+You may find something!{:clear }When investigating, don´t overlook anything!
+---
+17421: Where could that cat be? It´d be funny
+if it was somewhere real close.
+---
+17422: I don´t think it would go too far. Have
+you checked this area carefully?
+---
+17423: So, you´re feeling up to it?{:clear }Take your time picking a weapon--
+not that it´ll matter.
+---
+17424: Seifer won´t waste his time taking you
+guys seriously, y´know!{:clear }He only uses his most powerful attack
+when in trouble, y´know!
+---
+17425: Cakewalk.
+---
+17429: This place is a mess! Who´s going to
+clean all this junk up?
+---
+17430: {:unk08 00 00 00}This has a hand guard.
+It defends well against attacks.
+---
+17431: {:unk13 00 01 40 01}{:unk08 02 00 06}Prioritize defense?
+{:chardelay 33 00}No, I´ll use a different one.
+{:chardelay 0A 00}This will do!
+---
+17432: {:unk08 00 00 00}This looks almost like a staff. You can
+perform unusual attacks with this.
+---
+17433: {:unk13 00 01 40 01}{:unk08 02 00 06}Prioritize unusual attacks?
+{:chardelay 33 00}No, I´ll use a different one.
+{:chardelay 0B 00}This will do!
+---
+17434: {:unk08 00 00 00}A club used in Struggle battles.
+Its light weight makes it easy to swing.
+---
+17435: {:unk13 00 01 40 01}{:unk08 02 00 06}Prioritize offense?
+{:chardelay 33 00}No, I´ll use a different one.
+{:chardelay 09 00}This will do!
+---
+17439: Just as I thought, I ran out of
+merchandise during the Struggle battle!{:clear }You´ll have to wait until I can restock.
+---
+17440: Chiro!
+Where did that cat go?{:clear }It couldn´t have gone too far...
+---
+17441: Oh, hello, Roxas.
+---
+17442: If I were you I´d go with the weapon in
+the middle. Seifer has to pay!
+---
+17443: Watch your opponent well. When he
+lets his guard down, strike back!{:clear }If you do that, you´ll be sure to win!
+---
+17444: The weapon on the right´s not bad.{:clear }You can use it in Struggle too,
+so it should be easy to fight with!
+---
+17446: The promoter of this Struggle battle
+sure works people hard.{:clear }It´s hard work putting up posters.
+Tram Common is huge!
+---
+17447: Want to help me put on a 
+performance?{:clear }I´m hiring some part-time help!
+---
+17451: Back in the day I used to practice
+battling with friends.{:clear }Practicing´s the only way you´ll get
+stronger. Seifer might be a good opponent.
+---
+17453: I found my cat, so I´m going
+to move.{:clear }Chiro and I will live out the rest
+of our days in the country.
+---
+17454: Hayner said he´d take care of things,
+but I knew something like this would happen.{:clear }You can start work at {:theme 0A}this board{:reset}, or at
+the {:theme 0A}Tram Common board{:reset}.
+---
+17455: Hayner went up this hill. It looks like
+he´s waiting at the Station Plaza.{:clear }It seems he´s got some things to do,
+so I´m going to try hard, too!
+---
+17459: You look pretty busy.
+You got a job, now?{:clear }I´m going to practice for the next
+Struggle battle!
+---
+17461: Hey, Roxas! Reached your quota yet?
+Each of us needs to make 800 munny!{:clear }The ocean´s waiting for us!
+I´m counting on you!
+---
+17462: How´s work going?{:clear }When you´ve earned enough cash,
+come back here.
+---
+17463: Hmm...this should cover expenses...
+---
+17464: {:unk13 00 01 40 01}{:unk08 02 00 06}Continue working?
+{:chardelay 33 00}More munny couldn´t hurt!
+{:chardelay 09 00}Nah, I´ve earned enough.
+---
+17465: Way to go, Roxas!
+---
+17466: {:unk13 00 01 40 01}{:unk08 02 00 06}Continue working?
+{:chardelay 33 00}More munny couldn´t hurt!
+{:chardelay 09 00}Nah, I´ve earned enough.
+---
+17467: Whoa-ho Roxas! You´re the man!
+We can even buy a watermelon now!
+---
+17468: {:unk13 00 01 40 01}{:unk08 02 00 06}That´s plenty of munny. Work more?
+{:chardelay 33 00}More munny couldn´t hurt!
+{:chardelay 09 00}Nah, I´ve earned enough.
+---
+17469: This is the first time I´ve been put
+in charge of the shop.{:clear }I´m still just learning the ropes, so bear
+with me a little longer, okay?
+---
+17479: It´s hard work delivering letters along
+this slope.{:clear }I wish I could find someone
+to help me.
+---
+17489: Have you gone to the top? The sunset
+from Sunset Hill is really pretty!
+---
+17490: I´ve been so busy hosting the Struggle
+battle, I forgot all about the shop!{:clear }Sorry, please come back later.
+---
+17498: Rumors are going around about seven
+wonders here in Sunset Terrace.{:clear }I don´t put much stock in rumors, but
+this one´s a bit creepy.
+---
+17499: Have you been to Sunset Hill?
+The sunset there is breathtaking!{:clear }Long ago my wife and I would...
+...Ah, never mind.
+---
+17509: I´ve been so busy making weapons for
+the Struggle, I forgot all about work!{:clear }Sorry, but my merchandise isn´t ready
+yet.
+---
+17515: I have to move those items into this
+garage.{:clear }I posted a help wanted ad, but no one´s
+come yet.
+---
+17516: I´m making weapons for the Struggle
+tournament!{:clear }Sorry, but I´m too busy now to run the
+shop.
+---
+17517: Have you been to Sunset Hill yet?
+The view is amazing from there.{:clear }I used to walk there through the
+tunnelway, but now I take the train.
+---
+17521: ...{:clear }Listen to the rules.
+---
+17522: ...{:clear }Don´t hold back.
+---
+17523: You defeated me, Roxas. You know
+what that means, don´t you?{:clear }You better not lose!
+---
+17524: You´re facing the champion Setzer
+next!{:clear }He lets his guard down a lot, so keep
+an eye out for your chance to strike!
+---
+17525: Are you all set?{:clear }The item shop´s open. It might help to
+buy something in advance!
+---
+17526: Hayner loses his cool easily, and
+opens himself up to attack.{:clear }Watch for your chance, and you should
+win. Just don´t tell him I said anything!
+---
+17527: Something´s not right with Vivi.{:clear }But if you can avoid his attacks, you
+should have an opportunity to hit him.
+---
+17528: Watching Setzer, I´ve noticed
+he has an attack pattern!{:clear }If you can figure it out, it should make
+fighting him a lot easier!
+---
+17529: Seifer and his gang went to the back
+alley. They must not like crowds.
+---
+17530: I hope you´ve bought potions and stuff.
+You´ll need ´em when fighting Hayner.{:clear }If you don´t have enough cash, you
+can always do some more work!
+---
+17531: Seifer seems to be taking his loss to
+Vivi pretty hard.{:clear }He went to the back alley again.
+---
+17532: It seems Setzer trained hard
+for this tournament.{:clear }You, too, should be prepared when
+you face him, Roxas!
+---
+17533: Struggle battles are nice, but nothing
+beats a good street brawl!
+---
+17534: Hmph!{:clear }You got something to say?
+Feel free to step up anytime, kid.
+---
+17535: You think you´re tough just ´cause
+you won?{:clear }Next time I won´t hold back!
+---
+17536: Seifer´s gonna win,
+hands down, y´know!
+---
+17537: Vivi isn´t that tough, y´know!
+This has gotta be a mistake!
+---
+17538: Seifer wasn´t fighting for real, y´know!
+He won´t hold back next time!
+---
+17539: Victory.
+---
+17540: Cheater.
+---
+17541: Lucky.
+---
+17542: You here for my autograph?
+Sorry, but I´m busy.{:clear }Why don´t you go listen to the referee
+in front of the board explain the rules?
+---
+17543: You here to ask the champ to give you
+some pointers?{:clear }Just gather the orbs faster than your
+opponent. The rest is luck.
+---
+17544: That was a fun match. But don´t let
+down your guard after you get an orb.{:clear }One strategy is to flee so you aren´t
+attacked. Nothing works against me, though.
+---
+17545: Contests are kind of like
+flipping a coin.{:clear }Let´s have a go at it, shall we?
+Keep it clean, right...?
+---
+17546: He...hehehehh...{:clear }RR...Ro...
+...xaa...ssss...
+---
+17547: Why did I enter that competition?{:clear }And why is everyone giving me the
+cold shoulder?
+---
+17552: All participants should hear the rules!
+---
+17553: {:unk13 00 01 40 01}{:unk08 02 00 06}Listen to the rules?
+{:chardelay 33 00}Not right now.
+{:chardelay 09 00}I´d better listen.
+---
+17554: Once you´re ready, climb into the ring
+and talk to the promoter!
+---
+17557: First listen to the referee explain
+the rules!{:clear }Then I´ll start the tournament. When
+it´s your turn, come speak to me.
+---
+17558: All right, time to begin! I hope you´ve
+practiced battling someone!
+---
+17559: {:unk13 00 01 40 01}{:unk08 02 00 06}Are you ready to take on Hayner?
+{:chardelay 33 00}I´m not ready yet.
+{:chardelay 09 00}I´m ready! Let´s get started!
+---
+17560: It´s time for the final match!
+Are you ready?
+---
+17561: {:unk13 00 01 40 01}{:unk08 02 00 06}Are you ready to take on Vivi?
+{:chardelay 33 00}I´m not ready yet.
+{:chardelay 09 00}I´m ready! Let´s get started!
+---
+17562: And now for the title match!
+Are you all set?
+---
+17563: {:unk13 00 01 40 01}{:unk08 02 00 06}Are you ready to take on Setzer?
+{:chardelay 33 00}I´m not ready yet.
+{:chardelay 09 00}I´m ready! Let´s get started!
+---
+17587: {:color #00F0F080}The main menu can be opened with {:icon dynamic-start}.{:clear }{:reset}View status and munny, and change configuration
+settings. The menu cannot be opened during battle.{:clear }Roxas´s Journal contains {:color #00F0F080}hints of what to do next{:reset},
+and past events.
+---
+17588: My dog´s always running off
+somewhere.{:clear }Where could he have gone this time?
+---
+17589: This town is connected by several
+tunnelways.{:clear }They scared me when I was a kid, but 
+I played in them all the time.
+---
+17590: I have to put up posters again today for
+the next Struggle battle!
+---
+17593: You were amazing!
+Thank you!{:clear }Still, I need more. I can´t wait until the
+next Struggle battle!
+---
+17594: You came from Central Station?{:clear }I´m getting on a train now to go see
+my grandchild.
+---
+17595: I can´t find any rumors about the
+seven wonders...{:clear }You guys are getting on a train at the
+station, right? I don´t know what I´ll do...
+---
+17596: There are lots of sketchy places to
+check out, like dead ends and tunnels!
+---
+17597: People leaving balls behind,
+Vivi´s voice echoing...{:clear }The "seven wonders" are more like
+"seven misunderstandings."
+---
+17598: Give it up already. The seven
+wonders weren´t wonders at all.{:clear }If you´re still not convinced, you can go
+to that mansion by yourself.
+---
+17604: Hayner said he´d find out more and
+take care of things.{:clear }He already went running off to the
+Station Plaza.
+---
+17605: How´s it going?{:clear }This place looked suspicious to me, so
+I´m checking it out.
+---
+17606: To think that dog was hiding inside a
+bag. How cute!{:clear }Even though it was my own reflection
+in the water, I couldn´t help but jump!
+---
+17607: A mansion beyond a hole in a wall and
+the woods...{:clear }That fits the description of a haunted
+house, but it´s just a rumor, okay?
+---
+17609: Struggle battles are nice, but nothing
+beats a good street brawl!
+---
+17610: Seifer could care less about turning in
+his homework assignment, y´know!
+---
+17611: Fool.
+---
+17612: The only way to grow stronger is
+through experience.{:clear }I´m gonna keep getting stronger.
+---
+17613: I have to practice so I can be strong
+like Seifer.{:clear }You can find him in the sandlot, but
+don´t expect to beat him.
+---
+17615: You can now view the status of Party Members
+from the main menu.{:clear }All Roxas´s abilities and munny have been
+passed on to Sora.{:clear }Jiminy´s Journal contains {:color #00F0F080}hints of what to do next{:reset}
+and past events.
+---
+17631: Have you come to find a job?{:clear }I can´t find any work
+that I can do.
+---
+17632: My dog may like wandering about,
+but he always comes back home!
+---
+17634: No matter how many I swat,
+they just keep coming!{:clear }What am I to do?
+---
+17635: I hope I can find some performers soon.
+I can´t wait!
+---
+17637: I came here to see the train that
+doesn´t have a conductor.{:clear }I´ve been here the entire day, though,
+and not one train´s gone by!
+---
+17638: How am I supposed to carry this stuff
+up to the garage?{:clear }And he wants me to hurry? I never
+should have taken this job.
+---
+17639: Walking through the tunnels is better
+for your health than taking the train!
+---
+17641: These Struggle battles always draw
+huge crowds, and all because of me!{:clear }No one would know about them
+without these posters! Still, I´m beat!
+---
+17643: This steep slope makes it downright
+difficult to deliver letters!{:clear }But the mailman is so fast!
+What does he ride on?
+---
+17645: Rumors are going around about seven
+wonders in Sunset Terrace.{:clear }They´re easily explained, but sometimes
+things are more than what they appear.
+---
+17647: I haven´t seen you before. Have you
+seen the sunset from Sunset Hill?{:clear }It looks even more beautiful when
+going there with someone you love.
+---
+17648: Sometimes a strange train
+stops here.{:clear }I wonder where it goes.
+Do you know anything about it?
+---
+17649: You´re willing to fight!? Great!
+First I´d like to test your ability...{:clear }but I don´t have any opponents for you.
+You´ll have to wait. Meanwhile, practice!
+---
+17651: Youngsters walk through the
+tunnelways instead of taking the train...{:clear }but I´m too old to do that.
+---
+17653: I´m getting old. I sure could use
+a hand.
+---
+17654: The station´s just up the slope. Let´s
+get on a train and go to Central Station.{:clear }I think the town line´s still free of
+charge, so it won´t cost anything!
+---
+17656: Let´s go solve the mystery of the
+Sunset Hill ghost train!{:clear }This one´s got to be real! I can feel it!
+Well, at least I think I can...
+---
+17657: The hole in that Tram Common wall
+leads to the haunted mansion.{:clear }But it´s just a rumor. Don´t get your
+hopes up.
+---
+17659: You were asleep for so long, you still
+may be kind of dazed, Sora.{:clear }Don´t worry. If you forget what you
+have to do, just check Jiminy´s Journal.
+---
+17660: The Mysterious Train...
+This should take me out of Twilight Town.
+---
+17661: {:unk13 00 01 40 01}{:unk08 02 00 06}Get on the train?
+{:chardelay 33 00}Not yet.
+{:chardelay 09 00}Get on.
+---
+17662: Don´t go back to the mansion,
+you may fall asleep again!{:clear }Besides, we should check out what
+kind of place this is. I´m excited!
+---
+17663: It´s time for our adventure to begin!{:clear }If there´s something you still want to
+do here, now´s your last chance.
+---
+17664: If you want to know about this town,
+go to the sandlot. We´re busy.{:clear }I´m sure Seifer´s bunch will
+accommodate you.
+---
+17665: The guy looking for you is at the station.{:clear }It´s at the top of Station Heights.
+You should go see what he wants.
+---
+17666: We have to do our homework. If you´ve
+got time, why don´t you get a job?{:clear }Oh, wait. I don´t think anyone´s hiring
+right now.
+---
+17667: Whether brawling or Struggling, I´m not
+gonna lose to the likes of you!{:clear }Why don´t you come back ten years
+from now?
+---
+17668: I don´t know who you are...{:clear }but you don´t stand a chance Struggling
+against Seifer, y´know!
+---
+17669: Instant annihilation.
+---
+17670: I came because I heard there was
+gonna be another Struggle battle.{:clear }The promoter in the sandlot should be
+able to tell you more.
+---
+17671: Seifer´s real strong, y´know!{:clear }Did I sound tough? Did I?
+Tough like Rai, y´know!
+---
+17672: Sorry I was so cold before.
+Something´s been bugging me...{:clear }We may not see each other for awhile.
+Take care of yourself, okay?
+---
+17673: That´s weird. I feel like I should see
+you off for some reason...{:clear }Like I have to say bye to someone I´ve
+been waiting a long time to see...
+---
+17674: Um, Sora? About that bag of yours...
+Uh, never mind.{:clear }Come visit us again, alright?
+We´ll be at the usual spot.
+---
+17675: Well... We got on the train and came
+here like the King said.{:clear }Something's strange about this place.
+I wonder where we are.
+---
+17676: Pete´s a little late to the party.{:clear }We already defeated Maleficent.
+---
+17677: We have to read that book like
+Master Yen Sid said!{:clear }We´ve been asleep for awhile, so we
+need to know what´s been going on!
+---
+17678: Someone´s at the entrance of the building.{:clear }Adventuring rule # 17:
+Collect information!
+---
+17679: I never expected to run into
+Pete here!{:clear }To think he´s not just messing around
+with our world, but here, too...!
+---
+17680: This is a strange tower.
+I wonder why it was built...{:clear }Adventuring Rule # 8:
+Search every corner of a new place!
+---
+17681: That book contains important
+knowledge. Be sure to read it.
+---
+17682: {:unk13 00 01 40 01}{:unk08 02 00 06}Do you have any questions?
+{:chardelay 33 00}Read more first.
+{:chardelay 09 00}Actually...
+---
+17860: From here on, when HP becomes 0, it is {:color #00F0F080}game over{:reset}.
+Make sure to restore HP when HP gets low.
+---
+17861: {:unk0f 03 0F 00 84 01}{:color #00F0F080}The Drive command has been added.{:reset}
+The gauge on the lower right
+is consumed for transformation.{:clear }{:unk0f 00 00 00 00 00}It is powerful as it absorbs Party Members´ strength,
+but Party Members disappear while transformed.
+---
+17906: {:delayandfade 05 3C}Be careful.
+
+
+
+
+
+
+
+
+
+
+
+---
+17907: {:delayandfade 05 3C}Beyond that door lies
+a completely different world.
+
+
+
+
+
+
+
+
+
+
+---
+17908: {:delayandfade 05 3C}But don´t be afraid.
+
+
+
+
+
+
+
+
+
+
+
+---
+17909: {:delayandfade 05 3C}Don´t stop walking...
+
+
+
+
+
+
+
+
+
+
+
+---
+17910: Your morale has increased. (Strength +1)
+---
+17911: You´ve become calmer. (Defense +1)
+---
+17912: You´ve become more astute. (Magic +1)
+---
+17913:  
+---
+17914: You´ve become somewhat dexterous. (AP +1)
+---
+17915: You´ve become quite dexterous. (AP +2)
+---
+17916: Received the power of the warrior.
+---
+17917: Received the power of the guardian.
+---
+17918: Received the power of the mystic.
+---
+17945: Hey! How´s your journey going?
+Nothing much is going on here.{:clear }The Struggle promoter has something
+going on. You may want to check it out.
+---
+17946: Sora! Donald! Goofy!
+It´s good to see you again!{:clear }The synthesis workshop finally opened. It
+might be useful to your journey. Check it out!
+---
+17947: You came back! I´m so happy to see
+you!{:clear }People are hiring again. You may want
+to take on a few jobs while you´re here.
+---
+17948: How is your journey so far? If you run
+into trouble, return to the basics.{:clear }I´ll leave that book out for you, so you
+can read it anytime.
+---
+17949: Once you´ve changed, you´re off!
+---
+17950: {:unk13 00 01 40 01}{:unk08 02 00 06}Change clothes?
+{:chardelay 33 00}Not yet.
+{:chardelay 09 00}Please!
+---
+17951: You´re not ready for the last outfit.
+It won´t work, Sora.{:clear }It can only be worn by one who´s
+overcome anything.
+---
+17952: We´ve been told about you. Hurry up
+and try on your new clothes!{:clear }That is...after you´ve prepared for your
+journey, of course.
+---
+17953: Hmm...
+Judging by the look of you, Sora...{:clear }I´d say you might be able to get the
+clothes that unleash magic!
+---
+17954: These clothes will help you only as
+much as your growth allows!{:clear }Their true potential lies dormant. It´s
+your job to unleash it!
+---
+17955: How does your magic outfit feel?
+Each outfit has four dormant abilities.{:clear }Specifically, they are...um...oh, what
+were they? Flora should know!
+---
+17958: J-just hurry to the {:theme 0A}Station Plaza!{:reset}
+You can ask more about Kairi there!
+---
+17960: I don´t like this.{:clear }You can have that trophy for now,
+but I´ll be getting it back!
+---
+17962: You just caught Seifer
+off guard, y´know!
+---
+17964: Upset.
+---
+17970: I bet you can get to the other
+Twilight Town through this mansion.
+---
+17971: Don´t worry, we´ll stand guard here.
+Go check out that mansion!
+---
+17972: I can´t believe such an amazing
+computer was inside this mansion.{:clear }Look at all these machines.
+I don´t understand any of it.
+---
+17973: Leave this world to me! If you get in
+trouble, just come back.{:clear }That device there should be able to
+bring you back.
+---
+17974: This mansion´s freaky. It feels like
+monsters are lurking in there...
+---
+17975: This place is falling apart.{:clear }There´s supposed to be a computer in
+this raggedy mansion?
+---
+17976: The password´s the name of that ice cream!{:clear }Make sure you get it right. It won´t take
+an incorrect password!
+---
+17977: {:unk13 00 01 31 01}{:unk08 02 00 06}The name of the ice cream was...
+{:chardelay 33 00}Sky sugar ice cream
+{:chardelay 09 00}Sea salt ice cream
+{:chardelay 33 00}Liver pepper ice cream
+---
+17978: There should be a device like this in
+the other world, too.{:clear }You should be able to come back by
+using it!
+---
+17979: Let´s head in!{:clear }This place has to be hiding some
+kind of secret!
+---
+17980: I don´t think those white things will
+attack us for awhile.{:clear }So you can take your time searching the mansion!
+---
+17981: An ice cream flavor? Could it be that
+ice cream we used to eat all the time?{:clear }Sweet yet salty...and delicious!
+That has to be it!
+---
+17982: I feel we´ll see you again. Bring Kairi
+back with you, okay?{:clear }We´ll be here waiting for you!
+---
+17983: Riku´s going to be so mad at me.{:clear }Still, we have to hurry and search the
+mansion!
+---
+17984: There should be a computer leading to
+another world in this mansion!{:clear }I´m sure we´ll find it if we search hard
+enough!
+---
+17985: That´s it! The ice cream name is
+Sea-sa...{:clear }No, you should do this, Sora. Hurry
+and tell Pence the flavor!
+---
+17986: Ready?{:clear }{:theme 0A}Touch this light{:reset} to be
+taken to the other world!
+---
+17987: It may look the same, but this is
+different than where we just were.{:clear }The enemy may attack at anytime, so
+be careful!
+---
+17989: Nothing looks different, but I have a
+bad feeling.{:clear }Let´s be ready for anything,
+but we can always return{:clear }to the other world through the light.
+---
+17991: So there really was another
+Twilight Town.{:clear }Come on, we have to find the
+entranceway to the darkness.
+---
+18070: Defeat all the Nobodies!
+---
+18203: Struggle Battle Secret:
+
+"Deplete all your opponent´s HP for a
+big opportunity."
+---
+18204: "Town line - free of charge!"
+---
+18205: "Town line - free of charge!"
+---
+18206: A symbol is drawn in two circles.
+You could continue the drawing if
+you only had the right clue.
+---
+18207: Countless Twilight Town data is
+recorded here.
+---
+18208: This probably won´t ever work again.
+---
+18209: It´s completely broken
+beyond all repair.
+---
+18210: Donald is sleeping inside.
+---
+18211: Goofy is sleeping inside.
+---
+18212: This is the pod Donald was sleeping in.
+---
+18213: This is the pod Goofy was sleeping in.
+---
+18214: This display allows you to check on
+conditions inside the pods.
+---
+18215: An image of you utilizing your strength
+to its fullest flows into your mind.
+---
+18216: An image of you utilizing your magic to
+its fullest flows into your mind.
+---
+18217: An image of you possessing all abilities
+flows into your mind.
+---
+18218: An image of the Keyblade unleashing
+its ultimate power flows into your mind.
+---
+18219: An image of you overcome by the
+power of darkness flows into your mind.
+---
+18220: 3: Back Alley 4: Tram Common
+---
+18221: 2: Tunnelway 5: Station Plaza
+---
+18222: 2: Tunnelway 3: Back Alley
+---
+18223: It can´t be opened at this time.
+---
+18318: Time has completely halted.
+---
+18323: It looks like it leads somewhere, but
+the power of darkness prevents entry.
+---
+18385: {:unk13 FC 00 4C 01}{:unk08 01 01 02}Oh, it´s just
+you, Roxas.{:clear }Were you throwing a ball?
+---
+18386: {:unk13 4F 01 39 00}{:unk08 01 00 06}That ball flew out of nowhere
+and totally startled me.{:clear }Hey, I know!{:clear }This explains one of
+those seven wonders!
+---
+18388: {:unk13 C3 00 3C 00}{:unk08 01 00 05}Vivi?
+---
+18392: {:unk13 39 01 6D 00}{:unk08 01 01 06}What is it, Roxas?
+---
+18393: {:unk13 4D 01 CE 00}{:unk08 01 00 07}Oh, did you need this, Roxas?{:clear }Planning on getting in
+some practice, I bet.
+---
+18396: {:unk13 5D 01 5E 00}{:unk06 02}{:unk08 03 00 05}Roxas!
+---
+18397: {:unk13 8A 01 59 00}{:unk08 01 00 05}You all right?
+---
+18422: You know what a Struggle is?
+You duke it out fairly in the ring.{:clear }Why don´t you participate, too? Think
+you can beat me--the champion?
+---
+18423: {:unk13 00 01 40 01}{:unk08 02 00 06}Win or lose--no grudges!
+{:chardelay 33 00}No thanks.
+{:chardelay 09 00}Challenge him.
+---
+18424: {:unk13 00 01 40 01}{:unk08 02 00 06}Win or lose--no grudges!
+{:chardelay 33 00}No thanks.
+{:chardelay 09 00}Challenge him.
+---
+18425: {:unk13 00 01 40 01}{:unk08 02 00 06}Fight mano a mano!
+{:chardelay 33 00}No thanks.
+{:chardelay 09 00}Challenge him.
+---
+18430: You can see some faint writing
+---
+18431: Battle Hayner?{:chardelay 33 00}No.
+{:chardelay 09 00}Let´s Struggle!
+---
+18432: You can see some faint writing
+---
+18433: Battle Setzer?{:chardelay 33 00}No.
+{:chardelay 09 00}Let´s Struggle!
+---
+18434: You can see some faint writing
+---
+18435: Battle Seifer?{:chardelay 33 00}No.
+{:chardelay 09 00}Let´s Struggle!
+---
+18436: Looking closely, you can see the Struggle rules.{:clear }Unlike the tournament Struggle, these are
+the rules you invented, in which participants
+compete to steal each other´s points!
+---
+18478: {:unk13 31 01 37 00}{:unk08 01 01 05}Now that´s spooky!{:clear }I thought I saw someone, but
+it was just my reflection.{:clear }I bet this is behind one
+of those seven wonders!
+---
+18514: {:unk13 8F 00 5E 00}{:unk08 01 01 06}Yikes!
+---
+18515: {:unk13 7C 01 75 00}{:unk08 01 00 05}Oh, it was
+just a dog.{:clear }Did you let it out
+of the sack, Roxas?
+---
+18516: {:unk13 E3 00 39 00}{:unk08 01 00 05}This explains one of
+those seven wonders!
+---
+18588: You´re pretty scrawny, so you should
+hit the items and carry them.{:clear }They´re heavy, though, so if you´re not
+quick they´ll slide down the slope.
+---
+18589: There are lots of places to put up
+posters here in Tram Common.{:clear }If I could only remember which places
+catch more people´s attention...
+---
+18590: You´re here for work?{:clear }Put up the posters quickly, so people
+can see them.
+---
+18591: I find that if you hit garbage,
+it´ll knock other garbage away with it.{:clear }It´s not exactly a gentle way to clean,
+but it sure saves time!
+---
+18596: Pick up one of the three weapons.
+Choose wisely, as it will determine your battle style!
+---
+18597: Defeat Seifer!
+Try using successive attacks to
+unleash a powerful combo!
+---
+18598: Defeat the mysterious enemy!
+He may be the thief!
+---
+18599: Defeat the mysterious enemy!
+Use your magical weapon!
+---
+18600: Fight the mysterious enemy!
+Try using every attack and strategy!
+---
+18602: Destroy the mysterious enemy!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+18603: Engage in battle against Hayner
+using quick attacks!
+---
+18604: Engage in combat against Vivi!
+Watch closely as he leaves his guard
+down after an attack!
+---
+18605: Defeat all of the mysterious enemies!
+Fight using the mystifying Keyblade!
+---
+18606: Defeat the mysterious man, Axel!
+Fight using the mystifying Keyblade!
+---
+18607: Engage in battle against Setzer!
+Watch his attack patterns closely
+and look for an opening!
+---
+18608: Attack and defeat all of the enemies
+except for Axel!
+---
+18609: Use the mysterious Keyblade
+to destroy all of the enemies!
+---
+18610: Use the Keyblade to defeat Axel!
+---
+18611: Use the mysterious Keyblade
+to destroy all of the enemies!
+---
+18612: Fight alongside your friends
+and defeat the Heartless!
+---
+18613: Fight alongside your friends
+and defeat the Heartless!
+---
+18614: Fight alongside your friends
+and defeat the Heartless!
+---
+18615: Defeat Seifer!
+---
+18616: Defeat Seifer!
+---
+18617: Fight alongside King Mickey
+and defeat all of the Nobodies!
+---
+18618: Defeat all of the Nobodies
+by fighting alongside Axel!
+---
+18619: Defeat the mysterious enemies!
+Use Reversal and Dash to avoid
+getting outnumbered!
+---
+18620: Face and defeat the Shadow Roxas!
+Watch its actions closely!
+---
+18621: Use your defensive abilities
+to survive!
+---
+18622: Defeat the Vivis!
+Don´t let them outnumber you!
+---
+18623: Defeat Seifer!
+---
+18624: Defeat Seifer!
+Watch closely as he may
+leave himself open for an attack!
+---
+18625: Defeat Seifer!
+---
+18626: Defeat Seifer!
+Watch closely as he may
+leave himself open for an attack!
+---
+18627: Vs. Hayner
+---
+18628: Vs. Hayner:
+Attack swiftly!
+---
+18629: Vs. Seifer
+---
+18630: Vs. Seifer:
+Catch him off guard!
+---
+18631: Vs. Setzer
+---
+18632: Vs. Setzer:
+Figure out his strategy!
+---
+18634: Hold on to it or it´ll begin to restore its energy!
+---
+18706: Defeat the mysterious enemies
+with the magical weapon!
+---
+18707: Defeat all of the Nobodies!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+18921: Want to try out this skateboard?
+It may be good practice for work.
+---
+18922: {:unk13 00 01 40 01}{:unk08 02 00 06}Ride the skateboard?
+{:chardelay 33 00}I´ve got other things to do.
+{:chardelay 52 00}Let me on it!
+---
+18968: Did I see anyone go by? I just got here
+myself, but I haven´t seen anyone.{:clear }Even all grown up, these tunnels still
+spook me. I´d best be on my way.
+---
+18969: I have a map of the seven wonders.
+If you´re lost, come see me!
+---
+18970: I have a map of the seven wonders.
+If you´re lost, come see me!
+---
+18971: I have a map of the seven wonders.
+If you´re lost, come see me!
+---
+18972: I have a map of the seven wonders.
+If you´re lost, come see me!
+---
+18975: Received 100 munny!!!
+---
+18976: Received 60 munny!!!
+---
+18977: Received 30 munny!
+---
+18978: Received 100 munny!!!
+---
+18979: Received 60 munny!!!
+---
+18980: Received 30 munny!
+---
+18981: Received 100 munny!!!
+---
+18982: Received 60 munny!!!
+---
+18983: Received 30 munny!
+---
+18984: Received 100 munny!!!
+---
+18985: Received 60 munny!!!
+---
+18986: Received 30 munny!
+---
+18987: Received 100 munny!!!
+---
+18988: Received 60 munny!!!
+---
+18989: Received 30 munny!
+---
+18990: Received 100 munny!!!
+---
+18991: Received 60 munny!!!
+---
+18992: Received 30 munny!
+---
+18997: You´ll be departing after you´ve
+changed in the wardrobe.{:clear }Take time now to prepare.
+---
+18998: Those clothes have all kinds of powers
+that rely on the help of friends!{:clear }Just as you on your journey, they need
+friends, too, to unleash their powers!
+---
+18999: You´ll have amazing powers when you
+transform, but the process takes time.{:clear }Even so, transforming will help you
+tremendously on your adventures!
+---
+19000: You´ve already gained a new ability!
+Those clothes must be meant for you!{:clear }That transformation unleashes your
+potential to the fullest, Sora!
+---
+19001: {:unk13 AF 00 CE 00}{:unk08 01 01 01}Er, no, it´s just that...
+there were so many of you...
+---
+19002: {:unk13 6B 01 A2 00}{:unk08 01 00 07}Huh?
+So...many of me?{:clear }I don´t get it.{:clear }Anyway, I´m done
+with this, Roxas.{:clear }You can take your time.
+---
+19003: {:unk13 53 01 6D 00}{:unk08 01 00 05}So the mystery voice
+was just Vivi practicing.
+---
+19004: {:unk13 1B 01 39 00}{:unk08 01 00 05}Another...me?
+---
+19012: I´ve had my exercise for the day.
+I can´t say I´m surprised at the result.{:clear }Feel free to come back for more
+anytime!
+---
+19013: Seifer´s unbeatable! He´ll win no matter
+how many times you fight him, y´know!
+---
+19014: Given.
+---
+19015: Hmph. You got lucky.
+I´ll let you off easy today.
+---
+19016: Need I say more? You weren´t worth
+even warming up on!{:clear }If you want another beating, come back
+anytime!
+---
+19017: Seifer was just tired!
+He won´t lose next time, y´know!
+---
+19018: Seifer´s a genius!
+You´re no match for him, y´know!
+---
+19019: Purposely.
+---
+19020: Inevitable.
+---
+19052: Received 50 munny!!!
+---
+19053: Received 30 munny!
+---
+19054: Received 10 munny!
+---
+19055: Received 50 munny!!!
+---
+19056: Received 30 munny!
+---
+19057: Received 10 munny!
+---
+19058: Received 50 munny!!!
+---
+19059: Received 30 munny!
+---
+19060: Received 10 munny!
+---
+19061: Received 100 munny!!!
+---
+19062: Received 50 munny!!!
+---
+19063: Received 30 munny!
+---
+19064: Received 50 munny!!!
+---
+19065: Received 30 munny!
+---
+19066: Received 10 munny!
+---
+19067: Received 50 munny!!!
+---
+19068: Received 30 munny!
+---
+19069: Received 10 munny!
+---
+19119: {:unk08 02 00 06}{:chardelay 33 00}None.
+{:chardelay 0A 00}"The Beginning"
+{:chardelay 0B 00}"Interlude"
+{:chardelay 0C 00}"The Future Story"
+---
+19129: {:unk13 00 01 D0 00}"The Beginning"{:clear }Each journey gives rise
+to chance encounters,
+and each encounter brings
+forth a farewell.
+
+When a farewell leads to
+a journey, the worlds open
+their hearts.{:clear }There are those chosen by the
+light and those ensnared by
+darkness. Friends who share
+the same bonds, though their
+paths may differ.{:clear }When you doubt the path trod
+thus far, when the hand you
+held is lost to you, gaze anew
+at the heart that once was...
+
+For all the answers are within.
+---
+19130: {:unk13 00 01 D0 00}"Interlude"{:clear }A long dream.
+
+A sad farewell, hanging in the air
+in that "world between."{:clear }What is reality? What is illusion?
+The path chosen by the young boy
+leads to his memories.{:clear }When caught in the stream of
+the days and nights going past,
+gaze anew at your steps...
+
+For there all confusion will end.
+---
+19131: {:unk13 00 01 D0 00}"The Future Story"{:clear }Will the day come when this battle, born
+of confusion, will end?
+
+It is different things to different people.{:clear }Can the reality be that which is hidden?
+
+The reason is mere existence.
+Still, memories can be believed.{:clear }Be not afraid. Entrust your body to the
+soothing waves of your memories.
+By and by, your fleeting rest will be over...
+
+And everything will begin.
+---
+19135: Preparing for Struggle Battle R.
+---
+19136: Battle results:{:clear }Hayner   {:unk0d } wins  {:unk0d } losses
+---
+19137: Battle results:{:clear }Hayner   {:unk0d } wins  {:unk0d } losses
+Setzer   {:unk0d } wins  {:unk0d } losses
+---
+19138: Battle results:{:clear }Hayner   {:unk0d } wins  {:unk0d } losses
+Setzer   {:unk0d } wins  {:unk0d } losses
+Seifer   {:unk0d } wins  {:unk0d } losses
+---
+19139: Preparing for Struggle Battle R.
+---
+19140: Participate in the Struggle battle?
+---
+19141: {:unk08 02 00 06}{:chardelay 33 00}No.
+{:chardelay 09 00}Battle Hayner.
+---
+19142: Participate in the Struggle battle?
+---
+19143: {:unk08 02 00 06}{:chardelay 33 00}No.
+{:chardelay 09 00}Battle Hayner.
+{:chardelay 0A 00}Battle Setzer.
+---
+19144: Participate in the Struggle battle?
+---
+19145: {:chardelay 33 00}No.
+{:chardelay 09 00}Battle Hayner.
+{:chardelay 0A 00}Battle Setzer.
+{:chardelay 0B 00}Battle Seifer.
+---
+19146: Struggle Battle R is now open! You can
+register at the battle board there.{:clear }The rules are the same. You don´t have
+enough experience to fight Seifer yet!
+---
+19147: You´ve got skills, but you´re no match
+for Seifer yet.{:clear }You´ll need to do a few
+more matches.
+---
+19148: Bravo! You are worthy of
+facing Seifer!{:clear }You can Struggle all you want now.
+I´ll be loving every minute of it!
+---
+19325: {:unk13 4F 01 46 00}{:unk08 01 00 04}Listen, there were a whole
+bunch of Vivi clones here
+just a minute ago...
+---
+19390: {:unk13 5E 01 50 00}{:unk08 01 00 05}It´s easy!{:clear }You´ve each got 100 orbs.
+Attack to take away
+your opponent´s orbs.{:clear }That´s all you have to do.{:clear }Land a hit and your
+opponent will drop orbs.{:clear }But if you´re hit,
+you´ll be the one losing
+orbs, so watch out!
+---
+19391: {:unk13 50 01 50 00}{:unk08 01 00 05}Keep collecting orbs.
+When the match is over,{:clear }the participant with the
+most orbs wins!{:clear }When you´re ready, go talk
+to the tournament promoter.
+He´s in the ring.
+---
+19548: It´s locked and won´t move.
+---
+19553: The darts you and Hayner always play with.
+---
+19554: Pence and Olette´s favorite
+sofa.
+---
+19555: Welcome to Twilight Town!
+---
+19556: "Hayner" is written in small letters
+on the darts.
+---
+19557: The sofa where Pence and Olette
+were talking.
+---
+19558: Welcome to Twilight Town!
+---
+19560: Thanks.
+---
+19569: Use Reversal to dodge attacks!
+---
+19570: Use Reversal to dodge attacks!
+---
+19583: Seifer´s real strong, y´know!{:clear }Did I sound tough? Did I?
+Tough like Rai, y´know!
+---
+19584: Defeat all of the Nobodies!
+Using reaction commands with {:icon dynamic-triangle}
+will make the battle easier!
+---
+19650: 
+---
+19654: You have arrived.
+---
+19655: I´ve been to see him...{:delay 78 00}{:clear } {:delay 78 00}{:clear }He looks a lot like you.
+---
+19656: Who are you?
+---
+19657: I´m what´s left.{:delay 5A 00}{:clear }{:delay 28 00}{:clear }Or...{:delay 58 00}{:clear }maybe I´m all there ever was.
+---
+19658: I meant your name.
+---
+19659: My name is of no importance.{:delay DC 00}{:clear }What about you?{:delay 9C 00}{:clear }Do you remember your true name?
+---
+19660: My true name...is...
+---
+19661: 
+---
+19662: Gimme a break, Kai--!
+---
+19663: Giving up already?
+---
+19664: If there are any other worlds out there,
+why did we end up on this one?
+---
+19665: This world has been connected.
+---
+19666: Wh-who´s there?
+---
+19667: Tied to the darkness...
+---
+19668: Sora, don´t ever change.
+---
+19669: The door has opened...
+---
+19670: What?
+---
+19671: You understand nothing.
+---
+19672: Sora...
+---
+19673: {:delay 1E 00}{:clear }Where am I?
+---
+19674: What happened to my home?
+My island?
+---
+19675: Riku! Kai--!
+---
+19676: Who are you?
+---
+19677: They will come at you out of nowhere,
+as long as you continue to wield the Keyblade.
+---
+19678: Hey, why don´t you come with us?
+We can go to other worlds on our vessel.
+---
+19679: Sora, go with them.
+Especially if you want to find your friends.
+---
+19680: Donald Duck.
+---
+19681: Name´s Goofy.
+---
+19682: I´m Sora.
+---
+19683: I´ll go with you, guys.
+---
+19684: The Heartless have great fear of the Keyblade.
+---
+19685: That's right. The Keyblade.
+---
+19686: So...this is the key.
+---
+19687: As the key bearer,
+you must already know{:delay F0 00}{:clear }one must not meddle in
+the affairs of other worlds.
+---
+19688: So many places I want to see...
+I know I´ll get there someday.
+---
+19689: Thus, I do hereby dub thee junior heroes--
+---
+19690: Hey! What do you mean "junior heroes"?
+---
+19691: You rookies still don´t understand
+what it takes to be a true hero.
+---
+19692: I...I wish...
+...for your freedom, Genie.
+---
+19693: Al!
+---
+19694: Sally, why didn´t I listen to you?
+---
+19695: Don´t feel bad, Jack.{:delay 58 00}{:clear }We´ll come up with another
+plan for Halloween.{:delay AC 00}{:clear }Next time, we´ll do it together.
+---
+19696: Power!
+---
+19697: I am Mushu.
+---
+19698: Or are you too cool to play them
+now that you have the Keyblade?
+---
+19699: Riku! What are you doing here?
+---
+19700: Did you find her?
+---
+19701: I still can´t believe it.{:delay A2 00}{:clear }I really flew. Wait ´til I tell Kai--.{:delay C6 00}{:clear }I wonder if she´ll believe me. Probably not.
+---
+19702: I´m searching, too.
+---
+19703: For your light?
+Don´t lose sight of it.
+---
+19704: Sora, where are you going?
+---
+19705: I´m gonna go look for my friends.
+They´re waiting for me.
+---
+19706: Where are Donald and Goofy?
+---
+19707: Instead of worrying about them,
+you should be asking about her.
+---
+19708: It´s up to me.{:delay 78 00}{:clear }Only the Keyblade master can open
+the secret door and change the world.
+---
+19709: But I´m not gonna betray Sora, either.
+---
+19710: All for one and one for all.
+---
+19711: My friends are my power!
+---
+19712: So, your heart won this battle.
+---
+19713: It is I, Ansem,
+---
+19714: lead me into everlasting darkness!
+---
+19715: Sora!
+---
+19716: Forget it!
+There´s no way you´re taking Kairi´s heart!
+---
+19717: Kairi.
+---
+19718: We may never meet again,
+but we´ll never forget each other.
+---
+19719: No matter where we are,
+our hearts will bring us together again.
+---
+19720: Take this.{:delay 4B 00}{:clear }It´s my lucky charm.
+Be sure to bring it back to me.
+---
+19721: Don´t worry. I will.
+---
+19722: Promise?
+---
+19723: Gawrsh, is that all that´s left of
+the worlds taken by the Heartless?
+---
+19724: Those worlds will be restored
+if we beat Ansem, right?{:delay A8 00}{:clear }But, if we do beat him and all these worlds
+become restored and disconnected,{:delay 55 01}{:clear }what´s gonna happen to this place? And to us?
+---
+19725: All worlds begin in darkness,{:delay AE 00}{:clear }and all so end.{:delay 84 00}{:clear }The heart is no different. {:delay 9F 00}{:clear }You see, darkness is
+the heart´s true essence.
+---
+19726: That´s not true!{:delay 34 00}{:clear }The heart may be weak.
+And sometimes it may even give in.{:delay 2C 01}{:clear }But I´ve learned that deep down,
+there´s a light that never goes out!
+---
+19727: Kingdom Hearts!{:delay 8C 00}{:clear }Fill me with the power of darkness!
+---
+19728: You´re wrong.{:delay 5E 00}{:clear }I know now,{:delay 4C 00}{:clear }without a doubt.{:delay 6B 00}{:clear }Kingdom Hearts is light!
+---
+19729: Now, Sora!
+Let´s close this door for good!
+---
+19730: Take care of her.
+---
+19731: Kairi!
+---
+19732: Sora!
+---
+19733: Kairi, remember what you said before?{:delay 96 00}{:clear }I´m always with you, too.{:delay 67 00}{:clear }I´ll come back to you.{:delay 63 00}{:clear }I promise!
+---
+19734: I know you will!
+---
+19735: Well, now what do we do?
+---
+19736: We´ve gotta find Riku and King Mickey.
+---
+19737: But, uh, where do we start lookin´
+for that there door to the light?
+---
+19738: Pluto?
+---
+19739: Gawrsh, that´s the king´s seal!{:delay 96 00}{:clear }Hey, have you seen King Mickey?
+---
+19740: Let´s go!
+---
+19741: But the boy is a problem.
+He found one of the Keyholes.
+---
+19744: Don´t ever forget.{:delay 54 00}{:clear }Wherever you go, I´m always with you.
+---
+19747: 
+---
+19863: 
+---
+19890: You seek answers.
+---
+19891: You feel nothing.{:delay B0 00}{:clear } {:delay 55 00}{:clear }Nothing is real.
+---
+19892: I can give you purpose.
+---
+19893: Roxas.
+---
+19894: That is right--the new you.
+---
+19895: Guess that's that.
+---
+19896: Let's go.
+---
+19897: Go where?{:delay 6E 00}{:clear } {:delay 0A 00}{:clear }It's not like we have homes to return to.
+---
+19898: We don't exist, remember?
+---
+19899: Yes, it's true. We may not have homes...
+---
+19900: But there IS someplace I want to go.{:delay A5 00}{:clear }And...someone I want to see.
+---
+19901: Same here.
+---
+19902: So, you think you might let us go?{:delay 96 00}{:clear }I know you're here to get rid of us, but...
+---
+19903: DiZ? Wants to get rid of me?
+---
+19904: Go.
+---
+19905: You sure about this?
+---
+19906: I owe you both.
+---
+19907: For what?
+---
+19908: Castle Oblivion. You helped us.
+---
+19909: Heh. You don't have to tell me twice.
+---
+19910: Thank you.
+---
+19911: Look who's finally awake.
+---
+19912: Axel...
+---
+19913: Or, maybe I have it wrong.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Might be time to sleep.{:delay 82 00}{:clear }Soon, we won't be able to
+talk like this anymore.
+---
+19914: Does that mean...{:delay 7D 00}{:clear }it's time for me to go back
+to where I belong?
+---
+19915: You know, I've been thinking about
+something Naminé said.{:delay 0E 01}{:clear } {:delay 32 00}{:clear }Roxas, are you really sure that
+you don't have a heart?{:delay 68 01}{:clear }Is it possible that we ALL have one?
+You, me, her...{:delay 40 01}{:clear }Or is that just wishful thinking?
+---
+19916: I dunno.{:delay A9 00}{:clear }I can't...just look inside.
+---
+19919: C'mon, don't leave me hanging.
+---
+19920: Sora will find the answer we're
+looking for. I know he will.{:delay 1D 01}{:clear }Because he's me.
+---
+19921: True enough.
+---
+19922: Man, I miss the old times.
+Still got it memorized?{:delay E3 00}{:clear }The day we met, when you got your
+new name, you and I sat right here{:delay 2B 01}{:clear }and watched the sun set.
+---
+19923: Yeah. This place is home.{:delay C8 00}{:clear } {:delay 64 00}{:clear }Me, Hayner, Pence, Olette...{:delay 39 01}{:clear }We've shared a lot of adventures.
+---
+19924: You'll see them again. I know you will.
+---
+19925: Yeah, you're right.{:delay B4 00}{:clear } {:delay 1E 00}{:clear }Well, I should go. Sora's waiting for me.
+---
+19926: Yeah, I suppose he is.{:delay 81 00}{:clear } {:delay 83 00}{:clear }Man, this is some good ice cream, huh?
+---
+19927: Take care, okay?
+---
+19928: Right back at ya, buddy.
+---
+19987: Yeah, I guess not.
+---
+20172: {:unk08 02 00 06}It's an Absent Silhouette, a shadowy presence
+within an emblem.
+{:chardelay 33 00}Who cares?
+{:chardelay A1 00}Let's check it out!
+---
+20188: But I figure, if there is something
+in there--inside us--{:delay 13 01}{:clear } {:delay 0F 00}{:clear }
+then we'd feel it, wouldn't we?
+---
+20189: And if so...{:delay 82 00}{:clear } {:delay 19 00}{:clear }No, never mind.
+---
+20539: An image of you obtaining old powers
+flows into your mind.
+---
+20540: You have obtained a puzzle piece!
+Puzzle pieces are scattered all over the world.{:clear }Some can only be accessed after learning
+a certain ability. You can view collected
+pieces in Jiminy's Journal.
+---
+20594: Press {:icon dynamic-triangle} to begin the duel! Defeat the enemies that appear before you!
+---
+20596: Press {:icon dynamic-triangle} to begin the duel! Once you pull it out, don't let it touch the ground!
+---
+20598: Press {:icon dynamic-triangle} to begin the duel! Defeat the enemy while avoiding its attacks!
+---
+20687: Defeat Axel from Organization {XIII}!
+Make sure to avoid the flames!
+---
+21374: {:delayandfade 07 B4} 
+In order to plan for the beach, Hayner
+suggested we do odd jobs around town for
+munny. After all, what's a trip to the beach
+without some watermelon and pretzels?
+ 
+After a day of hard work...
+ 
+ 
+ 
+ 
+
+---
+21379: {:unk13 2C 01 3C 00}{:unk08 01 01 06}Huh? Sora, I think
+you dropped something.
+---
+21380: {:unk13 4A 01 64 00}{:unk08 01 00 05}Huh?
+---
+21381: {:unk13 72 01 BE 00}{:unk08 01 00 00}It must have fallen out
+of your pocket.
+---
+21382: {:unk13 9B 00 3C 00}{:unk08 01 00 04}What is it?
+Part of a picture?
+---
+21383: {:unk13 AA 00 96 00}{:unk08 01 00 05}Is this a gift, too?
+---
+21384: {:unk13 04 01 E6 00}{:unk08 01 00 01}Oh? We don't know
+anything about that.
+---
+21385: {:unk13 40 01 E6 00}{:unk08 01 00 02}But if you found it in your pocket,
+it must have something to do
+with your adventure.
+---
+21386: {:unk13 59 01 18 01}{:unk08 01 01 02}Hold onto it, dear.{:clear }In fact, you should hold onto
+any other pieces you come
+across on your journey.
+---
+21387: {:unk13 C8 00 46 00}{:unk08 01 00 05}I'll make sure to note them
+in my journal!
+---
+21473: {:delayandfade 07 B4} 
+Two figures appear in the Dark Margin. One claims to be nothing
+but an empty shell. He asks the other, "Do you remember
+your true name?"
+ 
+Before he can respond, the dream ends, only to be replaced
+by another.
+ 
+ 
+ 
+ 
+
+---
+21474: {:delayandfade 07 B4} 
+The beach was the playground of a young boy named Sora.
+On the sandy shores, he and his friends would laugh and play
+until the sun disappeared from the sky.
+ 
+But one day, the door to another realm appeared,
+sucking into the darkness his home, the island,
+and everything he knew.
+ 
+...Including his best friend.
+ 
+
+---
+21475: {:delayandfade 07 B4} 
+He finds himself in an unfamiliar town. There, he meets
+his new pals, Donald and Goofy. The three set off together in
+search of their missing friends.
+ 
+Unbeknownst to the boy, the weapon he wields, the Keyblade,
+is the key to unlocking everything.
+ 
+ 
+ 
+ 
+
+---
+21476: {:delayandfade 07 B4} 
+As the boy travels to different worlds and makes new friends,
+his heart grows stronger.
+ 
+But it's not yet enough to reunite him with the one he
+yearns to see.
+ 
+ 
+ 
+ 
+ 
+
+---
+21477: {:delayandfade 07 B4} 
+When Roxas arrives at the gang's usual
+spot, he spots a note from Hayner.
+ 
+"Meet at the station. Today's the day we
+hit the beach!"
+ 
+He heads for the station, excited at the
+prospect of a fun day with his friends.
+ 
+ 
+
+---
+21478: {:delayandfade 07 B4} 
+The hero who wields the Keyblade has the power to unlock
+the secret door and change the world.
+ 
+However, his path is filled with relentless battles.
+Now, a foe clad in black stands in his way. By his side is Ansem,
+seeker of darkness.
+ 
+ 
+ 
+ 
+
+---
+21479: {:delayandfade 07 B4} 
+The gang decides to investigate the
+mysterious rumors floating around
+town--the seven wonders of Twilight
+Town--for their independent studies
+homework.
+ 
+Hayner and Olette head into town for
+new information while Roxas and Pence
+hop on the train in hopes of uncovering
+the truth behind the rumors.
+
+---
+21480: {:delayandfade 07 B4} 
+Roxas and his friends investigate the
+rumors one by one, but their findings all
+prove to be disappointing. A dog? Their
+own reflection?
+ 
+The truths behind the wonders are
+anything but wonderful.
+ 
+ 
+ 
+
+---
+21481: {:delayandfade 07 B4} 
+Ansem claims that at the core of every heart is darkness.
+However, beyond that exists light--that which can banish any
+and all darkness.
+ 
+And within Kingdom Hearts lies that very light.
+ 
+ 
+ 
+ 
+ 
+
+---
+21482: {:delayandfade 07 B4} 
+According to the King, the computer in
+the mansion is connected with the other
+Twilight Town. From there, one should
+be able to enter the realm of darkness.
+ 
+Hoping to find his friends, he searches
+every inch of the mansion.
+ 
+ 
+ 
+
+---
+21629: {:delayandfade 07 B4} 
+After rescuing Kairi's heart, Sora faces one last battle.
+ 
+He finds strength in the promises they made to
+each other long ago.
+ 
+"No matter where we are, our hearts will bring us
+together again."
+ 
+"Don't forget. Wherever you go, I'm always with you."
+ 
+
+---
+21630: {:delayandfade 07 B4} 
+Sora says good-bye to his friend in hopes of reuniting with
+her again. But he's not alone; they're together in spirit,
+after all.
+ 
+Only when they all return to their hometown will their journey end.
+ 
+And so, the story continues...
+ 
+ 
+ 
+
+---
+21696: Thanks.
+---
