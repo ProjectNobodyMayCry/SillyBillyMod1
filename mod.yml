@@ -2,7 +2,7 @@ title: Nobody May Cry (Beta - Prologue)
 originalAuthor: Project NMC
 description: A DMC-inspired Roxas mod with completely overhauled gameplay and a "what-if" story if Roxas escaped Data Twilight Town and fought for his own survival.
 assets:
-#Source Files
+# Source Files
  - name: 00battle.bin
    method: copy
    source:
