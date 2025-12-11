@@ -2881,3 +2881,81 @@ assets:
    method: copy
    source:
      - name: remastered/map/eh03.map/-99.dds
+# Menu
+ - name: remastered/menu/us/camp.2ld/-0.png
+   method: copy
+   source:
+     - name: remastered/menu/us/camp.2ld/-0.png
+ - name: remastered/menu/us/save.2ld/-0.png
+   method: copy
+   source:
+     - name: remastered/menu/us/save.2ld/-0.png
+ - name: remastered/menu/us/save.2ld/-1.png
+   method: copy
+   source:
+     - name: remastered/menu/us/save.2ld/-1.png
+ - name: remastered/menu/us/save.2ld/-2.png
+   method: copy
+   source:
+     - name: remastered/menu/us/save.2ld/-2.png
+ - name: remastered/menu/us/title.2ld/-0.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-0.png
+ - name: remastered/menu/us/title.2ld/-1.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-1.png
+ - name: remastered/menu/us/title.2ld/-2.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-2.png
+ - name: remastered/menu/us/title.2ld/-3.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-3.png
+ - name: remastered/menu/us/title.2ld/-4.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-4.png
+ - name: remastered/menu/us/title.2ld/-5.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-5.png
+ - name: remastered/menu/us/title.2ld/-6.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-6.png
+ - name: remastered/menu/us/title.2ld/-7.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-7.png
+ - name: remastered/menu/us/title.2ld/-8.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-8.png
+ - name: remastered/menu/us/title.2ld/-9.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-9.png
+ - name: remastered/menu/us/title.2ld/-10.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-10.png
+ - name: remastered/menu/us/title.2ld/-11.png
+   method: copy
+   source:
+     - name: remastered/menu/us/title.2ld/-11.png
+# MSN
+ - name: remastered/msn/us/TT04_MS107.bar/-0.png
+   method: copy
+   source:
+     - name: remastered/msn/us/TT04_MS107.bar/-0.png
+ - name: remastered/msn/us/TT04_MS107.bar/-1.png
+   method: copy
+   source:
+     - name: remastered/msn/us/TT04_MS107.bar/-1.png
+ - name: remastered/msn/us/TT10_WORK_TIMBER.bar/-0.png
+   method: copy
+   source:
+     - name: remastered/msn/us/TT10_WORK_TIMBER.bar/-0.png
