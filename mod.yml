@@ -4602,7 +4602,6 @@ assets:
    source:
      - name: remastered/obj/P_EX101.mdlx/-3.dds
 # P_EX101_BTLF
- P_EX101_BTLF:
  - name: remastered/obj/P_EX101_BTLF.a.us/-0.dds
    method: copy
    source:
