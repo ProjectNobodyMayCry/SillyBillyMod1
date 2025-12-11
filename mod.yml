@@ -1624,3 +1624,1260 @@ assets:
    method: copy
    source:
      - name: remastered/magic/reflect1.mag/-2.dds
+# Map
+ - name: remastered/map/eh02.map/-0.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-0.dds
+ - name: remastered/map/eh02.map/-1.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-1.dds
+ - name: remastered/map/eh02.map/-10.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-10.dds
+ - name: remastered/map/eh02.map/-100.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-100.dds
+ - name: remastered/map/eh02.map/-101.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-101.dds
+ - name: remastered/map/eh02.map/-102.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-102.dds
+ - name: remastered/map/eh02.map/-103.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-103.dds
+ - name: remastered/map/eh02.map/-104.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-104.dds
+ - name: remastered/map/eh02.map/-105.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-105.dds
+ - name: remastered/map/eh02.map/-106.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-106.dds
+ - name: remastered/map/eh02.map/-107.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-107.dds
+ - name: remastered/map/eh02.map/-108.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-108.dds
+ - name: remastered/map/eh02.map/-109.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-109.dds
+ - name: remastered/map/eh02.map/-11.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-11.dds
+ - name: remastered/map/eh02.map/-110.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-110.dds
+ - name: remastered/map/eh02.map/-111.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-111.dds
+ - name: remastered/map/eh02.map/-112.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-112.dds
+ - name: remastered/map/eh02.map/-113.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-113.dds
+ - name: remastered/map/eh02.map/-114.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-114.dds
+ - name: remastered/map/eh02.map/-115.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-115.dds
+ - name: remastered/map/eh02.map/-116.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-116.dds
+ - name: remastered/map/eh02.map/-117.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-117.dds
+ - name: remastered/map/eh02.map/-118.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-118.dds
+ - name: remastered/map/eh02.map/-119.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-119.dds
+ - name: remastered/map/eh02.map/-12.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-12.dds
+ - name: remastered/map/eh02.map/-120.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-120.dds
+ - name: remastered/map/eh02.map/-121.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-121.dds
+ - name: remastered/map/eh02.map/-122.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-122.dds
+ - name: remastered/map/eh02.map/-123.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-123.dds
+ - name: remastered/map/eh02.map/-124.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-124.dds
+ - name: remastered/map/eh02.map/-125.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-125.dds
+ - name: remastered/map/eh02.map/-126.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-126.dds
+ - name: remastered/map/eh02.map/-127.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-127.dds
+ - name: remastered/map/eh02.map/-128.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-128.dds
+ - name: remastered/map/eh02.map/-129.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-129.dds
+ - name: remastered/map/eh02.map/-13.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-13.dds
+ - name: remastered/map/eh02.map/-130.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-130.dds
+ - name: remastered/map/eh02.map/-131.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-131.dds
+ - name: remastered/map/eh02.map/-132.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-132.dds
+ - name: remastered/map/eh02.map/-133.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-133.dds
+ - name: remastered/map/eh02.map/-134.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-134.dds
+ - name: remastered/map/eh02.map/-135.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-135.dds
+ - name: remastered/map/eh02.map/-136.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-136.dds
+ - name: remastered/map/eh02.map/-137.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-137.dds
+ - name: remastered/map/eh02.map/-138.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-138.dds
+ - name: remastered/map/eh02.map/-139.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-139.dds
+ - name: remastered/map/eh02.map/-14.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-14.dds
+ - name: remastered/map/eh02.map/-140.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-140.dds
+ - name: remastered/map/eh02.map/-141.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-141.dds
+ - name: remastered/map/eh02.map/-142.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-142.dds
+ - name: remastered/map/eh02.map/-143.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-143.dds
+ - name: remastered/map/eh02.map/-144.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-144.dds
+ - name: remastered/map/eh02.map/-145.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-145.dds
+ - name: remastered/map/eh02.map/-146.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-146.dds
+ - name: remastered/map/eh02.map/-147.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-147.dds
+ - name: remastered/map/eh02.map/-148.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-148.dds
+ - name: remastered/map/eh02.map/-149.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-149.dds
+ - name: remastered/map/eh02.map/-15.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-15.dds
+ - name: remastered/map/eh02.map/-150.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-150.dds
+ - name: remastered/map/eh02.map/-151.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-151.dds
+ - name: remastered/map/eh02.map/-152.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-152.dds
+ - name: remastered/map/eh02.map/-153.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-153.dds
+ - name: remastered/map/eh02.map/-154.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-154.dds
+ - name: remastered/map/eh02.map/-155.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-155.dds
+ - name: remastered/map/eh02.map/-156.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-156.dds
+ - name: remastered/map/eh02.map/-157.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-157.dds
+ - name: remastered/map/eh02.map/-158.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-158.dds
+ - name: remastered/map/eh02.map/-159.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-159.dds
+ - name: remastered/map/eh02.map/-16.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-16.dds
+ - name: remastered/map/eh02.map/-160.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-160.dds
+ - name: remastered/map/eh02.map/-161.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-161.dds
+ - name: remastered/map/eh02.map/-162.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-162.dds
+ - name: remastered/map/eh02.map/-163.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-163.dds
+ - name: remastered/map/eh02.map/-164.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-164.dds
+ - name: remastered/map/eh02.map/-165.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-165.dds
+ - name: remastered/map/eh02.map/-166.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-166.dds
+ - name: remastered/map/eh02.map/-167.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-167.dds
+ - name: remastered/map/eh02.map/-168.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-168.dds
+ - name: remastered/map/eh02.map/-169.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-169.dds
+ - name: remastered/map/eh02.map/-17.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-17.dds
+ - name: remastered/map/eh02.map/-170.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-170.dds
+ - name: remastered/map/eh02.map/-171.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-171.dds
+ - name: remastered/map/eh02.map/-172.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-172.dds
+ - name: remastered/map/eh02.map/-173.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-173.dds
+ - name: remastered/map/eh02.map/-174.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-174.dds
+ - name: remastered/map/eh02.map/-18.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-18.dds
+ - name: remastered/map/eh02.map/-19.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-19.dds
+ - name: remastered/map/eh02.map/-2.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-2.dds
+ - name: remastered/map/eh02.map/-20.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-20.dds
+ - name: remastered/map/eh02.map/-21.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-21.dds
+ - name: remastered/map/eh02.map/-22.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-22.dds
+ - name: remastered/map/eh02.map/-23.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-23.dds
+ - name: remastered/map/eh02.map/-24.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-24.dds
+ - name: remastered/map/eh02.map/-25.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-25.dds
+ - name: remastered/map/eh02.map/-26.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-26.dds
+ - name: remastered/map/eh02.map/-27.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-27.dds
+ - name: remastered/map/eh02.map/-28.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-28.dds
+ - name: remastered/map/eh02.map/-29.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-29.dds
+ - name: remastered/map/eh02.map/-3.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-3.dds
+ - name: remastered/map/eh02.map/-30.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-30.dds
+ - name: remastered/map/eh02.map/-31.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-31.dds
+ - name: remastered/map/eh02.map/-32.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-32.dds
+ - name: remastered/map/eh02.map/-33.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-33.dds
+ - name: remastered/map/eh02.map/-34.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-34.dds
+ - name: remastered/map/eh02.map/-35.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-35.dds
+ - name: remastered/map/eh02.map/-36.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-36.dds
+ - name: remastered/map/eh02.map/-37.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-37.dds
+ - name: remastered/map/eh02.map/-38.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-38.dds
+ - name: remastered/map/eh02.map/-39.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-39.dds
+ - name: remastered/map/eh02.map/-4.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-4.dds
+ - name: remastered/map/eh02.map/-40.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-40.dds
+ - name: remastered/map/eh02.map/-41.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-41.dds
+ - name: remastered/map/eh02.map/-42.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-42.dds
+ - name: remastered/map/eh02.map/-43.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-43.dds
+ - name: remastered/map/eh02.map/-44.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-44.dds
+ - name: remastered/map/eh02.map/-45.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-45.dds
+ - name: remastered/map/eh02.map/-46.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-46.dds
+ - name: remastered/map/eh02.map/-47.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-47.dds
+ - name: remastered/map/eh02.map/-48.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-48.dds
+ - name: remastered/map/eh02.map/-49.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-49.dds
+ - name: remastered/map/eh02.map/-5.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-5.dds
+ - name: remastered/map/eh02.map/-50.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-50.dds
+ - name: remastered/map/eh02.map/-51.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-51.dds
+ - name: remastered/map/eh02.map/-52.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-52.dds
+ - name: remastered/map/eh02.map/-53.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-53.dds
+ - name: remastered/map/eh02.map/-54.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-54.dds
+ - name: remastered/map/eh02.map/-55.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-55.dds
+ - name: remastered/map/eh02.map/-56.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-56.dds
+ - name: remastered/map/eh02.map/-57.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-57.dds
+ - name: remastered/map/eh02.map/-58.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-58.dds
+ - name: remastered/map/eh02.map/-59.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-59.dds
+ - name: remastered/map/eh02.map/-6.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-6.dds
+ - name: remastered/map/eh02.map/-60.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-60.dds
+ - name: remastered/map/eh02.map/-61.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-61.dds
+ - name: remastered/map/eh02.map/-62.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-62.dds
+ - name: remastered/map/eh02.map/-63.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-63.dds
+ - name: remastered/map/eh02.map/-64.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-64.dds
+ - name: remastered/map/eh02.map/-65.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-65.dds
+ - name: remastered/map/eh02.map/-66.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-66.dds
+ - name: remastered/map/eh02.map/-67.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-67.dds
+ - name: remastered/map/eh02.map/-68.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-68.dds
+ - name: remastered/map/eh02.map/-69.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-69.dds
+ - name: remastered/map/eh02.map/-7.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-7.dds
+ - name: remastered/map/eh02.map/-70.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-70.dds
+ - name: remastered/map/eh02.map/-71.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-71.dds
+ - name: remastered/map/eh02.map/-72.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-72.dds
+ - name: remastered/map/eh02.map/-73.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-73.dds
+ - name: remastered/map/eh02.map/-74.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-74.dds
+ - name: remastered/map/eh02.map/-75.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-75.dds
+ - name: remastered/map/eh02.map/-76.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-76.dds
+ - name: remastered/map/eh02.map/-77.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-77.dds
+ - name: remastered/map/eh02.map/-78.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-78.dds
+ - name: remastered/map/eh02.map/-79.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-79.dds
+ - name: remastered/map/eh02.map/-8.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-8.dds
+ - name: remastered/map/eh02.map/-80.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-80.dds
+ - name: remastered/map/eh02.map/-81.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-81.dds
+ - name: remastered/map/eh02.map/-82.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-82.dds
+ - name: remastered/map/eh02.map/-83.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-83.dds
+ - name: remastered/map/eh02.map/-84.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-84.dds
+ - name: remastered/map/eh02.map/-85.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-85.dds
+ - name: remastered/map/eh02.map/-86.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-86.dds
+ - name: remastered/map/eh02.map/-87.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-87.dds
+ - name: remastered/map/eh02.map/-88.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-88.dds
+ - name: remastered/map/eh02.map/-89.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-89.dds
+ - name: remastered/map/eh02.map/-9.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-9.dds
+ - name: remastered/map/eh02.map/-90.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-90.dds
+ - name: remastered/map/eh02.map/-91.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-91.dds
+ - name: remastered/map/eh02.map/-92.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-92.dds
+ - name: remastered/map/eh02.map/-93.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-93.dds
+ - name: remastered/map/eh02.map/-94.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-94.dds
+ - name: remastered/map/eh02.map/-95.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-95.dds
+ - name: remastered/map/eh02.map/-96.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-96.dds
+ - name: remastered/map/eh02.map/-97.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-97.dds
+ - name: remastered/map/eh02.map/-98.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-98.dds
+ - name: remastered/map/eh02.map/-99.dds
+   method: copy
+   source:
+     - name: remastered/map/eh02.map/-99.dds
+ - name: remastered/map/eh03.map/-0.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-0.dds
+ - name: remastered/map/eh03.map/-1.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-1.dds
+ - name: remastered/map/eh03.map/-10.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-10.dds
+ - name: remastered/map/eh03.map/-100.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-100.dds
+ - name: remastered/map/eh03.map/-101.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-101.dds
+ - name: remastered/map/eh03.map/-102.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-102.dds
+ - name: remastered/map/eh03.map/-103.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-103.dds
+ - name: remastered/map/eh03.map/-104.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-104.dds
+ - name: remastered/map/eh03.map/-105.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-105.dds
+ - name: remastered/map/eh03.map/-106.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-106.dds
+ - name: remastered/map/eh03.map/-107.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-107.dds
+ - name: remastered/map/eh03.map/-108.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-108.dds
+ - name: remastered/map/eh03.map/-109.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-109.dds
+ - name: remastered/map/eh03.map/-11.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-11.dds
+ - name: remastered/map/eh03.map/-110.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-110.dds
+ - name: remastered/map/eh03.map/-111.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-111.dds
+ - name: remastered/map/eh03.map/-112.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-112.dds
+ - name: remastered/map/eh03.map/-113.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-113.dds
+ - name: remastered/map/eh03.map/-114.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-114.dds
+ - name: remastered/map/eh03.map/-115.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-115.dds
+ - name: remastered/map/eh03.map/-116.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-116.dds
+ - name: remastered/map/eh03.map/-117.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-117.dds
+ - name: remastered/map/eh03.map/-118.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-118.dds
+ - name: remastered/map/eh03.map/-119.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-119.dds
+ - name: remastered/map/eh03.map/-12.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-12.dds
+ - name: remastered/map/eh03.map/-120.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-120.dds
+ - name: remastered/map/eh03.map/-121.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-121.dds
+ - name: remastered/map/eh03.map/-122.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-122.dds
+ - name: remastered/map/eh03.map/-123.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-123.dds
+ - name: remastered/map/eh03.map/-124.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-124.dds
+ - name: remastered/map/eh03.map/-125.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-125.dds
+ - name: remastered/map/eh03.map/-126.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-126.dds
+ - name: remastered/map/eh03.map/-127.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-127.dds
+ - name: remastered/map/eh03.map/-128.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-128.dds
+ - name: remastered/map/eh03.map/-129.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-129.dds
+ - name: remastered/map/eh03.map/-13.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-13.dds
+ - name: remastered/map/eh03.map/-130.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-130.dds
+ - name: remastered/map/eh03.map/-131.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-131.dds
+ - name: remastered/map/eh03.map/-132.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-132.dds
+ - name: remastered/map/eh03.map/-133.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-133.dds
+ - name: remastered/map/eh03.map/-134.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-134.dds
+ - name: remastered/map/eh03.map/-135.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-135.dds
+ - name: remastered/map/eh03.map/-136.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-136.dds
+ - name: remastered/map/eh03.map/-137.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-137.dds
+ - name: remastered/map/eh03.map/-138.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-138.dds
+ - name: remastered/map/eh03.map/-14.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-14.dds
+ - name: remastered/map/eh03.map/-15.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-15.dds
+ - name: remastered/map/eh03.map/-16.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-16.dds
+ - name: remastered/map/eh03.map/-17.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-17.dds
+ - name: remastered/map/eh03.map/-18.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-18.dds
+ - name: remastered/map/eh03.map/-19.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-19.dds
+ - name: remastered/map/eh03.map/-2.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-2.dds
+ - name: remastered/map/eh03.map/-20.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-20.dds
+ - name: remastered/map/eh03.map/-21.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-21.dds
+ - name: remastered/map/eh03.map/-22.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-22.dds
+ - name: remastered/map/eh03.map/-23.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-23.dds
+ - name: remastered/map/eh03.map/-24.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-24.dds
+ - name: remastered/map/eh03.map/-25.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-25.dds
+ - name: remastered/map/eh03.map/-26.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-26.dds
+ - name: remastered/map/eh03.map/-27.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-27.dds
+ - name: remastered/map/eh03.map/-28.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-28.dds
+ - name: remastered/map/eh03.map/-29.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-29.dds
+ - name: remastered/map/eh03.map/-3.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-3.dds
+ - name: remastered/map/eh03.map/-30.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-30.dds
+ - name: remastered/map/eh03.map/-31.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-31.dds
+ - name: remastered/map/eh03.map/-32.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-32.dds
+ - name: remastered/map/eh03.map/-33.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-33.dds
+ - name: remastered/map/eh03.map/-34.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-34.dds
+ - name: remastered/map/eh03.map/-35.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-35.dds
+ - name: remastered/map/eh03.map/-36.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-36.dds
+ - name: remastered/map/eh03.map/-37.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-37.dds
+ - name: remastered/map/eh03.map/-38.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-38.dds
+ - name: remastered/map/eh03.map/-39.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-39.dds
+ - name: remastered/map/eh03.map/-4.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-4.dds
+ - name: remastered/map/eh03.map/-40.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-40.dds
+ - name: remastered/map/eh03.map/-41.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-41.dds
+ - name: remastered/map/eh03.map/-42.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-42.dds
+ - name: remastered/map/eh03.map/-43.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-43.dds
+ - name: remastered/map/eh03.map/-44.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-44.dds
+ - name: remastered/map/eh03.map/-45.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-45.dds
+ - name: remastered/map/eh03.map/-46.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-46.dds
+ - name: remastered/map/eh03.map/-47.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-47.dds
+ - name: remastered/map/eh03.map/-48.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-48.dds
+ - name: remastered/map/eh03.map/-49.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-49.dds
+ - name: remastered/map/eh03.map/-5.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-5.dds
+ - name: remastered/map/eh03.map/-50.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-50.dds
+ - name: remastered/map/eh03.map/-51.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-51.dds
+ - name: remastered/map/eh03.map/-52.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-52.dds
+ - name: remastered/map/eh03.map/-53.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-53.dds
+ - name: remastered/map/eh03.map/-54.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-54.dds
+ - name: remastered/map/eh03.map/-55.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-55.dds
+ - name: remastered/map/eh03.map/-56.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-56.dds
+ - name: remastered/map/eh03.map/-57.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-57.dds
+ - name: remastered/map/eh03.map/-58.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-58.dds
+ - name: remastered/map/eh03.map/-59.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-59.dds
+ - name: remastered/map/eh03.map/-6.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-6.dds
+ - name: remastered/map/eh03.map/-60.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-60.dds
+ - name: remastered/map/eh03.map/-61.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-61.dds
+ - name: remastered/map/eh03.map/-62.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-62.dds
+ - name: remastered/map/eh03.map/-63.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-63.dds
+ - name: remastered/map/eh03.map/-64.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-64.dds
+ - name: remastered/map/eh03.map/-65.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-65.dds
+ - name: remastered/map/eh03.map/-66.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-66.dds
+ - name: remastered/map/eh03.map/-67.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-67.dds
+ - name: remastered/map/eh03.map/-68.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-68.dds
+ - name: remastered/map/eh03.map/-69.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-69.dds
+ - name: remastered/map/eh03.map/-7.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-7.dds
+ - name: remastered/map/eh03.map/-70.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-70.dds
+ - name: remastered/map/eh03.map/-71.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-71.dds
+ - name: remastered/map/eh03.map/-72.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-72.dds
+ - name: remastered/map/eh03.map/-73.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-73.dds
+ - name: remastered/map/eh03.map/-74.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-74.dds
+ - name: remastered/map/eh03.map/-75.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-75.dds
+ - name: remastered/map/eh03.map/-76.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-76.dds
+ - name: remastered/map/eh03.map/-77.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-77.dds
+ - name: remastered/map/eh03.map/-78.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-78.dds
+ - name: remastered/map/eh03.map/-79.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-79.dds
+ - name: remastered/map/eh03.map/-8.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-8.dds
+ - name: remastered/map/eh03.map/-80.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-80.dds
+ - name: remastered/map/eh03.map/-81.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-81.dds
+ - name: remastered/map/eh03.map/-82.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-82.dds
+ - name: remastered/map/eh03.map/-83.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-83.dds
+ - name: remastered/map/eh03.map/-84.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-84.dds
+ - name: remastered/map/eh03.map/-85.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-85.dds
+ - name: remastered/map/eh03.map/-86.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-86.dds
+ - name: remastered/map/eh03.map/-87.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-87.dds
+ - name: remastered/map/eh03.map/-88.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-88.dds
+ - name: remastered/map/eh03.map/-89.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-89.dds
+ - name: remastered/map/eh03.map/-9.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-9.dds
+ - name: remastered/map/eh03.map/-90.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-90.dds
+ - name: remastered/map/eh03.map/-91.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-91.dds
+ - name: remastered/map/eh03.map/-92.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-92.dds
+ - name: remastered/map/eh03.map/-93.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-93.dds
+ - name: remastered/map/eh03.map/-94.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-94.dds
+ - name: remastered/map/eh03.map/-95.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-95.dds
+ - name: remastered/map/eh03.map/-96.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-96.dds
+ - name: remastered/map/eh03.map/-97.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-97.dds
+ - name: remastered/map/eh03.map/-98.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-98.dds
+ - name: remastered/map/eh03.map/-99.dds
+   method: copy
+   source:
+     - name: remastered/map/eh03.map/-99.dds
