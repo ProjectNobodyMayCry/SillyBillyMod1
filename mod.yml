@@ -3000,7 +3000,6 @@ assets:
    method: copy
    source:
      - name: remastered/obj/H_CM050_TSURU.a.us/-0.dds
-     
 # Namine
  - name: remastered\obj\N_HB040_BTL.a.us\se\obj\se350
    method: copy
