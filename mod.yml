@@ -7,3 +7,1104 @@ assets:
    method: copy
    source:
      - name: 00battle.bin
+ - name: 00common.bdx
+   method: copy
+   source:
+     - name: 00common.bdx
+ - name: 00objentry.bin
+   method: copy
+   source:
+     - name: 00objentry.bin
+ - name: 00progress.bin
+   method: copy
+   source:
+     - name: 00progress.bin
+ - name: 03system.bin
+   method: copy
+   source:
+     - name: 03system.bin
+ - name: 07localset.bin
+   method: copy
+   source:
+     - name: 07localset.bin
+ - name: 12soundinfo.bar
+   method: copy
+   source:
+     - name: 12soundinfo.bar
+ - name: 14mission.bar
+   method: copy
+   source:
+     - name: 14mission.bar
+ - name: 15jigsaw.bin
+   method: copy
+   source:
+     - name: 15jigsaw.bin
+ - name: 15jigsaw.bin
+   method: copy
+   source:
+     - name: 15jigsaw.bin
+ - name: libretto-al.bar
+   method: copy
+   source:
+     - name: libretto-al.bar
+ - name: libretto-hb.bar
+   method: copy
+   source:
+     - name: libretto-hb.bar
+ - name: libretto-lm.bar
+   method: copy
+   source:
+     - name: libretto-lm.bar
+ - name: libretto-po.bar
+   method: copy
+   source:
+     - name: libretto-po.bar
+# ARD
+ - name: ard/us/al07.ard
+   method: copy
+   source:
+     - name: ard/us/al07.ard
+ - name: ard/us/dc00.ard
+   method: copy
+   source:
+     - name: ard/us/dc00.ard
+ - name: ard/us/eh02.ard
+   method: copy
+   source:
+     - name: ard/us/eh02.ard
+ - name: ard/us/eh03.ard
+   method: copy
+   source:
+     - name: ard/us/eh03.ard
+ - name: ard/us/hb06.ard
+   method: copy
+   source:
+     - name: ard/us/hb06.ard
+ - name: ard/us/tt01.ard
+   method: copy
+   source:
+     - name: ard/us/tt01.ard
+ - name: ard/us/tt02.ard
+   method: copy
+   source:
+     - name: ard/us/tt02.ard
+ - name: ard/us/tt03.ard
+   method: copy
+   source:
+     - name: ard/us/tt03.ard
+ - name: ard/us/tt04.ard
+   method: copy
+   source:
+     - name: ard/us/tt04.ard
+ - name: ard/us/tt05.ard
+   method: copy
+   source:
+     - name: ard/us/tt05.ard
+ - name: ard/us/tt06.ard
+   method: copy
+   source:
+     - name: ard/us/tt06.ard
+ - name: ard/us/tt07.ard
+   method: copy
+   source:
+     - name: ard/us/tt07.ard
+ - name: ard/us/tt08.ard
+   method: copy
+   source:
+     - name: ard/us/tt08.ard
+ - name: ard/us/tt09.ard
+   method: copy
+   source:
+     - name: ard/us/tt09.ard
+ - name: ard/us/tt10.ard
+   method: copy
+   source:
+     - name: ard/us/tt10.ard
+ - name: ard/us/tt11.ard
+   method: copy
+   source:
+     - name: ard/us/tt11.ard
+ - name: ard/us/tt12.ard
+   method: copy
+   source:
+     - name: ard/us/tt12.ard
+ - name: ard/us/tt13.ard
+   method: copy
+   source:
+     - name: ard/us/tt13.ard
+ - name: ard/us/tt14.ard
+   method: copy
+   source:
+     - name: ard/us/tt14.ard
+ - name: ard/us/tt15.ard
+   method: copy
+   source:
+     - name: ard/us/tt15.ard
+ - name: ard/us/tt18.ard
+   method: copy
+   source:
+     - name: ard/us/tt18.ard
+ - name: ard/us/tt19.ard
+   method: copy
+   source:
+     - name: ard/us/tt19.ard
+ - name: ard/us/tt20.ard
+   method: copy
+   source:
+     - name: ard/us/tt20.ard
+ - name: ard/us/tt21.ard
+   method: copy
+   source:
+     - name: ard/us/tt21.ard
+ - name: ard/us/tt22.ard
+   method: copy
+   source:
+     - name: ard/us/tt22.ard
+ - name: ard/us/tt23.ard
+   method: copy
+   source:
+     - name: ard/us/tt23.ard
+ - name: ard/us/tt24.ard
+   method: copy
+   source:
+     - name: ard/us/tt24.ard
+ - name: ard/us/tt25.ard
+   method: copy
+   source:
+     - name: ard/us/tt25.ard
+ - name: ard/us/tt26.ard
+   method: copy
+   source:
+     - name: ard/us/tt26.ard
+ - name: ard/us/tt27.ard
+   method: copy
+   source:
+     - name: ard/us/tt27.ard
+ - name: ard/us/tt28.ard
+   method: copy
+   source:
+     - name: ard/us/tt28.ard
+ - name: ard/us/tt29.ard
+   method: copy
+   source:
+     - name: ard/us/tt29.ard
+ - name: ard/us/tt30.ard
+   method: copy
+   source:
+     - name: ard/us/tt30.ard
+ - name: ard/us/tt32.ard
+   method: copy
+   source:
+     - name: ard/us/tt32.ard
+ - name: ard/us/tt33.ard
+   method: copy
+   source:
+     - name: ard/us/tt33.ard
+ - name: ard/us/tt34.ard
+   method: copy
+   source:
+     - name: ard/us/tt34.ard
+ - name: ard/us/tt35.ard
+   method: copy
+   source:
+     - name: ard/us/tt35.ard
+ - name: ard/us/tt40.ard
+   method: copy
+   source:
+     - name: ard/us/tt40.ard
+ - name: ard/us/tt41.ard
+   method: copy
+   source:
+     - name: ard/us/tt41.ard
+ - name: ard/us/tt42.ard
+   method: copy
+   source:
+     - name: ard/us/tt42.ard
+ - name: ard/us/tt44.ard
+   method: copy
+   source:
+     - name: ard/us/tt44.ard
+# BGM
+ - name: bgm/music052.win32.scd
+   method: copy
+   source:
+     - name: bgm/music052.win32.scd
+ - name: bgm/music053.win32.scd
+   method: copy
+   source:
+     - name: bgm/music053.win32.scd
+ - name: bgm/music242.win32.scd
+   method: copy
+   source:
+     - name: bgm/music242.win32.scd
+ - name: bgm/music243.win32.scd
+   method: copy
+   source:
+     - name: bgm/music243.win32.scd
+# Field2d
+ - name: field2d/us/al0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/al0field.2dd
+ - name: field2d/us/bb0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/bb0field.2dd
+ - name: field2d/us/ca0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/ca0field.2dd
+ - name: field2d/us/dc0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/dc0field.2dd
+ - name: field2d/us/eh0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/eh0field.2dd
+ - name: field2d/us/es0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/es0field.2dd
+ - name: field2d/us/hb0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/hb0field.2dd
+ - name: field2d/us/he0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/he0field.2dd
+ - name: field2d/us/lk0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/lk0field.2dd
+ - name: field2d/us/lm0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/lm0field.2dd
+ - name: field2d/us/mu0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/mu0field.2dd
+ - name: field2d/us/nm0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/nm0field.2dd
+ - name: field2d/us/po0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/po0field.2dd
+ - name: field2d/us/tr0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/tr0field.2dd
+ - name: field2d/us/tt0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/tt0field.2dd
+ - name: field2d/us/wi-field.2dd
+   method: copy
+   source:
+     - name: field2d/us/wi-field.2dd
+ - name: field2d/us/wm0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/wm0field.2dd
+ - name: field2d/us/zz0command.2dd
+   method: copy
+   source:
+     - name: field2d/us/zz0command.2dd
+ - name: field2d/us/zz0field.2dd
+   method: copy
+   source:
+     - name: field2d/us/zz0field.2dd
+# Magic
+ - name: magic/BLIZZARD_1.mag
+   method: copy
+   source:
+     - name: magic/BLIZZARD_1.mag
+ - name: magic/BLIZZARD_1lk.mag
+   method: copy
+   source:
+     - name: magic/BLIZZARD_1lk.mag
+ - name: magic/BLIZZARD_2.mag
+   method: copy
+   source:
+     - name: magic/BLIZZARD_2.mag
+ - name: magic/BLIZZARD_2lk.mag
+   method: copy
+   source:
+     - name: magic/BLIZZARD_2lk.mag
+ - name: magic/BLIZZARD_3.mag
+   method: copy
+   source:
+     - name: magic/BLIZZARD_3.mag
+ - name: magic/BLIZZARD_3lk.mag
+   method: copy
+   source:
+     - name: magic/BLIZZARD_3lk.mag
+ - name: magic/blizzard1.mag
+   method: copy
+   source:
+     - name: magic/blizzard1.mag
+ - name: magic/FIRE_1.mag
+   method: copy
+   source:
+     - name: magic/FIRE_1.mag
+ - name: magic/FIRE_1lk.mag
+   method: copy
+   source:
+     - name: magic/FIRE_1lk.mag
+ - name: magic/FIRE_2.mag
+   method: copy
+   source:
+     - name: magic/FIRE_2.mag
+ - name: magic/FIRE_2lk.mag
+   method: copy
+   source:
+     - name: magic/FIRE_2lk.mag
+ - name: magic/FIRE_3.mag
+   method: copy
+   source:
+     - name: magic/FIRE_3.mag
+ - name: magic/FIRE_3lk.mag
+   method: copy
+   source:
+     - name: magic/FIRE_3lk.mag
+ - name: magic/MAGNET_1.mag
+   method: copy
+   source:
+     - name: magic/MAGNET_1.mag
+ - name: magic/MAGNET_1lk.mag
+   method: copy
+   source:
+     - name: magic/MAGNET_1lk.mag
+ - name: magic/MAGNET_2.mag
+   method: copy
+   source:
+     - name: magic/MAGNET_2.mag
+ - name: magic/MAGNET_2lk.mag
+   method: copy
+   source:
+     - name: magic/MAGNET_2lk.mag
+ - name: magic/MAGNET_3.mag
+   method: copy
+   source:
+     - name: magic/MAGNET_3.mag
+ - name: magic/MAGNET_3lk.mag
+   method: copy
+   source:
+     - name: magic/MAGNET_3lk.mag
+ - name: magic/magnet1.mag
+   method: copy
+   source:
+     - name: magic/magnet1.mag
+ - name: magic/REFLECT_1.mag
+   method: copy
+   source:
+     - name: magic/REFLECT_1.mag
+ - name: magic/REFLECT_1lk.mag
+   method: copy
+   source:
+     - name: magic/REFLECT_1lk.mag
+ - name: magic/REFLECT_2.mag
+   method: copy
+   source:
+     - name: magic/REFLECT_2.mag
+ - name: magic/REFLECT_2lk.mag
+   method: copy
+   source:
+     - name: magic/REFLECT_2lk.mag
+ - name: magic/REFLECT_3.mag
+   method: copy
+   source:
+     - name: magic/REFLECT_3.mag
+ - name: magic/REFLECT_3lk.mag
+   method: copy
+   source:
+     - name: magic/REFLECT_3lk.mag
+ - name: magic/reflect1.mag
+   method: copy
+   source:
+     - name: magic/reflect1.mag
+# MAP
+ - name: map/eh02.map
+   method: copy
+   source:
+     - name: map/eh02.map
+ - name: map/eh03.map
+   method: copy
+   source:
+     - name: map/eh03.map
+# Menu
+ - name: menu/us/camp.2ld
+   method: copy
+   source:
+     - name: menu/us/camp.2ld
+ - name: menu/us/save.2ld
+   method: copy
+   source:
+     - name: menu/us/save.2ld
+ - name: menu/us/title.2ld
+   method: copy
+   source:
+     - name: menu/us/title.2ld
+# MSG
+ - name: msg/us/eh.bar
+   method: copy
+   source:
+     - name: msg/us/eh.bar
+ - name: msg/us/fontimage.bar
+   method: copy
+   source:
+     - name: msg/us/fontimage.bar
+ - name: msg/us/fontinfo.bar
+   method: copy
+   source:
+     - name: msg/us/fontinfo.bar
+ - name: msg/us/sys.bar
+   method: copy
+   source:
+     - name: msg/us/sys.bar
+ - name: msg/us/tt.bar
+   method: copy
+   source:
+     - name: msg/us/tt.bar
+# MSN
+ - name: msn/us/EH_NOKILL.bar
+   method: copy
+   source:
+     - name: msn/us/EH_NOKILL.bar
+ - name: msn/us/EH03_INTRO1.bar
+   method: copy
+   source:
+     - name: msn/us/EH03_INTRO1.bar
+ - name: msn/us/EH03_INTRO2.bar
+   method: copy
+   source:
+     - name: msn/us/EH03_INTRO2.bar
+ - name: msn/us/TT03_MS601.bar
+   method: copy
+   source:
+     - name: msn/us/TT03_MS601.bar
+ - name: msn/us/TT04_MS107.bar
+   method: copy
+   source:
+     - name: msn/us/TT04_MS107.bar
+ - name: msn/us/TT04_MS301.bar
+   method: copy
+   source:
+     - name: msn/us/TT04_MS301.bar
+ - name: msn/us/TT05_MS403.bar
+   method: copy
+   source:
+     - name: msn/us/TT05_MS403.bar
+ - name: msn/us/TT05_MS404.bar
+   method: copy
+   source:
+     - name: msn/us/TT05_MS404.bar
+ - name: msn/us/TT08_MS701.bar
+   method: copy
+   source:
+     - name: msn/us/TT08_MS701.bar
+ - name: msn/us/TT10_WORK_TIMBER.bar
+   method: copy
+   source:
+     - name: msn/us/TT10_WORK_TIMBER.bar
+ - name: msn/us/TT12_WORK_BOX.bar
+   method: copy
+   source:
+     - name: msn/us/TT12_WORK_BOX.bar
+ - name: msn/us/TT25_MS801.bar
+   method: copy
+   source:
+     - name: msn/us/TT25_MS801.bar
+ - name: msn/us/TT32_MS304.bar
+   method: copy
+   source:
+     - name: msn/us/TT32_MS304.bar
+ - name: msn/us/TT32_MS305.bar
+   method: copy
+   source:
+     - name: msn/us/TT32_MS305.bar
+# OBJ
+ - name: obj/B_EX100.mdlx
+   method: copy
+   source:
+     - name: obj/B_EX100.mdlx
+ - name: obj/B_EX100.mset
+   method: copy
+   source:
+     - name: obj/B_EX100.mset
+ - name: obj/B_EX110.mset
+   method: copy
+   source:
+     - name: obj/B_EX110.mset
+ - name: obj/F_BARRICADE_03.a.us
+   method: copy
+   source:
+     - name: obj/F_BARRICADE_03.a.us
+ - name: obj/F_BARRICADE_03.mdlx
+   method: copy
+   source:
+     - name: obj/F_BARRICADE_03.mdlx
+ - name: obj/F_EX030.mset
+   method: copy
+   source:
+     - name: obj/F_EX030.mset
+ - name: obj/F_EX030_LM.mdlx
+   method: copy
+   source:
+     - name: obj/F_EX030_LM.mdlx
+ - name: obj/F_EX030_TT.mset
+   method: copy
+   source:
+     - name: obj/F_EX030_TT.mset
+ - name: obj/F_EX260.a.us
+   method: copy
+   source:
+     - name: obj/F_EX260.a.us
+ - name: obj/F_TT010.mset
+   method: copy
+   source:
+     - name: obj/F_TT010.mset
+ - name: obj/F_TT010_AL.mdlx
+   multi:
+   - name: obj/F_TT010_CA.mdlx
+   - name: obj/F_TT010_HE.mdlx
+   - name: obj/F_TT010_NM.mdlx
+   - name: obj/F_TT010_SORA.mdlx
+   method: copy
+   source:
+     - name: obj/F_TT010_AL.mdlx
+ - name: obj/F_TT010_SORA.mset
+   method: copy
+   source:
+     - name: obj/F_TT010_SORA.mset
+ - name: obj/F_TT020.mdlx
+   method: copy
+   source:
+     - name: obj/F_TT020.mdlx
+ - name: obj/H_CM050_TSURU.a.us
+   method: copy
+   source:
+     - name: obj/H_CM050_TSURU.a.us
+ - name: obj/H_CM050_TSURU.mdlx
+   method: copy
+   source:
+     - name: obj/H_CM050_TSURU.mdlx
+ - name: obj/H_CM050_TSURU.mset
+   method: copy
+   source:
+     - name: obj/H_CM050_TSURU.mset
+ - name: obj/M_EX420.mdlx
+   method: copy
+   source:
+     - name: obj/M_EX420.mdlx
+ - name: obj/M_EX420.mset
+   method: copy
+   source:
+     - name: obj/M_EX420.mset
+ - name: obj/M_EX420_NM.mdlx
+   method: copy
+   source:
+     - name: obj/M_EX420_NM.mdlx
+ - name: obj/N_EX570_BTL.mdlx
+   method: copy
+   source:
+     - name: obj/N_EX570_BTL.mdlx
+ - name: obj/N_EX600_BTL.mdlx
+   method: copy
+   source:
+     - name: obj/N_EX600_BTL.mdlx
+ - name: obj/N_EX610_BTL.mdlx
+   method: copy
+   source:
+     - name: obj/N_EX610_BTL.mdlx
+ - name: obj/N_EX940_BTL.mdlx
+   method: copy
+   source:
+     - name: obj/N_EX940_BTL.mdlx
+ - name: obj/N_HB040_BTL.a.us
+   method: copy
+   source:
+     - name: obj/N_HB040_BTL.a.us
+ - name: obj/N_HB040_BTL.mdlx
+   method: copy
+   source:
+     - name: obj/N_HB040_BTL.mdlx
+ - name: obj/N_HB040_BTL.mset
+   method: copy
+   source:
+     - name: obj/N_HB040_BTL.mset
+ - name: obj/P_AL010.a.us
+   method: copy
+   source:
+     - name: obj/P_AL010.a.us
+ - name: obj/P_AL010.mdlx
+   method: copy
+   source:
+     - name: obj/P_AL010.mdlx
+ - name: obj/P_AL010.mset
+   method: copy
+   source:
+     - name: obj/P_AL010.mset
+ - name: obj/P_EX020.a.us
+   method: copy
+   source:
+     - name: obj/P_EX020.a.us
+ - name: obj/P_EX020.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX020.mdlx
+ - name: obj/P_EX020.mset
+   method: copy
+   source:
+     - name: obj/P_EX020.mset
+ - name: obj/P_EX030.a.us
+   method: copy
+   source:
+     - name: obj/P_EX030.a.us
+ - name: obj/P_EX030.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX030.mdlx
+ - name: obj/P_EX030.mset
+   method: copy
+   source:
+     - name: obj/P_EX030.mset
+ - name: obj/P_EX100.a.us
+   method: copy
+   source:
+     - name: obj/P_EX100.a.us
+ - name: obj/P_EX100.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX100.mdlx
+ - name: obj/P_EX100.mset
+   method: copy
+   source:
+     - name: obj/P_EX100.mset
+ - name: obj/P_EX100_BTLF.a.us
+   method: copy
+   source:
+     - name: obj/P_EX100_BTLF.a.us
+ - name: obj/P_EX100_BTLF.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX100_BTLF.mdlx
+ - name: obj/P_EX100_KH1F.a.us
+   method: copy
+   source:
+     - name: obj/P_EX100_KH1F.a.us
+ - name: obj/P_EX100_KH1F.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX100_KH1F.mdlx
+ - name: obj/P_EX100_KH1F.mset
+   method: copy
+   source:
+     - name: obj/P_EX100_KH1F.mset
+ - name: obj/P_EX100_MAGF.a.us
+   method: copy
+   source:
+     - name: obj/P_EX100_MAGF.a.us
+ - name: obj/P_EX100_MAGF.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX100_MAGF.mdlx
+ - name: obj/P_EX100_MAGF.mset
+   method: copy
+   source:
+     - name: obj/P_EX100_MAGF.mset
+ - name: obj/P_EX100_ULTF.a.us
+   method: copy
+   source:
+     - name: obj/P_EX100_ULTF.a.us
+ - name: obj/P_EX100_ULTF.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX100_ULTF.mdlx
+ - name: obj/P_EX100_ULTF.mset
+   method: copy
+   source:
+     - name: obj/P_EX100_ULTF.mset
+ - name: obj/P_EX101.a.us
+   method: copy
+   source:
+     - name: obj/P_EX101.a.us
+ - name: obj/P_EX101.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX101.mdlx
+ - name: obj/P_EX101_BTLF.a.us
+   method: copy
+   source:
+     - name: obj/P_EX101_BTLF.a.us
+ - name: obj/P_EX101_BTLF.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX101_BTLF.mdlx
+ - name: obj/P_EX120.a.us
+   method: copy
+   source:
+     - name: obj/P_EX120.a.us
+ - name: obj/P_EX120.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX120.mdlx
+ - name: obj/P_EX220.a.us
+   method: copy
+   source:
+     - name: obj/P_EX220.a.us
+ - name: obj/P_EX220.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX220.mdlx
+ - name: obj/P_EX220.mset
+   method: copy
+   source:
+     - name: obj/P_EX220.mset
+ - name: obj/P_EX350.a.us
+   method: copy
+   source:
+     - name: obj/P_EX350.a.us
+ - name: obj/P_EX350.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX350.mdlx
+ - name: obj/P_EX350.mset
+   method: copy
+   source:
+     - name: obj/P_EX350.mset
+ - name: obj/P_EX360.a.us
+   method: copy
+   source:
+     - name: obj/P_EX360.a.us
+ - name: obj/P_EX360.mdlx
+   method: copy
+   source:
+     - name: obj/P_EX360.mdlx
+ - name: obj/P_EX360.mset
+   method: copy
+   source:
+     - name: obj/P_EX360.mset
+ - name: obj/WM_SYMBOL_LM.mdlx
+   method: copy
+   source:
+     - name: obj/WM_SYMBOL_LM.mdlx
+ - name: obj/WM_SYMBOL_LM.mset
+   method: copy
+   source:
+     - name: obj/WM_SYMBOL_LM.mset
+ - name: obj/W_EX010.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010.a.us
+ - name: obj/W_EX010.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010.mdlx
+ - name: obj/W_EX010.mset
+   method: copy
+   source:
+     - name: obj/W_EX010.mset
+ - name: obj/W_EX010_10.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_10.mdlx
+ - name: obj/W_EX010_20.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_20.a.us
+ - name: obj/W_EX010_20.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_20.mdlx
+ - name: obj/W_EX010_30.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_30.a.us
+ - name: obj/W_EX010_30.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_30.mdlx
+ - name: obj/W_EX010_40.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_40.a.us
+ - name: obj/W_EX010_40.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_40.mdlx
+ - name: obj/W_EX010_50.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_50.a.us
+ - name: obj/W_EX010_50.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_50.mdlx
+ - name: obj/W_EX010_60.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_60.a.us
+ - name: obj/W_EX010_60.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_60.mdlx
+ - name: obj/W_EX010_70.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_70.a.us
+ - name: obj/W_EX010_70.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_70.mdlx
+ - name: obj/W_EX010_80.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_80.a.us
+ - name: obj/W_EX010_80.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_80.mdlx
+ - name: obj/W_EX010_90.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_90.a.us
+ - name: obj/W_EX010_90.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_90.mdlx
+ - name: obj/W_EX010_A0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_A0.a.us
+ - name: obj/W_EX010_A0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_A0.mdlx
+ - name: obj/W_EX010_B0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_B0.a.us
+ - name: obj/W_EX010_B0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_B0.mdlx
+ - name: obj/W_EX010_BTLF_L.mset
+   method: copy
+   source:
+     - name: obj/W_EX010_BTLF_L.mset
+ - name: obj/W_EX010_BTLF_R.mset
+   method: copy
+   source:
+     - name: obj/W_EX010_BTLF_R.mset
+ - name: obj/W_EX010_C0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_C0.a.us
+ - name: obj/W_EX010_C0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_C0.mdlx
+ - name: obj/W_EX010_D0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_D0.a.us
+ - name: obj/W_EX010_D0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_D0.mdlx
+ - name: obj/W_EX010_E0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_E0.a.us
+ - name: obj/W_EX010_E0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_E0.mdlx
+ - name: obj/W_EX010_F0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_F0.a.us
+ - name: obj/W_EX010_F0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_F0.mdlx
+ - name: obj/W_EX010_G0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_G0.a.us
+ - name: obj/W_EX010_G0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_G0.mdlx
+ - name: obj/W_EX010_H0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_H0.a.us
+ - name: obj/W_EX010_H0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_H0.mdlx
+ - name: obj/W_EX010_HTLF_L.mset
+   method: copy
+   source:
+     - name: obj/W_EX010_HTLF_L.mset
+ - name: obj/W_EX010_HTLF_R.mset
+   method: copy
+   source:
+     - name: obj/W_EX010_HTLF_R.mset
+ - name: obj/W_EX010_J0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_J0.a.us
+ - name: obj/W_EX010_J0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_J0.mdlx
+ - name: obj/W_EX010_K0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_K0.a.us
+ - name: obj/W_EX010_K0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_K0.mdlx
+ - name: obj/W_EX010_KH1F_L.mset
+   method: copy
+   source:
+     - name: obj/W_EX010_KH1F_L.mset
+ - name: obj/W_EX010_KH1F.mset
+   method: copy
+   source:
+     - name: obj/W_EX010_KH1F.mset
+ - name: obj/W_EX010_M0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_M0.a.us
+ - name: obj/W_EX010_M0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_M0.mdlx
+ - name: obj/W_EX010_N0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_N0.a.us
+ - name: obj/W_EX010_N0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_N0.mdlx
+ - name: obj/W_EX010_R0.a.us
+   method: copy
+   source:
+     - name: obj/W_EX010_R0.a.us
+ - name: obj/W_EX010_R0.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_R0.mdlx
+ - name: obj/W_EX200.a.us
+   method: copy
+   source:
+     - name: obj/W_EX200.a.us
+ - name: obj/W_EX200.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX200.mdlx
+ - name: obj/W_EX200.mset
+   method: copy
+   source:
+     - name: obj/W_EX200.mset
+# Save Image
+ - name: save_image/en/KHIIFM.png
+   method: copy
+   source:
+     - name: save_image/en/KHIIFM.png
+# Vagstream
+ - name: vagstream/GM1_Asteroid.win32.scd
+   method: copy
+   source:
+     - name: vagstream/GM1_Asteroid.win32.scd
+ - name: vagstream/GM2_Highway.win32.scd
+   method: copy
+   source:
+     - name: vagstream/GM2_Highway.win32.scd
+ - name: vagstream/GM3_Cloud.win32.scd
+   method: copy
+   source:
+     - name: vagstream/GM3_Cloud.win32.scd
+ - name: vagstream/GM4_Floating.win32.scd
+   method: copy
+   source:
+     - name: vagstream/GM4_Floating.win32.scd
+ - name: vagstream/GM5_Senkan.win32.scd
+   method: copy
+   source:
+     - name: vagstream/GM5_Senkan.win32.scd
+ - name: vagstream/Title.win32.scd
+   method: copy
+   source:
+     - name: vagstream/Title.win32.scd
+# Voice
+ - name: voice/us/battle/al0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/al0_sora.win32.scd
+ - name: voice/us/battle/bb0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/bb0_sora.win32.scd
+ - name: voice/us/battle/ca0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/ca0_sora.win32.scd
+ - name: voice/us/battle/dc0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/dc0_sora.win32.scd
+ - name: voice/us/battle/eh0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/eh0_sora.win32.scd
+ - name: voice/us/battle/hb0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/hb0_sora.win32.scd
+ - name: voice/us/battle/he0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/he0_sora.win32.scd
+ - name: voice/us/battle/lm0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/lm0_sora.win32.scd
+ - name: voice/us/battle/mu0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/mu0_sora.win32.scd
+ - name: voice/us/battle/nm0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/nm0_sora.win32.scd
+ - name: voice/us/battle/po0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/po0_sora.win32.scd
+ - name: voice/us/battle/tr0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/tr0_sora.win32.scd
+ - name: voice/us/battle/tt0_roxas.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/tt0_roxas.win32.scd
+ - name: voice/us/battle/tt0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/tt0_sora.win32.scd
+ - name: voice/us/battle/wi0_sora.win32.scd
+   method: copy
+   source:
+     - name: voice/us/battle/wi0_sora.win32.scd
