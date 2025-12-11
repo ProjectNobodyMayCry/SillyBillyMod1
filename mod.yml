@@ -1431,3 +1431,196 @@ assets:
    method: copy
    source:
      - name: remastered/field2d/us/zz0field.2dd/US_zz0field_2dd3.png
+# Magic
+ - name: remastered/magic/BLIZZARD_1.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/BLIZZARD_1.mag/-0.dds
+ - name: remastered/magic/BLIZZARD_1lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/BLIZZARD_1lk.mag/-0.dds
+ - name: remastered/magic/BLIZZARD_2.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/BLIZZARD_2.mag/-0.dds
+ - name: remastered/magic/BLIZZARD_2lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/BLIZZARD_2lk.mag/-0.dds
+ - name: remastered/magic/BLIZZARD_3.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/BLIZZARD_3.mag/-0.dds
+ - name: remastered/magic/BLIZZARD_3lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/BLIZZARD_3lk.mag/-0.dds
+ - name: remastered/magic/blizzard1.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/blizzard1.mag/-0.dds
+ - name: remastered/magic/FIRE_1.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/FIRE_1.mag/-0.dds
+ - name: remastered/magic/FIRE_1lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/FIRE_1lk.mag/-0.dds
+ - name: remastered/magic/FIRE_2.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/FIRE_2.mag/-0.dds
+ - name: remastered/magic/FIRE_2lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/FIRE_2lk.mag/-0.dds
+ - name: remastered/magic/FIRE_3.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/FIRE_3.mag/-0.dds
+ - name: remastered/magic/FIRE_3lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/FIRE_3lk.mag/-0.dds
+ - name: remastered/magic/MAGNET_1.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_1.mag/-0.dds
+ - name: remastered/magic/MAGNET_1.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_1.mag/-1.dds
+ - name: remastered/magic/MAGNET_1lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_1lk.mag/-0.dds
+ - name: remastered/magic/MAGNET_1lk.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_1lk.mag/-1.dds
+ - name: remastered/magic/MAGNET_2.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_2.mag/-0.dds
+ - name: remastered/magic/MAGNET_2.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_2.mag/-1.dds
+ - name: remastered/magic/MAGNET_2lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_2lk.mag/-0.dds
+ - name: remastered/magic/MAGNET_2lk.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_2lk.mag/-1.dds
+ - name: remastered/magic/MAGNET_3.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_3.mag/-0.dds
+ - name: remastered/magic/MAGNET_3.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_3.mag/-1.dds
+ - name: remastered/magic/MAGNET_3lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_3lk.mag/-0.dds
+ - name: remastered/magic/MAGNET_3lk.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/MAGNET_3lk.mag/-1.dds
+ - name: remastered/magic/magnet1.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/magnet1.mag/-0.dds
+ - name: remastered/magic/magnet1.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/magnet1.mag/-1.dds
+ - name: remastered/magic/REFLECT_1.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_1.mag/-0.dds
+ - name: remastered/magic/REFLECT_1.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_1.mag/-1.dds
+ - name: remastered/magic/REFLECT_1.mag/-2.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_1.mag/-2.dds
+ - name: remastered/magic/REFLECT_1lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_1lk.mag/-0.dds
+ - name: remastered/magic/REFLECT_1lk.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_1lk.mag/-1.dds
+ - name: remastered/magic/REFLECT_1lk.mag/-2.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_1lk.mag/-2.dds
+ - name: remastered/magic/REFLECT_2.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_2.mag/-0.dds
+ - name: remastered/magic/REFLECT_2.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_2.mag/-1.dds
+ - name: remastered/magic/REFLECT_2.mag/-2.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_2.mag/-2.dds
+ - name: remastered/magic/REFLECT_2lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_2lk.mag/-0.dds
+ - name: remastered/magic/REFLECT_2lk.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_2lk.mag/-1.dds
+ - name: remastered/magic/REFLECT_2lk.mag/-2.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_2lk.mag/-2.dds
+ - name: remastered/magic/REFLECT_3.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_3.mag/-0.dds
+ - name: remastered/magic/REFLECT_3.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_3.mag/-1.dds
+ - name: remastered/magic/REFLECT_3.mag/-2.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_3.mag/-2.dds
+ - name: remastered/magic/REFLECT_3lk.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_3lk.mag/-0.dds
+ - name: remastered/magic/REFLECT_3lk.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_3lk.mag/-1.dds
+ - name: remastered/magic/REFLECT_3lk.mag/-2.dds
+   method: copy
+   source:
+     - name: remastered/magic/REFLECT_3lk.mag/-2.dds
+ - name: remastered/magic/reflect1.mag/-0.dds
+   method: copy
+   source:
+     - name: remastered/magic/reflect1.mag/-0.dds
+ - name: remastered/magic/reflect1.mag/-1.dds
+   method: copy
+   source:
+     - name: remastered/magic/reflect1.mag/-1.dds
+ - name: remastered/magic/reflect1.mag/-2.dds
+   method: copy
+   source:
+     - name: remastered/magic/reflect1.mag/-2.dds
