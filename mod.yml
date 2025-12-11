@@ -4296,7 +4296,6 @@ assets:
    source:
      - name: remastered/obj/P_EX100_MAGF.a.us/-9.dds
 # P_EX100_ULTF
- P_EX100_ULTF:
  - name: remastered/obj/P_EX100_ULTF.a.us/-0.dds
    method: copy
    source:
