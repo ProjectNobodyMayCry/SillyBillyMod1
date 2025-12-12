@@ -2,6 +2,37 @@ title: Nobody May Cry (Beta - Prologue)
 originalAuthor: Project NMC
 description: An Action Game-inspired Roxas Mod with completely overhauled gameplay and a "what-if" story where Roxas escapes Data Twilight Town and fights for his own survival.
 assets:
+# DLL
+ - name: dll/!KH2ModOptions.dll
+   method: copy
+   platform: pc
+   source:
+     - name: dll/!KH2ModOptions.dll
+ - name: dll/KH2_ModOptions.ini
+   method: copy
+   platform: pc
+   source:
+     - name: dll/KH2_ModOptions.ini
+ - name: dll/KH2Moose.dll
+   method: copy
+   platform: pc
+   source:
+     - name: dll/KH2Moose.dll
+ - name: dll/KH2Moose.ini
+   method: copy
+   platform: pc
+   source:
+     - name: dll/KH2Moose.ini
+ - name: dll/KH2Tweaks.dll
+   method: copy
+   platform: pc
+   source:
+     - name: dll/KH2Tweaks.dll
+ - name: dll/NeverlandFly.dll
+   method: copy
+   platform: pc
+   source:
+     - name: dll/NeverlandFly.dll
 # Source Files
  - name: 00battle.bin
    method: copy
@@ -59,37 +90,6 @@ assets:
    method: copy
    source:
      - name: libretto-po.bar
-# DLL
- - name: dll/!KH2ModOptions.dll
-   method: copy
-   platform: pc
-   source:
-     - name: dll/!KH2ModOptions.dll
- - name: dll/KH2_ModOptions.ini
-   method: copy
-   platform: pc
-   source:
-     - name: dll/KH2_ModOptions.ini
- - name: dll/KH2Moose.dll
-   method: copy
-   platform: pc
-   source:
-     - name: dll/KH2Moose.dll
- - name: dll/KH2Moose.ini
-   method: copy
-   platform: pc
-   source:
-     - name: dll/KH2Moose.ini
- - name: dll/KH2Tweaks.dll
-   method: copy
-   platform: pc
-   source:
-     - name: dll/KH2Tweaks.dll
- - name: dll/NeverlandFly.dll
-   method: copy
-   platform: pc
-   source:
-     - name: dll/NeverlandFly.dll
 # ARD
  - name: ard/us/al07.ard
    method: copy
