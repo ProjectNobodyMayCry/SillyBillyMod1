@@ -6034,35 +6034,35 @@ assets:
    source:
      - name: remastered/obj/W_EX200.mdlx/-0.dds
 # WM_SYMBOL_LM
- - name: remastered/obj/WM_SYMBOL_LM.a.us/-0.dds
+ - name: remastered/obj/WM_SYMBOL_LM.mdlx/-0.dds
    method: copy
    source:
-     - name: remastered/obj/WM_SYMBOL_LM.a.us/-0.dds
- - name: remastered/obj/WM_SYMBOL_LM.a.us/-1.dds
+     - name: remastered/obj/WM_SYMBOL_LM.mdlx/-0.dds
+ - name: remastered/obj/WM_SYMBOL_LM.mdlx/-1.dds
    method: copy
    source:
-     - name: remastered/obj/WM_SYMBOL_LM.a.us/-1.dds
- - name: remastered/obj/WM_SYMBOL_LM.a.us/-2.dds
+     - name: remastered/obj/WM_SYMBOL_LM.mdlx/-1.dds
+ - name: remastered/obj/WM_SYMBOL_LM.mdlx/-2.dds
    method: copy
    source:
-     - name: remastered/obj/WM_SYMBOL_LM.a.us/-2.dds
- - name: remastered/obj/WM_SYMBOL_LM.a.us/-3.dds
+     - name: remastered/obj/WM_SYMBOL_LM.mdlx/-2.dds
+ - name: remastered/obj/WM_SYMBOL_LM.mdlx/-3.dds
    method: copy
    source:
-     - name: remastered/obj/WM_SYMBOL_LM.a.us/-3.dds
- - name: remastered/obj/WM_SYMBOL_LM.a.us/-4.dds
+     - name: remastered/obj/WM_SYMBOL_LM.mdlx/-3.dds
+ - name: remastered/obj/WM_SYMBOL_LM.mdlx/-4.dds
    method: copy
    source:
-     - name: remastered/obj/WM_SYMBOL_LM.a.us/-4.dds
- - name: remastered/obj/WM_SYMBOL_LM.a.us/-5.dds
+     - name: remastered/obj/WM_SYMBOL_LM.mdlx/-4.dds
+ - name: remastered/obj/WM_SYMBOL_LM.mdlx/-5.dds
    method: copy
    source:
-     - name: remastered/obj/WM_SYMBOL_LM.a.us/-5.dds
- - name: remastered/obj/WM_SYMBOL_LM.a.us/-6.dds
+     - name: remastered/obj/WM_SYMBOL_LM.mdlx/-5.dds
+ - name: remastered/obj/WM_SYMBOL_LM.mdlx/-6.dds
    method: copy
    source:
-     - name: remastered/obj/WM_SYMBOL_LM.a.us/-6.dds
- - name: remastered/obj/WM_SYMBOL_LM.a.us/-7.dds
+     - name: remastered/obj/WM_SYMBOL_LM.mdlx/-6.dds
+ - name: remastered/obj/WM_SYMBOL_LM.mdlx/-7.dds
    method: copy
    source:
-     - name: remastered/obj/WM_SYMBOL_LM.a.us/-7.dds
+     - name: remastered/obj/WM_SYMBOL_LM.mdlx/-7.dds
