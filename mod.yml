@@ -60,11 +60,11 @@ assets:
    source:
      - name: libretto-po.bar
 # DLL
- - name: dll/!KH2ModOptions.dll
+ - name: dll/KH2ModOptions.dll
    method: copy
    platform: pc
    source:
-     - name: dll/!KH2ModOptions.dll
+     - name: dll/KH2ModOptions.dll
  - name: dll/KH2_ModOptions.ini
    method: copy
    platform: pc
