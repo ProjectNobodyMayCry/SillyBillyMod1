@@ -5774,14 +5774,6 @@ assets:
    method: copy
    source:
      - name: remastered/obj/W_EX010_G0.a.us/-1.dds
- - name: remastered/obj/W_EX010_G0.a.us/-10.dds
-   method: copy
-   source:
-     - name: remastered/obj/W_EX010_G0.a.us/-10.dds
- - name: remastered/obj/W_EX010_G0.a.us/-11.dds
-   method: copy
-   source:
-     - name: remastered/obj/W_EX010_G0.a.us/-11.dds
  - name: remastered/obj/W_EX010_G0.a.us/-2.dds
    method: copy
    source:
