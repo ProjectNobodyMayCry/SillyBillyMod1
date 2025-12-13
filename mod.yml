@@ -567,6 +567,10 @@ assets:
    method: copy
    source:
      - name: obj/B_EX100.mset
+ - name: obj/B_EX110.mdlx
+   method: copy
+   source:
+     - name: obj/B_EX110.mdlx
  - name: obj/B_EX110.mset
    method: copy
    source:
